@@ -1,11 +1,9 @@
 import Image from "next/image";
 
 const Film: React.FC<{
-  link: string;
   img: string;
   title: string;
-  rating?: string;
-}> = ({ link, img, title, rating }) => {
+}> = ({ img, title }) => {
   return (
     <div className="flex-1 border border-black bg-white m-auto">
       <div className="relative w-full h-[430px] mx-auto border border-black bg-black cursor-pointer">

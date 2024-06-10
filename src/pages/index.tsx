@@ -1,54 +1,65 @@
+import { useEffect, useState } from "react";
 import dayjs, { Dayjs } from "dayjs";
-import { DemoContainer, DemoItem } from "@mui/x-date-pickers/internals/demo";
 import { AdapterDayjs } from "@mui/x-date-pickers/AdapterDayjs";
 import { LocalizationProvider } from "@mui/x-date-pickers/LocalizationProvider";
 import { DateCalendar } from "@mui/x-date-pickers/DateCalendar";
 
+import { IFilm } from "@/types/IFilm";
 import MetaHead from "@/components/header/MetaHead";
-import Film from "@/components/Film";
+import FilmContainer from "@/components/FilmContainer";
+import DayLogo from "@/components/DatePicker/DayLogo";
 
 import moviesData from "../data/movies.json";
-import { useEffect, useState } from "react";
 
 const Add: React.FC = () => {
-  const [value, setValue] = useState<Dayjs>(dayjs("2023-05-31"));
-  const [films, setFilms] = useState<any[]>([]);
+  const [selectedDate, setSelectedDate] = useState<Dayjs>(dayjs("2023-06-01"));
+  const [films, setFilms] = useState<IFilm[]>([]);
 
   useEffect(() => {
-    const formattedDate = value.format("YYYY-MM-DD");
+    const formattedDate = selectedDate.format("YYYY-MM-DD");
 
-    if (moviesData[formattedDate]) {
-      setFilms(moviesData[formattedDate]);
-    } else {
-      setFilms([]);
-    }
-  }, [value]);
+    console.log("REFRESH ", formattedDate);
+
+    const newFilms = moviesData[formattedDate] || [];
+
+    const noDuplicates = newFilms.filter(
+      (film: IFilm, index: number, self: IFilm[]) =>
+        index ===
+        self.findIndex(
+          (m: IFilm) =>
+            m.name === film.name || m.posterImage === film.posterImage
+        )
+    );
+
+    setFilms(noDuplicates);
+  }, [selectedDate]);
 
   return (
     <div className="flex min-h-screen w-screen flex-col pb-40">
       <MetaHead />
 
-      <LocalizationProvider dateAdapter={AdapterDayjs}>
-        <DateCalendar
-          value={value}
-          onChange={(newValue) => setValue(newValue)}
-        />
-      </LocalizationProvider>
-
-      <div className="flex-1 mx-auto my-auto">
-        {films.length ? (
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2 sm:gap-8 my-8">
-            {films.map((film) => {
-              return (
-                <Film
-                  key={`${film.name}_${film.posterImage}`}
-                  title={film.name}
-                  link={"#"}
-                  img={`https://indy-systems.imgix.net/${film.posterImage}`}
-                />
-              );
-            })}
+      <div className="flex flex-col mx-auto my-auto mt-10 w-4/5">
+        <div className="flex flex-row mx-auto justify-between">
+          <div className="flex">
+            <p className="my-auto text-lg">gft forever</p>
           </div>
+
+          <div>
+            <LocalizationProvider dateAdapter={AdapterDayjs}>
+              <DateCalendar
+                value={selectedDate}
+                onChange={(newValue) => setSelectedDate(newValue)}
+                views={["day"]}
+                slots={{
+                  day: DayLogo,
+                }}
+              />
+            </LocalizationProvider>
+          </div>
+        </div>
+
+        {films.length ? (
+          <FilmContainer films={films} />
         ) : (
           <p className="m-auto">no films found</p>
         )}
