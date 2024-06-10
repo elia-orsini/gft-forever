@@ -41,7 +41,7 @@ const fetchMoviesForDate = async (date) => {
       date: `${formattedDate}`,
     },
     query:
-      "query ($date: String, $ids: [ID], $movieId: ID, $movieIds: [ID], $titleClassId: ID, $titleClassIds: [ID], $siteIds: [ID], $everyShowingBadgeIds: [ID], $anyShowingBadgeIds: [ID], $resultVersion: String) {\n  showingsForDate(\n    date: $date\n    ids: $ids\n    movieId: $movieId\n    movieIds: $movieIds\n    titleClassId: $titleClassId\n    titleClassIds: $titleClassIds\n    siteIds: $siteIds\n    everyShowingBadgeIds: $everyShowingBadgeIds\n    anyShowingBadgeIds: $anyShowingBadgeIds\n    resultVersion: $resultVersion\n  ) {\n    data {\n      movie {\n        name\ndirectedBy\nreleaseDate\nposterImage\n      }\n    }\n  }\n}\n",
+      "query ($date: String, $ids: [ID], $movieId: ID, $movieIds: [ID], $titleClassId: ID, $titleClassIds: [ID], $siteIds: [ID], $everyShowingBadgeIds: [ID], $anyShowingBadgeIds: [ID], $resultVersion: String) {\n  showingsForDate(\n    date: $date\n    ids: $ids\n    movieId: $movieId\n    movieIds: $movieIds\n    titleClassId: $titleClassId\n    titleClassIds: $titleClassIds\n    siteIds: $siteIds\n    everyShowingBadgeIds: $everyShowingBadgeIds\n    anyShowingBadgeIds: $anyShowingBadgeIds\n    resultVersion: $resultVersion\n  ) {\n    data {\n      movie {\n        name\ndirectedBy\nreleaseDate\nposterImage\ntrailerYoutubeId\ntmdbId\n}\n}\n}\n}\n",
   });
 
   let config = {
