@@ -12,13 +12,11 @@ import DayLogo from "@/components/DatePicker/DayLogo";
 import moviesData from "../data/movies.json";
 
 const Add: React.FC = () => {
-  const [selectedDate, setSelectedDate] = useState<Dayjs>(dayjs("2023-06-01"));
+  const [selectedDate, setSelectedDate] = useState<Dayjs>(dayjs());
   const [films, setFilms] = useState<IFilm[]>([]);
 
   useEffect(() => {
     const formattedDate = selectedDate.format("YYYY-MM-DD");
-
-    console.log("REFRESH ", formattedDate);
 
     const newFilms = moviesData[formattedDate] || [];
 
@@ -50,6 +48,10 @@ const Add: React.FC = () => {
                 value={selectedDate}
                 onChange={(newValue) => setSelectedDate(newValue)}
                 views={["day"]}
+                minDate={dayjs(Object.keys(moviesData)[0])}
+                maxDate={dayjs(
+                  Object.keys(moviesData)[Object.keys(moviesData).length - 1]
+                )}
                 slots={{
                   day: DayLogo,
                 }}

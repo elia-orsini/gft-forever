@@ -3,7 +3,7 @@ const sharp = require("sharp");
 const fs = require("fs");
 
 const startDate = new Date("2023-05-30");
-const today = new Date();
+const endDay = new Date().setDate(new Date().getDate() + 14);
 const outputFilename = "src/data/movies.json";
 
 async function base64Encode(url) {
@@ -88,6 +88,8 @@ const fetchMoviesForDate = async (date) => {
           directedBy: showing.movie.directedBy,
           releaseDate: showing.movie.releaseDate,
           posterImage: showing.movie.posterImage,
+          trailerYoutubeId: showing.movie.trailerYoutubeId,
+          tmdbId: showing.movie.tmdbId,
         };
       })
     );
@@ -111,7 +113,7 @@ const main = async () => {
   }
 
   let currentDate = startDate;
-  while (currentDate <= today) {
+  while (currentDate <= endDay) {
     const formattedDate = currentDate.toISOString().split("T")[0];
 
     if (moviesByDate.hasOwnProperty(formattedDate)) {
