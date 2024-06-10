@@ -14,6 +14,7 @@ const FilmContainer: React.FC<{
             title={film.name}
             director={film.directedBy}
             release={film.releaseDate}
+            trailerYoutubeId={film.trailerYoutubeId}
             img={`https://indy-systems.imgix.net/${film.posterImage}`}
           />
         );

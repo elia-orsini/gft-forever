@@ -7,26 +7,33 @@ const Film: React.FC<{
   title: string;
   director: string;
   release: string;
-}> = ({ img, title, director, release }) => {
+  trailerYoutubeId:string
+}> = ({ img, title, director, release, trailerYoutubeId }) => {
   const [reveal, setReveal] = useState<boolean>(false);
   return (
     <div className="flex-1 border border-black bg-white m-auto">
       <div className="relative w-full h-[430px] mx-auto cursor-pointer">
-        <Image
-          fill
-          objectFit="cover"
-          alt={`${title}_img_cover`}
-          src={img}
-          onLoadingComplete={() => setReveal(true)}
-        />
+        <a href={trailerYoutubeId ? `https://www.youtube.com/watch?v=${trailerYoutubeId}` : '#'} target='_blank'>
+          <Image
+            fill
+            objectFit="cover"
+            alt={`${title}_img_cover`}
+            src={img}
+            onLoadingComplete={() => setReveal(true)}
+          />
+        </a>
 
-        <div className={`flex w-full h-full bg-black text-white ${reveal ? "hidden" : "display"}`}>
+        <div
+          className={`flex w-full h-full bg-black text-white ${
+            reveal ? "hidden" : "display"
+          }`}
+        >
           <p className="m-auto">loading ..</p>
         </div>
       </div>
 
       <p className="w-72 h-10 font-bold text-center text-sm uppercase mt-2 tracking-tight">
-        {title.slice(0,60)}{" "}
+        {title.slice(0, 60)}{" "}
         <span className="font-normal ml-1 text-xs">
           {`(`}
           {release && dayjs(release).year()}
