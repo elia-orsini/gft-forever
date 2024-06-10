@@ -36,13 +36,13 @@ const Add: React.FC = () => {
     <div className="flex min-h-screen w-screen flex-col pb-40">
       <MetaHead />
 
-      <div className="flex flex-col mx-auto my-auto mt-10 w-4/5">
-        <div className="flex flex-row mx-auto justify-between">
+      <div className="flex flex-col mx-auto my-auto mt-10 w-full">
+        <div className="flex flex-col sm:flex-row mx-auto justify-between">
           <div className="flex">
-            <p className="my-auto text-lg">gft forever</p>
+            <p className="my-auto text-[30px] sm:pr-40">gft forever !!!!</p>
           </div>
 
-          <div>
+          <div className="mx-auto">
             <LocalizationProvider dateAdapter={AdapterDayjs}>
               <DateCalendar
                 value={selectedDate}

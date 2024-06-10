@@ -3,4 +3,6 @@ export interface IFilm {
   directedBy: string;
   releaseDate: string;
   posterImage: string;
+  trailerYoutubeId: string;
+  tmdbId: string;
 }
