@@ -7,13 +7,26 @@ const Film: React.FC<{
   title: string;
   director: string;
   release: string;
-  trailerYoutubeId:string
+  trailerYoutubeId: string;
 }> = ({ img, title, director, release, trailerYoutubeId }) => {
   const [reveal, setReveal] = useState<boolean>(false);
   return (
     <div className="flex-1 border border-black bg-white m-auto">
       <div className="relative w-full h-[430px] mx-auto cursor-pointer">
-        <a href={trailerYoutubeId ? `https://www.youtube.com/watch?v=${trailerYoutubeId}` : '#'} target='_blank'>
+        {trailerYoutubeId ? (
+          <a
+            href={`https://www.youtube.com/watch?v=${trailerYoutubeId}`}
+            target="_blank"
+          >
+            <Image
+              fill
+              objectFit="cover"
+              alt={`${title}_img_cover`}
+              src={img}
+              onLoadingComplete={() => setReveal(true)}
+            />
+          </a>
+        ) : (
           <Image
             fill
             objectFit="cover"
@@ -21,7 +34,7 @@ const Film: React.FC<{
             src={img}
             onLoadingComplete={() => setReveal(true)}
           />
-        </a>
+        )}
 
         <div
           className={`flex w-full h-full bg-black text-white ${
