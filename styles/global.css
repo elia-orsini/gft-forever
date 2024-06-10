@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+      font-family: CargoDia;
+      font-weight: 400;
+      src: url(/fonts/cargo-dia/CargoDiatype-Regular.woff2) format("woff2");
+    }
+    @font-face {
+      font-family: CargoDia;
+      font-weight: 500;
+      src: url(/fonts/cargo-dia/CargoDiatype-Bold.woff2) format("woff2");
+    }
+  }
+  
