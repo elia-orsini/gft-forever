@@ -10,6 +10,7 @@ import FilmContainer from "@/components/FilmContainer";
 import DayLogo from "@/components/DatePicker/DayLogo";
 
 import moviesData from "../data/movies.json";
+import Image from "next/image";
 
 const Add: React.FC = () => {
   const [selectedDate, setSelectedDate] = useState<Dayjs>(dayjs());
@@ -37,12 +38,15 @@ const Add: React.FC = () => {
       <MetaHead />
 
       <div className="flex flex-col mx-auto my-auto mt-10 w-full">
-        <div className="flex flex-col sm:flex-row mx-auto justify-between">
-          <div className="flex">
-            <p className="my-auto text-[30px] sm:pr-40">gft forever !!!!</p>
+        <div className="flex flex-col w-full mx-auto">
+          <div className="flex flex-col sm:flex-row sm:w-4/5 sm:mx-auto sm:justify-between">
+            <div className="flex relative w-64 h-40">
+              <Image alt="gft-logo" src="/logo.png" fill objectFit="contain" />
+            </div>
+            <p className="my-auto mx-3 sm:ml-20 bg-pink-500 px-2 text-sm">an archive of all the films shown at gft in the past year.</p>
           </div>
 
-          <div className="mx-auto">
+          <div className="mx-auto mt-10 sm:mt-0">
             <LocalizationProvider dateAdapter={AdapterDayjs}>
               <DateCalendar
                 value={selectedDate}
