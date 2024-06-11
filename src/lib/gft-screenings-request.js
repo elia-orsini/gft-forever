@@ -3,7 +3,7 @@ const sharp = require("sharp");
 const fs = require("fs");
 
 const startDate = new Date("2023-05-30");
-const endDay = new Date().setDate(new Date().getDate() + 14);
+const endDay = new Date().setDate(new Date().getDate() + 18);
 const outputFilename = "src/data/movies.json";
 
 async function base64Encode(url) {
