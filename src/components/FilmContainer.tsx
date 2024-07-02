@@ -6,7 +6,7 @@ const FilmContainer: React.FC<{
   films: IFilm[];
 }> = ({ films }) => {
   return (
-    <div className="grid w-11/12 mx-auto grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8 sm:gap-8">
+    <div className="grid w-11/12 mx-auto grid-cols-2 sm:grid-cols-4 lg:grid-cols-6 gap-3 sm:gap-8">
       {films.map((film, i) => {
         return (
           <Film

@@ -5,7 +5,7 @@ const RotatingSVG: React.FC = () => {
       viewBox="5 5 90 90"
       width="80"
       height="80"
-      className="m-auto sm:m-0"
+      className="text-sm lowercase"
     >
       <path
         id="circlePath"
