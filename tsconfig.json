@@ -2,20 +2,12 @@
   "ts-node": {
     "compilerOptions": {
       "module": "commonjs",
-      "types": [
-        "react-dom",
-        "jest",
-        "node"
-      ]
+      "types": ["react-dom", "jest", "node"]
     }
   },
   "compilerOptions": {
     "target": "es5",
-    "lib": [
-      "dom",
-      "dom.iterable",
-      "esnext"
-    ],
+    "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
     "skipLibCheck": true,
     "strict": false,
@@ -34,9 +26,7 @@
       }
     ],
     "paths": {
-      "@/*": [
-        "./src/*"
-      ]
+      "@/*": ["./src/*"]
     },
     "strictNullChecks": true
   },
@@ -51,7 +41,5 @@
     "components/scans/ScanCatalogHeader",
     ".next/types/**/*.ts"
   ],
-  "exclude": [
-    "node_modules"
-  ]
+  "exclude": ["node_modules"]
 }

@@ -1,34 +1,9 @@
 const axios = require("axios");
-const sharp = require("sharp");
 const fs = require("fs");
 
 const startDate = new Date("2023-05-30");
 const endDay = new Date().setDate(new Date().getDate() + 18);
-const outputFilename = "src/data/movies.json";
-
-async function base64Encode(url) {
-  try {
-    const response = await fetch(url);
-
-    if (response.ok) {
-      const arrayBuffer = await response.arrayBuffer();
-
-      const resizedBuffer = await sharp(arrayBuffer)
-        .resize({ width: 600 })
-        .toBuffer();
-
-      const base64 = Buffer.from(resizedBuffer).toString("base64");
-      return base64;
-    } else {
-      throw new Error(
-        `Failed to fetch the image. Status code: ${response.status}`
-      );
-    }
-  } catch (error) {
-    console.error("Error:", error.message);
-    return null;
-  }
-}
+const outputFilename = "../data/movies.json";
 
 const wait = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 

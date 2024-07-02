@@ -57,7 +57,6 @@ const Add: React.FC = () => {
                 value={selectedDate}
                 onChange={(newValue) => setSelectedDate(newValue)}
                 views={["day"]}
-                defaultValue={dayjs()}
                 minDate={dayjs(Object.keys(moviesData)[0])}
                 maxDate={dayjs(
                   Object.keys(moviesData)[Object.keys(moviesData).length - 1]
