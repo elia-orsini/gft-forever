@@ -45,7 +45,7 @@ const Film: React.FC<{
         </div>
       </div>
 
-      <p className="h-10 font-bold text-center text-xs uppercase mt-2 tracking-tight">
+      <p className="h-10 font-bold text-center text-xs uppercase mt-2 tracking-tight overflow-scroll">
         {title.slice(0, 60)}{" "}
         <span className="font-normal ml-1 text-xs">
           {release && `(${dayjs(release).year()})`}
