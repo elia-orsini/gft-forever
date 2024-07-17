@@ -54,10 +54,6 @@ const fetchMoviesForDate = async (date) => {
 
     const movies = await Promise.all(
       response.data.data.showingsForDate.data.map(async (showing) => {
-        // const imageCover = await base64Encode(
-        //   `https://indy-systems.imgix.net/${showing.movie.posterImage}`
-        // );
-
         return {
           name: showing.movie.name,
           directedBy: showing.movie.directedBy,

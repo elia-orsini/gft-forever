@@ -1,9 +1,7 @@
-import { useEffect, useState } from "react";
-import dayjs, { Dayjs } from "dayjs";
+import dayjs from "dayjs";
 import { AdapterDayjs } from "@mui/x-date-pickers/AdapterDayjs";
 import { LocalizationProvider } from "@mui/x-date-pickers/LocalizationProvider";
 import { DateCalendar } from "@mui/x-date-pickers/DateCalendar";
-import { IFilm } from "@/types/IFilm";
 import moviesData from "../../data/movies.json";
 import DayLogo from "./DayLogo";
 
