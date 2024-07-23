@@ -4,7 +4,6 @@ import dayjs, { Dayjs } from "dayjs";
 import { IFilm } from "@/types/IFilm";
 import MetaHead from "@/components/header/MetaHead";
 import FilmContainer from "@/components/FilmContainer";
-import DayLogo from "@/components/DatePicker/DayLogo";
 import Header from "@/components/header/Header";
 
 import moviesData from "../data/movies.json";
@@ -12,10 +11,16 @@ import Footer from "@/components/footer/Footer";
 import Calendar from "@/components/DatePicker/Calendar";
 
 const Add: React.FC = () => {
-  const [selectedDate, setSelectedDate] = useState<Dayjs>(dayjs());
+  const [selectedDate, setSelectedDate] = useState<Dayjs | null>(null);
   const [films, setFilms] = useState<IFilm[]>([]);
 
   useEffect(() => {
+    setSelectedDate(dayjs(new Date()));
+  }, []);
+
+  useEffect(() => {
+    if (!selectedDate) return;
+
     const formattedDate = selectedDate.format("YYYY-MM-DD");
 
     const newFilms = moviesData[formattedDate] || [];

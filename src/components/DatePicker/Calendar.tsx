@@ -10,7 +10,6 @@ const Calendar = ({ selectedDate, setSelectedDate }) => {
     <LocalizationProvider dateAdapter={AdapterDayjs}>
       <DateCalendar
         value={selectedDate}
-        defaultValue={selectedDate}
         onChange={(newValue) => setSelectedDate(newValue)}
         views={["day"]}
         minDate={dayjs(Object.keys(moviesData)[0])}
