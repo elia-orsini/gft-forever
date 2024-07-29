@@ -11,7 +11,7 @@ import Footer from "@/components/footer/Footer";
 import Calendar from "@/components/DatePicker/Calendar";
 
 const Add: React.FC = () => {
-  const [selectedDate, setSelectedDate] = useState<Dayjs | null>(null);
+  const [selectedDate, setSelectedDate] = useState<Dayjs>(dayjs(new Date()));
   const [films, setFilms] = useState<IFilm[]>([]);
 
   useEffect(() => {
