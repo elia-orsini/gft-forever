@@ -51,7 +51,7 @@ const Add: React.FC = () => {
               setSelectedDate={setSelectedDate}
             />
 
-            <p className="text-xs sm:text-sm lg:text-lg my-auto">
+            <p className="text-xs sm:text-sm lg:text-lg my-auto mx-2 sm:mx-0">
               gft ( glasgow film theatre ) is an indipendent cinema in Glasgow,
               Scotland. <br />
               Because of its really good selection, I wanted to store every film
