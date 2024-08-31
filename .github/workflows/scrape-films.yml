@@ -26,7 +26,7 @@ jobs:
 
       - name: scrape films
         run: |
-          echo "$(node gft-screenings-request.js)" >> $GITHUB_ENV
+          npx ts-node gft-screenings-request.js
 
       - name: Check for changes
         id: check_changes
