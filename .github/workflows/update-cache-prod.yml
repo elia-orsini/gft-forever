@@ -1,0 +1,50 @@
+name: Scrape Films
+
+on:
+  repository_dispatch:
+    types: scrape-films
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 */3 * *'  # Runs every 3 days at midnight UTC
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          ref: main
+
+      - name: npm install
+        working-directory: ./
+        run: |
+          npm install --no-package-lock
+
+      - name: cd in folder
+        working-directory: ./
+        run: |
+          cd src/lib
+
+      - name: scrape films
+        run: |
+          echo "$(node gft-screenings-request.js)" >> $GITHUB_ENV
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          changes=$(git status --porcelain)
+          if [ -n "$changes" ]; then
+            echo "::set-output name=changed::true"
+          else
+            echo "::set-output name=changed::false"
+          fi
+
+      - name: commit changes if any
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add .
+          git commit -m 'github-bot: scrape films'
+          git push
