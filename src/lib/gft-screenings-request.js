@@ -1,8 +1,9 @@
 const axios = require("axios");
 const fs = require("fs");
+const cheerio = require("cheerio");
 
 const startDate = new Date("2023-05-30");
-const endDay = new Date().setDate(new Date().getDate() + 18);
+const endDay = new Date().setDate(new Date().getDate() + 20);
 const outputFilename = "../data/movies.json";
 
 const wait = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
@@ -54,13 +55,17 @@ const fetchMoviesForDate = async (date) => {
 
     const movies = await Promise.all(
       response.data.data.showingsForDate.data.map(async (showing) => {
+        const stats =
+          showing.movie.tmdbId && (await getFilmStats(showing.movie.tmdbId));
+
         return {
-          name: showing.movie.name,
+          name: stats?.name || showing.movie.name,
           directedBy: showing.movie.directedBy,
           releaseDate: showing.movie.releaseDate,
-          posterImage: showing.movie.posterImage,
+          posterImage: stats?.image || showing.movie.posterImage,
           trailerYoutubeId: showing.movie.trailerYoutubeId,
           tmdbId: showing.movie.tmdbId,
+          rating: stats?.rating,
         };
       })
     );
@@ -68,6 +73,34 @@ const fetchMoviesForDate = async (date) => {
     return movies;
   } catch (error) {
     console.error(`Error fetching data for ${formattedDate}:`, error.message);
+    return {};
+  }
+};
+
+const getFilmStats = async (tmdbId) => {
+  try {
+    const url = `https://letterboxd.com/tmdb/${tmdbId}/`;
+
+    const { data } = await axios.get(url);
+
+    const $ = cheerio.load(data);
+
+    const jsonLdScript = $('script[type="application/ld+json"]').html();
+
+    if (!jsonLdScript) return {};
+
+    const jsonData = JSON.parse(jsonLdScript.split(/\n/g)[2]);
+
+    const stats = {
+      title: jsonData.name,
+      rating: jsonData.aggregateRating.ratingValue,
+      genre: jsonData.genre,
+      image: jsonData.image,
+    };
+
+    return stats;
+  } catch (error) {
+    console.error(`Error fetching data from Letterboxd:`, error.message);
     return [];
   }
 };
@@ -88,16 +121,18 @@ const main = async () => {
     const formattedDate = currentDate.toISOString().split("T")[0];
 
     if (moviesByDate.hasOwnProperty(formattedDate)) {
-      console.log(`Data for ${formattedDate} already exists. Skipping...`);
-    } else {
-      const movies = await fetchMoviesForDate(currentDate);
-      moviesByDate[formattedDate] = movies;
-
-      console.log(`Fetched ${movies.length} movies for ${formattedDate}`);
-      saveMoviesToFile(moviesByDate);
-
-      await wait(500); // Wait for 5 seconds
+      console.log(
+        `Data for ${formattedDate} found (${moviesByDate[formattedDate].length} films)`
+      );
     }
+
+    const movies = await fetchMoviesForDate(currentDate);
+    moviesByDate[formattedDate] = movies;
+
+    console.log(`Fetched ${movies.length} movies for ${formattedDate}`);
+    saveMoviesToFile(moviesByDate);
+
+    await wait(500); // Wait for 5 seconds
 
     currentDate.setDate(currentDate.getDate() + 1);
   }

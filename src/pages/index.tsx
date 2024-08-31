@@ -15,10 +15,6 @@ const Add: React.FC = () => {
   const [films, setFilms] = useState<IFilm[]>([]);
 
   useEffect(() => {
-    setSelectedDate(dayjs(new Date()));
-  }, []);
-
-  useEffect(() => {
     if (!selectedDate) return;
 
     const formattedDate = selectedDate.format("YYYY-MM-DD");
@@ -45,19 +41,11 @@ const Add: React.FC = () => {
         <div className="flex flex-col w-full mx-auto">
           <Header />
 
-          <div className="flex flex-col sm:flex-row my-10 sm:mt-8 mx-auto sm:gap-x-4">
+          <div className="flex flex-col sm:flex-row mx-auto sm:gap-x-4">
             <Calendar
               selectedDate={selectedDate}
               setSelectedDate={setSelectedDate}
             />
-
-            <p className="text-xs sm:text-sm lg:text-lg my-auto mx-2 sm:mx-0">
-              gft ( glasgow film theatre ) is an indipendent cinema in Glasgow,
-              Scotland. <br />
-              Because of its really good selection, I wanted to store every film
-              screened there. <br />
-              Find here all the films screened in the past year.
-            </p>
           </div>
         </div>
 

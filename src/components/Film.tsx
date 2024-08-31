@@ -11,48 +11,33 @@ const Film: React.FC<{
 }> = ({ img, title, director, release, trailerYoutubeId }) => {
   const [reveal, setReveal] = useState<boolean>(false);
   return (
-    <div className="flex-1 border border-black bg-white">
+    <div className="flex-1 bg-white">
       <div className="relative aspect-6/9 mx-auto cursor-pointer">
-        {trailerYoutubeId ? (
-          <a
-            href={`https://www.youtube.com/watch?v=${trailerYoutubeId}`}
-            target="_blank"
-          >
-            <Image
-              fill
-              objectFit="cover"
-              alt={`${title}_img_cover`}
-              src={img}
-              onLoadingComplete={() => setReveal(true)}
-            />
-          </a>
-        ) : (
-          <Image
-            fill
-            objectFit="cover"
-            alt={`${title}_img_cover`}
-            src={img}
-            onLoadingComplete={() => setReveal(true)}
-          />
-        )}
+        <Image
+          fill
+          objectFit="cover"
+          alt={`${title}_img_cover`}
+          src={img}
+          onLoadingComplete={() => setReveal(true)}
+        />
 
         <div
           className={`flex w-full h-full bg-black text-white ${
             reveal ? "hidden" : "display"
           }`}
         >
-          <p className="m-auto">loading ..</p>
+          <p className="m-auto">...</p>
         </div>
       </div>
 
-      <p className="h-10 font-bold text-center text-xs uppercase mt-2 tracking-tight overflow-scroll">
-        {title.slice(0, 60)}{" "}
-        <span className="font-normal ml-1 text-xs">
-          {release && `(${dayjs(release).year()})`}
-        </span>
+      <p className="font-bold text-left text-xs uppercase mt-2 tracking-tight overflow-scroll">
+        {title.length > 30 ? `${title.slice(0, 30)}...` : `${title}`}
       </p>
-      <p className="w-full border-t p-1 border-black text-left text-xs uppercase tracking-tight">
-        {director ? `directed by ${director.slice(0, 25)}` : `-----`}
+
+      {release && <p className="text-2xs">{`${dayjs(release).year()}`}</p>}
+
+      <p className="w-full text-left text-2xs uppercase tracking-tight">
+        {director && `directed by ${director}`}
       </p>
     </div>
   );

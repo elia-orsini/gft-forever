@@ -14,6 +14,12 @@ module.exports = module.exports = {
         port: "",
         pathname: "/**",
       },
+      {
+        protocol: "https",
+        hostname: "a.ltrbxd.com",
+        port: "",
+        pathname: "/**",
+      },
     ],
   },
 };
