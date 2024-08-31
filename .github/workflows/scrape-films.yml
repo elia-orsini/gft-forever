@@ -23,6 +23,7 @@ jobs:
         working-directory: ./
         run: |
           cd src/lib
+          ls
 
       - name: scrape films
         run: |
