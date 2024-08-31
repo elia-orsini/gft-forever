@@ -7,7 +7,7 @@ const FilmContainer: React.FC<{
   films: IFilm[];
 }> = ({ films }) => {
   return (
-    <div className="grid w-11/12 mx-auto grid-cols-3 sm:grid-cols-4 lg:grid-cols-6 gap-3 sm:gap-8">
+    <div className="grid w-full mx-auto grid-cols-3 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 sm:gap-8">
       {films.map((film, i) => {
         return (
           <Film
@@ -16,6 +16,8 @@ const FilmContainer: React.FC<{
             director={film.directedBy}
             release={film.releaseDate}
             trailerYoutubeId={film.trailerYoutubeId}
+            tmdb={film.tmdbId}
+            rating={film.rating}
             img={
               film.posterImage.includes("http")
                 ? film.posterImage

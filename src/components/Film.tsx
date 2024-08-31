@@ -1,6 +1,7 @@
 import dayjs from "dayjs";
 import Image from "next/image";
 import { useState } from "react";
+import TextScroller from "./film/TextScroller";
 
 const Film: React.FC<{
   img: string;
@@ -8,11 +9,13 @@ const Film: React.FC<{
   director: string;
   release: string;
   trailerYoutubeId: string;
-}> = ({ img, title, director, release, trailerYoutubeId }) => {
+  rating: number;
+  tmdb: string;
+}> = ({ img, title, director, release, trailerYoutubeId, rating, tmdb }) => {
   const [reveal, setReveal] = useState<boolean>(false);
   return (
     <div className="flex-1 bg-white">
-      <div className="relative aspect-6/9 mx-auto cursor-pointer">
+      <div className="relative aspect-6/9 mx-auto">
         <Image
           fill
           objectFit="cover"
@@ -30,15 +33,47 @@ const Film: React.FC<{
         </div>
       </div>
 
-      <p className="font-bold text-left text-xs uppercase mt-2 tracking-tight overflow-scroll">
-        {title.length > 30 ? `${title.slice(0, 30)}...` : `${title}`}
-      </p>
+      <TextScroller
+        className="font-bold uppercase tracking-tight text-xs"
+        text={`${title}`}
+        uid={`${title}`}
+      />
 
-      {release && <p className="text-2xs">{`${dayjs(release).year()}`}</p>}
+      <div className="flex flex-row justify-between">
+        <p className="text-2xs">{rating ? `${rating}` : `-`}</p>
 
-      <p className="w-full text-left text-2xs uppercase tracking-tight">
-        {director && `directed by ${director}`}
-      </p>
+        {release && <p className="text-2xs">{`${dayjs(release).year()}`}</p>}
+      </div>
+
+      <TextScroller
+        className="uppercase tracking-tight text-xs"
+        text={`directed by ${director}`}
+        uid={`director_${title}`}
+      />
+
+      <div className="flex flex-row justify-between text-2xs">
+        {tmdb ? (
+          <a
+            href={`https://www.youtube.com/watch?v=${trailerYoutubeId}`}
+            target="_blank"
+            className="underline"
+          >
+            LETTERBOXD
+          </a>
+        ) : (
+          <span>-</span>
+        )}
+
+        {trailerYoutubeId && (
+          <a
+            href={`https://www.youtube.com/watch?v=${trailerYoutubeId}`}
+            target="_blank"
+            className="underline"
+          >
+            YOUTUBE
+          </a>
+        )}
+      </div>
     </div>
   );
 };

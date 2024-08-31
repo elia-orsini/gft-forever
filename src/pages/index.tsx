@@ -37,26 +37,26 @@ const Add: React.FC = () => {
     <div className="flex min-h-screen w-screen flex-col">
       <MetaHead />
 
-      <div className="flex flex-col mx-auto my-auto w-full">
-        <div className="flex flex-col w-full mx-auto">
-          <Header />
+      <div className="flex flex-col w-full mx-auto">
+        <Header />
 
-          <div className="flex flex-col sm:flex-row mx-auto sm:gap-x-4">
+        <div className="flex flex-col sm:flex-row mx-4 lg:mx-10 lg:space-x-10 font-mono">
+          <div className="w-max mx-auto sm:m-0">
             <Calendar
               selectedDate={selectedDate}
               setSelectedDate={setSelectedDate}
             />
           </div>
+
+          {films.length ? (
+            <FilmContainer films={films} />
+          ) : (
+            <p className="m-auto text-sm">no films found</p>
+          )}
         </div>
-
-        {films.length ? (
-          <FilmContainer films={films} />
-        ) : (
-          <p className="m-auto">no films found</p>
-        )}
-
-        <Footer />
       </div>
+
+      <Footer />
     </div>
   );
 };

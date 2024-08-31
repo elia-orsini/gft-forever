@@ -5,4 +5,5 @@ export interface IFilm {
   posterImage: string;
   trailerYoutubeId: string;
   tmdbId: string;
+  rating: number;
 }

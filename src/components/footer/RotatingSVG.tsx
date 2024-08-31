@@ -3,8 +3,8 @@ const RotatingSVG: React.FC = () => {
     <svg
       xmlns="http://www.w3.org/2000/svg"
       viewBox="5 5 90 90"
-      width="80"
-      height="80"
+      width="60"
+      height="60"
       className="text-sm lowercase"
     >
       <path
@@ -18,8 +18,7 @@ const RotatingSVG: React.FC = () => {
 
       <text>
         <textPath xlinkHref="#circlePath">
-          →&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp;&nbsp;Made by Elia
-          Orsini
+          →&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp;Made by Elia
         </textPath>
       </text>
 
