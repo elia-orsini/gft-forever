@@ -39,14 +39,14 @@ const Film: React.FC<{
         uid={`${title}`}
       />
 
-      <div className="flex flex-row justify-between">
-        <p className="text-2xs">{rating ? `${rating}` : `-`}</p>
+      <div className="flex flex-row justify-between text-xs">
+        <p>{rating ? `${rating}` : `-`}</p>
 
-        {release && <p className="text-2xs">{`${dayjs(release).year()}`}</p>}
+        {release && <p>{`${dayjs(release).year()}`}</p>}
       </div>
 
       <TextScroller
-        className="uppercase tracking-tight text-xs"
+        className="uppercase tracking-tight text-2xs"
         text={`directed by ${director}`}
         uid={`director_${title}`}
       />
@@ -54,7 +54,7 @@ const Film: React.FC<{
       <div className="flex flex-row justify-between text-2xs">
         {tmdb ? (
           <a
-            href={`https://www.youtube.com/watch?v=${trailerYoutubeId}`}
+            href={`https://letterboxd.com/tmdb/${tmdb}`}
             target="_blank"
             className="underline"
           >

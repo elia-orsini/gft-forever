@@ -2,7 +2,7 @@ import RotatingSVG from "./RotatingSVG";
 
 const Footer = () => {
   return (
-    <div className="w-11/12 mt-auto flex flex-row justify-between text-left uppercase mx-4 sm:mx-auto mb-4 font-mono">
+    <div className="font-[MunicipalGrotesque] tracking-widest w-11/12 flex flex-row justify-between text-left uppercase mx-4 sm:mx-auto mt-6 sm:mt-4 mb-4">
       <div className="text-2xs my-auto">
         <p>
           made with {`<3`} by{" "}
@@ -14,7 +14,8 @@ const Footer = () => {
           >
             elia
           </a>{" "}
-          © 2024
+          <span className="font-mono mr-1">©</span> 
+          2024
         </p>
 
         <p className="mt-2">frontend crafted using next.js.</p>

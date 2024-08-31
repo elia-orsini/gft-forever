@@ -8,7 +8,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['"CargoDia"', "sans-serif"],
+        sans: ['MunicipalGrotesque', "sans-serif"],
       },
       fontSize: {
         "2xs": ".6rem",

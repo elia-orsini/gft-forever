@@ -40,8 +40,8 @@ const Add: React.FC = () => {
       <div className="flex flex-col w-full mx-auto">
         <Header />
 
-        <div className="flex flex-col sm:flex-row mx-4 lg:mx-10 lg:space-x-10 font-mono">
-          <div className="w-max mx-auto sm:m-0">
+        <div className="flex flex-col sm:flex-row mx-4 lg:mx-10 lg:space-x-10">
+          <div className="w-max mx-auto">
             <Calendar
               selectedDate={selectedDate}
               setSelectedDate={setSelectedDate}
@@ -51,7 +51,7 @@ const Add: React.FC = () => {
           {films.length ? (
             <FilmContainer films={films} />
           ) : (
-            <p className="m-auto text-sm">no films found</p>
+            <p className="my-4 text-sm min-h-screen">no films found</p>
           )}
         </div>
       </div>

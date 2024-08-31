@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+  background-color: white;
+}
+
 @layer base {
   @font-face {
     font-family: CargoDia;
@@ -13,4 +17,18 @@
     font-weight: 500;
     src: url(/fonts/cargo-dia/CargoDiatype-Bold.woff2) format("woff2");
   }
+  @font-face {
+    font-family: MunicipalGrotesque;
+    font-weight: 300;
+    src: url(/fonts/MunicipalGrotesque-Light.woff) format("woff");
+  }
+}
+
+.MuiPickersCalendarHeader-label, .MuiButtonBase-root, .MuiTypography-root {
+  font-family: MunicipalGrotesque !important;
+}
+
+::selection {
+  background: black;
+  color: white;
 }

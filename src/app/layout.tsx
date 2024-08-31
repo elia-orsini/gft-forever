@@ -11,7 +11,7 @@ export default function RootLayout({
 }) {
   return (
     <div className={sora.className}>
-      <div className="flex flex-col min-h-screen bg-white text-black">
+      <div className="flex flex-col min-h-screen bg-white text-black font-mono">
         {children}
       </div>
     </div>
