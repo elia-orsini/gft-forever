@@ -47,7 +47,7 @@ const Film: React.FC<{
 
       <TextScroller
         className="uppercase tracking-tight text-2xs"
-        text={`directed by ${director}`}
+        text={`${director}`}
         uid={`director_${title}`}
       />
 

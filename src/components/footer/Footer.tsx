@@ -2,7 +2,7 @@ import RotatingSVG from "./RotatingSVG";
 
 const Footer = () => {
   return (
-    <div className="font-[MunicipalGrotesque] tracking-widest w-11/12 flex flex-row justify-between text-left uppercase mx-4 sm:mx-auto mt-6 sm:mt-4 mb-4">
+    <div className="font-[MunicipalGrotesque] tracking-widest w-11/12 flex flex-row justify-between text-left uppercase mx-4 sm:mx-auto mt-6 mb-4">
       <div className="text-2xs my-auto">
         <p>
           made with {`<3`} by{" "}

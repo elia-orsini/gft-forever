@@ -14,7 +14,7 @@ const TextScroller: React.FC<{
 
   useGSAP(() => {
     let translation = 0;
-    const animationSpeed = 0.03;
+    const animationSpeed = 0.05;
 
     const gsapAnimation = () => {
       if (translation < -49.99) {
