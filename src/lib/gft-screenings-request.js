@@ -2,7 +2,7 @@ const axios = require("axios");
 const fs = require("fs");
 const cheerio = require("cheerio");
 
-const startDate = new Date("2023-05-30");
+const startDate = new Date(new Date().setDate(new Date().getDate() - 20));
 const endDay = new Date().setDate(new Date().getDate() + 20);
 const outputFilename = "../data/movies.json";
 
