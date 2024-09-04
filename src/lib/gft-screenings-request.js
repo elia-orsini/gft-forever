@@ -4,7 +4,7 @@ const cheerio = require("cheerio");
 
 const startDate = new Date(new Date().setDate(new Date().getDate() - 20));
 const endDay = new Date().setDate(new Date().getDate() + 20);
-const outputFilename = "../data/movies.json";
+const outputFilename = "./src/data/movies.json";
 
 const wait = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
