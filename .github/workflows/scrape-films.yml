@@ -19,15 +19,10 @@ jobs:
         run: |
           yarn --no-package-lock
 
-      - name: cd in folder
+      - name: scrape films
         working-directory: ./
         run: |
-          cd src/lib
-          ls
-
-      - name: scrape films
-        run: |
-          npx ts-node gft-screenings-request.js
+          npx ts-node src/lib/gft-screenings-request.js
 
       - name: Check for changes
         id: check_changes
