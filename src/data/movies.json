@@ -39699,6 +39699,15 @@
       "posterImage": "a2tqp029udjdrd85paa424cypxd5",
       "trailerYoutubeId": null,
       "tmdbId": null
+    },
+    {
+      "name": "Hundreds Of Beavers",
+      "directedBy": "Mike Cheslik",
+      "releaseDate": "2024-07-09",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/1/9/0/6/8/919068-hundreds-of-beavers-0-230-0-345-crop.jpg?v=374498b1c0",
+      "trailerYoutubeId": "wxkutAg_Cms",
+      "tmdbId": "1019939",
+      "rating": 4.17
     }
   ],
   "2024-10-06": [
@@ -39739,6 +39748,63 @@
       "releaseDate": "2024-11-01",
       "posterImage": "kiio9k7pp7vi21m3v0xfcqnfz1mv",
       "trailerYoutubeId": null,
+      "tmdbId": null
+    }
+  ],
+  "2024-10-10": [
+    {
+      "name": "Hundreds Of Beavers",
+      "directedBy": "Mike Cheslik",
+      "releaseDate": "2024-07-09",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/1/9/0/6/8/919068-hundreds-of-beavers-0-230-0-345-crop.jpg?v=374498b1c0",
+      "trailerYoutubeId": "wxkutAg_Cms",
+      "tmdbId": "1019939",
+      "rating": 4.17
+    }
+  ],
+  "2024-10-11": [
+    {
+      "name": "Safety Last!",
+      "directedBy": "Fred C. Newmeyer, Sam Taylor",
+      "releaseDate": "1923-04-01",
+      "posterImage": "https://a.ltrbxd.com/resized/sm/upload/h0/bz/20/d9/U8FVAaJvYJwjGZe34hIjj8AqvX-0-230-0-345-crop.jpg?v=d5f607f2f9",
+      "trailerYoutubeId": "rhNtSU8ubf0?si=HaaUe07GctU5xXxT",
+      "tmdbId": "22596",
+      "rating": 4.11
+    },
+    {
+      "name": "Conclave",
+      "directedBy": "Edward Berger",
+      "releaseDate": "2024-11-29",
+      "posterImage": "2h4tlqs3ty76jm3vvibsl2q4tuij",
+      "trailerYoutubeId": "QaSaM4GYmfg",
+      "tmdbId": null
+    }
+  ],
+  "2024-10-12": [
+    {
+      "name": "Safety Last!",
+      "directedBy": "Fred C. Newmeyer, Sam Taylor",
+      "releaseDate": "1923-04-01",
+      "posterImage": "https://a.ltrbxd.com/resized/sm/upload/h0/bz/20/d9/U8FVAaJvYJwjGZe34hIjj8AqvX-0-230-0-345-crop.jpg?v=d5f607f2f9",
+      "trailerYoutubeId": "rhNtSU8ubf0?si=HaaUe07GctU5xXxT",
+      "tmdbId": "22596",
+      "rating": 4.11
+    },
+    {
+      "name": "Harder than the Rock + recorded Q&A",
+      "directedBy": "Mark Warmington",
+      "releaseDate": "2024-10-12",
+      "posterImage": "2d924d4pw1q7a59pt5l3zev9sxzc",
+      "trailerYoutubeId": "gqBBgUtL0do?feature=shared",
+      "tmdbId": null
+    },
+    {
+      "name": "Anora",
+      "directedBy": "Sean Baker",
+      "releaseDate": "2024-11-01",
+      "posterImage": "4wtkfqqwrbwujbov9zvlh4ks19iu",
+      "trailerYoutubeId": "PLhZ8tyVMSc?si=mo2b7YRRGgyPVcn0",
       "tmdbId": null
     }
   ]
