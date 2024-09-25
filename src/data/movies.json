@@ -37332,7 +37332,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/0/2/5/7/9/4/1025794-close-to-you-0-230-0-345-crop.jpg?v=7caa69f935",
       "trailerYoutubeId": "fEg_vaaMe_U?si=BgzmHVEPPk1gAVVM",
       "tmdbId": "1139467",
-      "rating": 3.46
+      "rating": 3.45
     },
     {
       "name": "Kneecap",
@@ -39683,6 +39683,74 @@
   ],
   "2024-10-04": [
     {
+      "name": "Young Frankenstein",
+      "directedBy": "Mel Brooks",
+      "releaseDate": null,
+      "posterImage": "wuz1xs4quail36apz1bkyofus3l5",
+      "trailerYoutubeId": "sO8g8VmFf0M?feature=shared",
+      "tmdbId": null
+    },
+    {
+      "name": "A Different Man",
+      "directedBy": "Aaron Schimberg",
+      "releaseDate": "2024-09-20",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/9/1/2/9/1/891291-a-different-man-0-230-0-345-crop.jpg?v=f19de2db41",
+      "trailerYoutubeId": "_9CmC5Rmsdw?si=SeTNjgNc93eOESEw",
+      "tmdbId": "989662",
+      "rating": 3.77
+    },
+    {
+      "name": "The Outrun",
+      "directedBy": "Nora Fingscheidt",
+      "releaseDate": "2024-09-27",
+      "posterImage": "wwwqi08oa0dmvalh1wpcem65aa1k",
+      "trailerYoutubeId": "ReKQYf4Jdpc",
+      "tmdbId": null
+    },
+    {
+      "name": "The Outrun",
+      "directedBy": "Nora Fingscheidt",
+      "releaseDate": "2024-09-27",
+      "posterImage": "wwwqi08oa0dmvalh1wpcem65aa1k",
+      "trailerYoutubeId": "ReKQYf4Jdpc",
+      "tmdbId": null
+    },
+    {
+      "name": "A Different Man",
+      "directedBy": "Aaron Schimberg",
+      "releaseDate": "2024-09-20",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/9/1/2/9/1/891291-a-different-man-0-230-0-345-crop.jpg?v=f19de2db41",
+      "trailerYoutubeId": "_9CmC5Rmsdw?si=SeTNjgNc93eOESEw",
+      "tmdbId": "989662",
+      "rating": 3.77
+    },
+    {
+      "name": "The Queen of My Dreams",
+      "directedBy": "Fawzia Mirza",
+      "releaseDate": "2024-03-22",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/0/1/1/4/8/0/1011480-the-queen-of-my-dreams-0-230-0-345-crop.jpg?v=396f660741",
+      "trailerYoutubeId": "ed6JFlHTDKY?si=B-Ti0EuhpkLlKbmV",
+      "tmdbId": "1122584",
+      "rating": 3.72
+    },
+    {
+      "name": "Megalopolis",
+      "directedBy": "Francis Ford Coppola",
+      "releaseDate": "2024-09-27",
+      "posterImage": "gvpc9dnf4a3jc2h1dcrodrn7zew1",
+      "trailerYoutubeId": "2_WYvtGoDE4",
+      "tmdbId": null
+    },
+    {
+      "name": "A Different Man",
+      "directedBy": "Aaron Schimberg",
+      "releaseDate": "2024-09-20",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/9/1/2/9/1/891291-a-different-man-0-230-0-345-crop.jpg?v=f19de2db41",
+      "trailerYoutubeId": "_9CmC5Rmsdw?si=SeTNjgNc93eOESEw",
+      "tmdbId": "989662",
+      "rating": 3.77
+    },
+    {
       "name": "Samizdat Festival Night Terrors: The Hourglass Sanatorium (1973)",
       "directedBy": "Wojciech Jerzy Has",
       "releaseDate": "2024-10-04",
@@ -39693,11 +39761,53 @@
   ],
   "2024-10-05": [
     {
+      "name": "Megalopolis",
+      "directedBy": "Francis Ford Coppola",
+      "releaseDate": "2024-09-27",
+      "posterImage": "gvpc9dnf4a3jc2h1dcrodrn7zew1",
+      "trailerYoutubeId": "2_WYvtGoDE4",
+      "tmdbId": null
+    },
+    {
+      "name": "The Queen of My Dreams",
+      "directedBy": "Fawzia Mirza",
+      "releaseDate": "2024-03-22",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/0/1/1/4/8/0/1011480-the-queen-of-my-dreams-0-230-0-345-crop.jpg?v=396f660741",
+      "trailerYoutubeId": "ed6JFlHTDKY?si=B-Ti0EuhpkLlKbmV",
+      "tmdbId": "1122584",
+      "rating": 3.72
+    },
+    {
+      "name": "The Outrun",
+      "directedBy": "Nora Fingscheidt",
+      "releaseDate": "2024-09-27",
+      "posterImage": "wwwqi08oa0dmvalh1wpcem65aa1k",
+      "trailerYoutubeId": "ReKQYf4Jdpc",
+      "tmdbId": null
+    },
+    {
       "name": "The Panther Women (Las mujeres panteras) + introduction",
       "directedBy": "René Cardona",
       "releaseDate": "1967-03-03",
       "posterImage": "a2tqp029udjdrd85paa424cypxd5",
       "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "A Different Man",
+      "directedBy": "Aaron Schimberg",
+      "releaseDate": "2024-09-20",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/9/1/2/9/1/891291-a-different-man-0-230-0-345-crop.jpg?v=f19de2db41",
+      "trailerYoutubeId": "_9CmC5Rmsdw?si=SeTNjgNc93eOESEw",
+      "tmdbId": "989662",
+      "rating": 3.77
+    },
+    {
+      "name": "Young Frankenstein",
+      "directedBy": "Mel Brooks",
+      "releaseDate": null,
+      "posterImage": "wuz1xs4quail36apz1bkyofus3l5",
+      "trailerYoutubeId": "sO8g8VmFf0M?feature=shared",
       "tmdbId": null
     },
     {
@@ -39708,9 +39818,43 @@
       "trailerYoutubeId": "wxkutAg_Cms",
       "tmdbId": "1019939",
       "rating": 4.17
+    },
+    {
+      "name": "A Different Man",
+      "directedBy": "Aaron Schimberg",
+      "releaseDate": "2024-09-20",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/9/1/2/9/1/891291-a-different-man-0-230-0-345-crop.jpg?v=f19de2db41",
+      "trailerYoutubeId": "_9CmC5Rmsdw?si=SeTNjgNc93eOESEw",
+      "tmdbId": "989662",
+      "rating": 3.77
+    },
+    {
+      "name": "The Outrun",
+      "directedBy": "Nora Fingscheidt",
+      "releaseDate": "2024-09-27",
+      "posterImage": "wwwqi08oa0dmvalh1wpcem65aa1k",
+      "trailerYoutubeId": "ReKQYf4Jdpc",
+      "tmdbId": null
     }
   ],
   "2024-10-06": [
+    {
+      "name": "The Outrun",
+      "directedBy": "Nora Fingscheidt",
+      "releaseDate": "2024-09-27",
+      "posterImage": "wwwqi08oa0dmvalh1wpcem65aa1k",
+      "trailerYoutubeId": "ReKQYf4Jdpc",
+      "tmdbId": null
+    },
+    {
+      "name": "The Queen of My Dreams",
+      "directedBy": "Fawzia Mirza",
+      "releaseDate": "2024-03-22",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/0/1/1/4/8/0/1011480-the-queen-of-my-dreams-0-230-0-345-crop.jpg?v=396f660741",
+      "trailerYoutubeId": "ed6JFlHTDKY?si=B-Ti0EuhpkLlKbmV",
+      "tmdbId": "1122584",
+      "rating": 3.72
+    },
     {
       "name": "Snapshot Shorts",
       "directedBy": null,
@@ -39718,9 +39862,94 @@
       "posterImage": "0ya5jupjjfjb1agfjjutegutmpo8",
       "trailerYoutubeId": null,
       "tmdbId": null
+    },
+    {
+      "name": "Megalopolis",
+      "directedBy": "Francis Ford Coppola",
+      "releaseDate": "2024-09-27",
+      "posterImage": "gvpc9dnf4a3jc2h1dcrodrn7zew1",
+      "trailerYoutubeId": "2_WYvtGoDE4",
+      "tmdbId": null
+    },
+    {
+      "name": "Gentlemen Prefer Blondes",
+      "directedBy": "Howard Hawks",
+      "releaseDate": "1953-07-14",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/5/1/3/9/3/51393-gentlemen-prefer-blondes-0-230-0-345-crop.jpg?v=aa60ad810b",
+      "trailerYoutubeId": "Q-IZ4AatNa8?si=GOA_qX5vc2erBNLF",
+      "tmdbId": "759",
+      "rating": 3.83
+    },
+    {
+      "name": "A Different Man",
+      "directedBy": "Aaron Schimberg",
+      "releaseDate": "2024-09-20",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/9/1/2/9/1/891291-a-different-man-0-230-0-345-crop.jpg?v=f19de2db41",
+      "trailerYoutubeId": "_9CmC5Rmsdw?si=SeTNjgNc93eOESEw",
+      "tmdbId": "989662",
+      "rating": 3.77
+    },
+    {
+      "name": "The Outrun",
+      "directedBy": "Nora Fingscheidt",
+      "releaseDate": "2024-09-27",
+      "posterImage": "wwwqi08oa0dmvalh1wpcem65aa1k",
+      "trailerYoutubeId": "ReKQYf4Jdpc",
+      "tmdbId": null
+    },
+    {
+      "name": "A Different Man",
+      "directedBy": "Aaron Schimberg",
+      "releaseDate": "2024-09-20",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/9/1/2/9/1/891291-a-different-man-0-230-0-345-crop.jpg?v=f19de2db41",
+      "trailerYoutubeId": "_9CmC5Rmsdw?si=SeTNjgNc93eOESEw",
+      "tmdbId": "989662",
+      "rating": 3.77
+    },
+    {
+      "name": "The Queen of My Dreams",
+      "directedBy": "Fawzia Mirza",
+      "releaseDate": "2024-03-22",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/0/1/1/4/8/0/1011480-the-queen-of-my-dreams-0-230-0-345-crop.jpg?v=396f660741",
+      "trailerYoutubeId": "ed6JFlHTDKY?si=B-Ti0EuhpkLlKbmV",
+      "tmdbId": "1122584",
+      "rating": 3.72
     }
   ],
   "2024-10-07": [
+    {
+      "name": "The Outrun",
+      "directedBy": "Nora Fingscheidt",
+      "releaseDate": "2024-09-27",
+      "posterImage": "wwwqi08oa0dmvalh1wpcem65aa1k",
+      "trailerYoutubeId": "ReKQYf4Jdpc",
+      "tmdbId": null
+    },
+    {
+      "name": "Megalopolis",
+      "directedBy": "Francis Ford Coppola",
+      "releaseDate": "2024-09-27",
+      "posterImage": "gvpc9dnf4a3jc2h1dcrodrn7zew1",
+      "trailerYoutubeId": "2_WYvtGoDE4",
+      "tmdbId": null
+    },
+    {
+      "name": "The Queen of My Dreams",
+      "directedBy": "Fawzia Mirza",
+      "releaseDate": "2024-03-22",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/0/1/1/4/8/0/1011480-the-queen-of-my-dreams-0-230-0-345-crop.jpg?v=396f660741",
+      "trailerYoutubeId": "ed6JFlHTDKY?si=B-Ti0EuhpkLlKbmV",
+      "tmdbId": "1122584",
+      "rating": 3.72
+    },
+    {
+      "name": "The Outrun",
+      "directedBy": "Nora Fingscheidt",
+      "releaseDate": "2024-09-27",
+      "posterImage": "wwwqi08oa0dmvalh1wpcem65aa1k",
+      "trailerYoutubeId": "ReKQYf4Jdpc",
+      "tmdbId": null
+    },
     {
       "name": "The Annihilation of Fish + recorded introduction",
       "directedBy": "Charles Burnett",
@@ -39729,9 +39958,121 @@
       "trailerYoutubeId": null,
       "tmdbId": "49796",
       "rating": 3.65
+    },
+    {
+      "name": "A Different Man",
+      "directedBy": "Aaron Schimberg",
+      "releaseDate": "2024-09-20",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/9/1/2/9/1/891291-a-different-man-0-230-0-345-crop.jpg?v=f19de2db41",
+      "trailerYoutubeId": "_9CmC5Rmsdw?si=SeTNjgNc93eOESEw",
+      "tmdbId": "989662",
+      "rating": 3.77
+    },
+    {
+      "name": "Megalopolis",
+      "directedBy": "Francis Ford Coppola",
+      "releaseDate": "2024-09-27",
+      "posterImage": "gvpc9dnf4a3jc2h1dcrodrn7zew1",
+      "trailerYoutubeId": "2_WYvtGoDE4",
+      "tmdbId": null
+    },
+    {
+      "name": "A Different Man",
+      "directedBy": "Aaron Schimberg",
+      "releaseDate": "2024-09-20",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/9/1/2/9/1/891291-a-different-man-0-230-0-345-crop.jpg?v=f19de2db41",
+      "trailerYoutubeId": "_9CmC5Rmsdw?si=SeTNjgNc93eOESEw",
+      "tmdbId": "989662",
+      "rating": 3.77
+    },
+    {
+      "name": "The Queen of My Dreams",
+      "directedBy": "Fawzia Mirza",
+      "releaseDate": "2024-03-22",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/0/1/1/4/8/0/1011480-the-queen-of-my-dreams-0-230-0-345-crop.jpg?v=396f660741",
+      "trailerYoutubeId": "ed6JFlHTDKY?si=B-Ti0EuhpkLlKbmV",
+      "tmdbId": "1122584",
+      "rating": 3.72
     }
   ],
   "2024-10-08": [
+    {
+      "name": "Girls Will Be Girls",
+      "directedBy": "Shuchi Talati",
+      "releaseDate": "2024-08-21",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/9/9/4/0/6/999406-girls-will-be-girls-0-230-0-345-crop.jpg?v=eb5863510a",
+      "trailerYoutubeId": "Fq1ecESXMUw?si=c1grlre-43WIWUs5",
+      "tmdbId": "1108828",
+      "rating": 3.68
+    },
+    {
+      "name": "Megalopolis",
+      "directedBy": "Francis Ford Coppola",
+      "releaseDate": "2024-09-27",
+      "posterImage": "gvpc9dnf4a3jc2h1dcrodrn7zew1",
+      "trailerYoutubeId": "2_WYvtGoDE4",
+      "tmdbId": null
+    },
+    {
+      "name": "The Outrun",
+      "directedBy": "Nora Fingscheidt",
+      "releaseDate": "2024-09-27",
+      "posterImage": "wwwqi08oa0dmvalh1wpcem65aa1k",
+      "trailerYoutubeId": "ReKQYf4Jdpc",
+      "tmdbId": null
+    },
+    {
+      "name": "A Different Man",
+      "directedBy": "Aaron Schimberg",
+      "releaseDate": "2024-09-20",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/9/1/2/9/1/891291-a-different-man-0-230-0-345-crop.jpg?v=f19de2db41",
+      "trailerYoutubeId": "_9CmC5Rmsdw?si=SeTNjgNc93eOESEw",
+      "tmdbId": "989662",
+      "rating": 3.77
+    },
+    {
+      "name": "Girls Will Be Girls",
+      "directedBy": "Shuchi Talati",
+      "releaseDate": "2024-08-21",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/9/9/4/0/6/999406-girls-will-be-girls-0-230-0-345-crop.jpg?v=eb5863510a",
+      "trailerYoutubeId": "Fq1ecESXMUw?si=c1grlre-43WIWUs5",
+      "tmdbId": "1108828",
+      "rating": 3.68
+    },
+    {
+      "name": "The Outrun",
+      "directedBy": "Nora Fingscheidt",
+      "releaseDate": "2024-09-27",
+      "posterImage": "wwwqi08oa0dmvalh1wpcem65aa1k",
+      "trailerYoutubeId": "ReKQYf4Jdpc",
+      "tmdbId": null
+    },
+    {
+      "name": "RCS Curates Visible Cinema: Theater Camp",
+      "directedBy": "Molly Gordon, Nick Lieberman",
+      "releaseDate": "2023-07-13",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/8/7/6/5/0/887650-theater-camp-0-230-0-345-crop.jpg?v=ba9c77cf10",
+      "trailerYoutubeId": "puVDIUk0kM8",
+      "tmdbId": "986054",
+      "rating": 3.76
+    },
+    {
+      "name": "Megalopolis",
+      "directedBy": "Francis Ford Coppola",
+      "releaseDate": "2024-09-27",
+      "posterImage": "gvpc9dnf4a3jc2h1dcrodrn7zew1",
+      "trailerYoutubeId": "2_WYvtGoDE4",
+      "tmdbId": null
+    },
+    {
+      "name": "A Different Man",
+      "directedBy": "Aaron Schimberg",
+      "releaseDate": "2024-09-20",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/9/1/2/9/1/891291-a-different-man-0-230-0-345-crop.jpg?v=f19de2db41",
+      "trailerYoutubeId": "_9CmC5Rmsdw?si=SeTNjgNc93eOESEw",
+      "tmdbId": "989662",
+      "rating": 3.77
+    },
     {
       "name": "SQIFF 2024 Opening Night Scottish Shorts",
       "directedBy": null,
@@ -39743,15 +40084,124 @@
   ],
   "2024-10-09": [
     {
+      "name": "Girls Will Be Girls",
+      "directedBy": "Shuchi Talati",
+      "releaseDate": "2024-08-21",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/9/9/4/0/6/999406-girls-will-be-girls-0-230-0-345-crop.jpg?v=eb5863510a",
+      "trailerYoutubeId": "Fq1ecESXMUw?si=c1grlre-43WIWUs5",
+      "tmdbId": "1108828",
+      "rating": 3.68
+    },
+    {
+      "name": "The Outrun",
+      "directedBy": "Nora Fingscheidt",
+      "releaseDate": "2024-09-27",
+      "posterImage": "wwwqi08oa0dmvalh1wpcem65aa1k",
+      "trailerYoutubeId": "ReKQYf4Jdpc",
+      "tmdbId": null
+    },
+    {
+      "name": "Young Frankenstein",
+      "directedBy": "Mel Brooks",
+      "releaseDate": null,
+      "posterImage": "wuz1xs4quail36apz1bkyofus3l5",
+      "trailerYoutubeId": "sO8g8VmFf0M?feature=shared",
+      "tmdbId": null
+    },
+    {
+      "name": "Girls Will Be Girls",
+      "directedBy": "Shuchi Talati",
+      "releaseDate": "2024-08-21",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/9/9/4/0/6/999406-girls-will-be-girls-0-230-0-345-crop.jpg?v=eb5863510a",
+      "trailerYoutubeId": "Fq1ecESXMUw?si=c1grlre-43WIWUs5",
+      "tmdbId": "1108828",
+      "rating": 3.68
+    },
+    {
+      "name": "The Outrun",
+      "directedBy": "Nora Fingscheidt",
+      "releaseDate": "2024-09-27",
+      "posterImage": "wwwqi08oa0dmvalh1wpcem65aa1k",
+      "trailerYoutubeId": "ReKQYf4Jdpc",
+      "tmdbId": null
+    },
+    {
+      "name": "A Different Man",
+      "directedBy": "Aaron Schimberg",
+      "releaseDate": "2024-09-20",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/9/1/2/9/1/891291-a-different-man-0-230-0-345-crop.jpg?v=f19de2db41",
+      "trailerYoutubeId": "_9CmC5Rmsdw?si=SeTNjgNc93eOESEw",
+      "tmdbId": "989662",
+      "rating": 3.77
+    },
+    {
+      "name": "Megalopolis",
+      "directedBy": "Francis Ford Coppola",
+      "releaseDate": "2024-09-27",
+      "posterImage": "gvpc9dnf4a3jc2h1dcrodrn7zew1",
+      "trailerYoutubeId": "2_WYvtGoDE4",
+      "tmdbId": null
+    },
+    {
       "name": "Blitz",
       "directedBy": "Steve McQueen",
       "releaseDate": "2024-11-01",
       "posterImage": "kiio9k7pp7vi21m3v0xfcqnfz1mv",
-      "trailerYoutubeId": null,
+      "trailerYoutubeId": "iZwykQK9aZo",
       "tmdbId": null
+    },
+    {
+      "name": "A Different Man",
+      "directedBy": "Aaron Schimberg",
+      "releaseDate": "2024-09-20",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/9/1/2/9/1/891291-a-different-man-0-230-0-345-crop.jpg?v=f19de2db41",
+      "trailerYoutubeId": "_9CmC5Rmsdw?si=SeTNjgNc93eOESEw",
+      "tmdbId": "989662",
+      "rating": 3.77
     }
   ],
   "2024-10-10": [
+    {
+      "name": "The Outrun",
+      "directedBy": "Nora Fingscheidt",
+      "releaseDate": "2024-09-27",
+      "posterImage": "wwwqi08oa0dmvalh1wpcem65aa1k",
+      "trailerYoutubeId": "ReKQYf4Jdpc",
+      "tmdbId": null
+    },
+    {
+      "name": "Megalopolis",
+      "directedBy": "Francis Ford Coppola",
+      "releaseDate": "2024-09-27",
+      "posterImage": "gvpc9dnf4a3jc2h1dcrodrn7zew1",
+      "trailerYoutubeId": "2_WYvtGoDE4",
+      "tmdbId": null
+    },
+    {
+      "name": "A Different Man",
+      "directedBy": "Aaron Schimberg",
+      "releaseDate": "2024-09-20",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/9/1/2/9/1/891291-a-different-man-0-230-0-345-crop.jpg?v=f19de2db41",
+      "trailerYoutubeId": "_9CmC5Rmsdw?si=SeTNjgNc93eOESEw",
+      "tmdbId": "989662",
+      "rating": 3.77
+    },
+    {
+      "name": "The Outrun",
+      "directedBy": "Nora Fingscheidt",
+      "releaseDate": "2024-09-27",
+      "posterImage": "wwwqi08oa0dmvalh1wpcem65aa1k",
+      "trailerYoutubeId": "ReKQYf4Jdpc",
+      "tmdbId": null
+    },
+    {
+      "name": "Young Frankenstein",
+      "directedBy": "Mel Brooks",
+      "releaseDate": null,
+      "posterImage": "wuz1xs4quail36apz1bkyofus3l5",
+      "trailerYoutubeId": "sO8g8VmFf0M?feature=shared",
+      "tmdbId": null
+    },
     {
       "name": "Hundreds Of Beavers",
       "directedBy": "Mike Cheslik",
@@ -39760,6 +40210,41 @@
       "trailerYoutubeId": "wxkutAg_Cms",
       "tmdbId": "1019939",
       "rating": 4.17
+    },
+    {
+      "name": "Gentlemen Prefer Blondes",
+      "directedBy": "Howard Hawks",
+      "releaseDate": "1953-07-14",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/5/1/3/9/3/51393-gentlemen-prefer-blondes-0-230-0-345-crop.jpg?v=aa60ad810b",
+      "trailerYoutubeId": "Q-IZ4AatNa8?si=GOA_qX5vc2erBNLF",
+      "tmdbId": "759",
+      "rating": 3.83
+    },
+    {
+      "name": "Girls Will Be Girls",
+      "directedBy": "Shuchi Talati",
+      "releaseDate": "2024-08-21",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/9/9/4/0/6/999406-girls-will-be-girls-0-230-0-345-crop.jpg?v=eb5863510a",
+      "trailerYoutubeId": "Fq1ecESXMUw?si=c1grlre-43WIWUs5",
+      "tmdbId": "1108828",
+      "rating": 3.68
+    },
+    {
+      "name": "A Different Man",
+      "directedBy": "Aaron Schimberg",
+      "releaseDate": "2024-09-20",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/9/1/2/9/1/891291-a-different-man-0-230-0-345-crop.jpg?v=f19de2db41",
+      "trailerYoutubeId": "_9CmC5Rmsdw?si=SeTNjgNc93eOESEw",
+      "tmdbId": "989662",
+      "rating": 3.77
+    },
+    {
+      "name": "The Outrun",
+      "directedBy": "Nora Fingscheidt",
+      "releaseDate": "2024-09-27",
+      "posterImage": "wwwqi08oa0dmvalh1wpcem65aa1k",
+      "trailerYoutubeId": "ReKQYf4Jdpc",
+      "tmdbId": null
     }
   ],
   "2024-10-11": [
@@ -39770,7 +40255,67 @@
       "posterImage": "https://a.ltrbxd.com/resized/sm/upload/h0/bz/20/d9/U8FVAaJvYJwjGZe34hIjj8AqvX-0-230-0-345-crop.jpg?v=d5f607f2f9",
       "trailerYoutubeId": "rhNtSU8ubf0?si=HaaUe07GctU5xXxT",
       "tmdbId": "22596",
-      "rating": 4.11
+      "rating": 4.1
+    },
+    {
+      "name": "The Teacher",
+      "directedBy": "Farah Nabulsi",
+      "releaseDate": "2024-09-27",
+      "posterImage": "wpi70blcrg6tnq01upm35yrt4y1d",
+      "trailerYoutubeId": "_TyjxzyETyI?si=Yk8HW3mcPc7UIsoY",
+      "tmdbId": null
+    },
+    {
+      "name": "The Outrun",
+      "directedBy": "Nora Fingscheidt",
+      "releaseDate": "2024-09-27",
+      "posterImage": "wwwqi08oa0dmvalh1wpcem65aa1k",
+      "trailerYoutubeId": "ReKQYf4Jdpc",
+      "tmdbId": null
+    },
+    {
+      "name": "A Different Man",
+      "directedBy": "Aaron Schimberg",
+      "releaseDate": "2024-09-20",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/9/1/2/9/1/891291-a-different-man-0-230-0-345-crop.jpg?v=f19de2db41",
+      "trailerYoutubeId": "_9CmC5Rmsdw?si=SeTNjgNc93eOESEw",
+      "tmdbId": "989662",
+      "rating": 3.77
+    },
+    {
+      "name": "Timestalker",
+      "directedBy": "Alice Lowe",
+      "releaseDate": "2024-09-27",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/6/2/9/9/7/6/629976-timestalker-0-230-0-345-crop.jpg?v=0562cc6c3b",
+      "trailerYoutubeId": "lyhbDjc4yCM?si=XODfjmZBwv3k_agh",
+      "tmdbId": "706693",
+      "rating": 3.16
+    },
+    {
+      "name": "Shaun Of The Dead (20th Anniversary)",
+      "directedBy": "Edgar Wright",
+      "releaseDate": "2024-09-27",
+      "posterImage": "https://a.ltrbxd.com/resized/sm/upload/36/av/yn/jg/yWEeWO7fLs45XOcb94GPiLrHBRG-0-230-0-345-crop.jpg?v=f9f1d6b3fe",
+      "trailerYoutubeId": "HMg57ZCMh6o",
+      "tmdbId": "747",
+      "rating": 3.97
+    },
+    {
+      "name": "The Teacher",
+      "directedBy": "Farah Nabulsi",
+      "releaseDate": "2024-09-27",
+      "posterImage": "wpi70blcrg6tnq01upm35yrt4y1d",
+      "trailerYoutubeId": "_TyjxzyETyI?si=Yk8HW3mcPc7UIsoY",
+      "tmdbId": null
+    },
+    {
+      "name": "The Quiet Maid + Q&A",
+      "directedBy": "Miguel Faus",
+      "releaseDate": "2024-05-17",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/0/7/4/6/2/4/1074624-calladita-0-230-0-345-crop.jpg?v=e176da8832",
+      "trailerYoutubeId": "EJdFAHqvo0A?si=fzch4ucPgIUrRFTE",
+      "tmdbId": "1188853",
+      "rating": 3.15
     },
     {
       "name": "Conclave",
@@ -39779,9 +40324,52 @@
       "posterImage": "2h4tlqs3ty76jm3vvibsl2q4tuij",
       "trailerYoutubeId": "QaSaM4GYmfg",
       "tmdbId": null
+    },
+    {
+      "name": "A Different Man",
+      "directedBy": "Aaron Schimberg",
+      "releaseDate": "2024-09-20",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/9/1/2/9/1/891291-a-different-man-0-230-0-345-crop.jpg?v=f19de2db41",
+      "trailerYoutubeId": "_9CmC5Rmsdw?si=SeTNjgNc93eOESEw",
+      "tmdbId": "989662",
+      "rating": 3.77
+    },
+    {
+      "name": "Timestalker",
+      "directedBy": "Alice Lowe",
+      "releaseDate": "2024-09-27",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/6/2/9/9/7/6/629976-timestalker-0-230-0-345-crop.jpg?v=0562cc6c3b",
+      "trailerYoutubeId": "lyhbDjc4yCM?si=XODfjmZBwv3k_agh",
+      "tmdbId": "706693",
+      "rating": 3.16
     }
   ],
   "2024-10-12": [
+    {
+      "name": "Take 2: Inside Out 2",
+      "directedBy": "Kelsey Mann",
+      "releaseDate": "2024-06-12",
+      "posterImage": "kxb7qqq7tkbjdew0lclve69ggsb7",
+      "trailerYoutubeId": "6_AVROEGlfE?si=AfOMTPJyzZlYPzq1",
+      "tmdbId": null
+    },
+    {
+      "name": "The Outrun",
+      "directedBy": "Nora Fingscheidt",
+      "releaseDate": "2024-09-27",
+      "posterImage": "wwwqi08oa0dmvalh1wpcem65aa1k",
+      "trailerYoutubeId": "ReKQYf4Jdpc",
+      "tmdbId": null
+    },
+    {
+      "name": "A Different Man",
+      "directedBy": "Aaron Schimberg",
+      "releaseDate": "2024-09-20",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/9/1/2/9/1/891291-a-different-man-0-230-0-345-crop.jpg?v=f19de2db41",
+      "trailerYoutubeId": "_9CmC5Rmsdw?si=SeTNjgNc93eOESEw",
+      "tmdbId": "989662",
+      "rating": 3.77
+    },
     {
       "name": "Safety Last!",
       "directedBy": "Fred C. Newmeyer, Sam Taylor",
@@ -39789,7 +40377,33 @@
       "posterImage": "https://a.ltrbxd.com/resized/sm/upload/h0/bz/20/d9/U8FVAaJvYJwjGZe34hIjj8AqvX-0-230-0-345-crop.jpg?v=d5f607f2f9",
       "trailerYoutubeId": "rhNtSU8ubf0?si=HaaUe07GctU5xXxT",
       "tmdbId": "22596",
-      "rating": 4.11
+      "rating": 4.1
+    },
+    {
+      "name": "Shaun Of The Dead (20th Anniversary)",
+      "directedBy": "Edgar Wright",
+      "releaseDate": "2024-09-27",
+      "posterImage": "https://a.ltrbxd.com/resized/sm/upload/36/av/yn/jg/yWEeWO7fLs45XOcb94GPiLrHBRG-0-230-0-345-crop.jpg?v=f9f1d6b3fe",
+      "trailerYoutubeId": "HMg57ZCMh6o",
+      "tmdbId": "747",
+      "rating": 3.97
+    },
+    {
+      "name": "Timestalker",
+      "directedBy": "Alice Lowe",
+      "releaseDate": "2024-09-27",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/6/2/9/9/7/6/629976-timestalker-0-230-0-345-crop.jpg?v=0562cc6c3b",
+      "trailerYoutubeId": "lyhbDjc4yCM?si=XODfjmZBwv3k_agh",
+      "tmdbId": "706693",
+      "rating": 3.16
+    },
+    {
+      "name": "The Shining - Theatrical Cut",
+      "directedBy": "Stanley Kubrick",
+      "releaseDate": "1980-05-23",
+      "posterImage": "wjd690x837xpl5wijuz7cludubnb",
+      "trailerYoutubeId": "FZQvIJxG9Xs",
+      "tmdbId": null
     },
     {
       "name": "Harder than the Rock + recorded Q&A",
@@ -39800,12 +40414,299 @@
       "tmdbId": null
     },
     {
+      "name": "The Teacher",
+      "directedBy": "Farah Nabulsi",
+      "releaseDate": "2024-09-27",
+      "posterImage": "wpi70blcrg6tnq01upm35yrt4y1d",
+      "trailerYoutubeId": "_TyjxzyETyI?si=Yk8HW3mcPc7UIsoY",
+      "tmdbId": null
+    },
+    {
       "name": "Anora",
       "directedBy": "Sean Baker",
       "releaseDate": "2024-11-01",
       "posterImage": "4wtkfqqwrbwujbov9zvlh4ks19iu",
       "trailerYoutubeId": "PLhZ8tyVMSc?si=mo2b7YRRGgyPVcn0",
       "tmdbId": null
+    },
+    {
+      "name": "A Different Man",
+      "directedBy": "Aaron Schimberg",
+      "releaseDate": "2024-09-20",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/9/1/2/9/1/891291-a-different-man-0-230-0-345-crop.jpg?v=f19de2db41",
+      "trailerYoutubeId": "_9CmC5Rmsdw?si=SeTNjgNc93eOESEw",
+      "tmdbId": "989662",
+      "rating": 3.77
+    },
+    {
+      "name": "Timestalker",
+      "directedBy": "Alice Lowe",
+      "releaseDate": "2024-09-27",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/6/2/9/9/7/6/629976-timestalker-0-230-0-345-crop.jpg?v=0562cc6c3b",
+      "trailerYoutubeId": "lyhbDjc4yCM?si=XODfjmZBwv3k_agh",
+      "tmdbId": "706693",
+      "rating": 3.16
+    }
+  ],
+  "2024-10-13": [
+    {
+      "name": "A Different Man",
+      "directedBy": "Aaron Schimberg",
+      "releaseDate": "2024-09-20",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/9/1/2/9/1/891291-a-different-man-0-230-0-345-crop.jpg?v=f19de2db41",
+      "trailerYoutubeId": "_9CmC5Rmsdw?si=SeTNjgNc93eOESEw",
+      "tmdbId": "989662",
+      "rating": 3.77
+    },
+    {
+      "name": "Red Headed Woman",
+      "directedBy": "Jack Conway",
+      "releaseDate": "1932-06-25",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/6/4/4/0/0/64400-red-headed-woman-0-230-0-345-crop.jpg?v=0591298410",
+      "trailerYoutubeId": null,
+      "tmdbId": "77966",
+      "rating": 3.43
+    },
+    {
+      "name": "In Restless Dreams: The Music of Paul Simon",
+      "directedBy": "Alex Gibney",
+      "releaseDate": "2024-08-02",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/0/3/9/6/6/0/1039660-in-restless-dreams-the-music-of-paul-simon-0-230-0-345-crop.jpg?v=e3c3a9d2e7",
+      "trailerYoutubeId": "LzpF6HeVx9k?si=pzM83ASeBq6aN6Ol",
+      "tmdbId": "1153454",
+      "rating": 3.6
+    },
+    {
+      "name": "The Teacher",
+      "directedBy": "Farah Nabulsi",
+      "releaseDate": "2024-09-27",
+      "posterImage": "wpi70blcrg6tnq01upm35yrt4y1d",
+      "trailerYoutubeId": "_TyjxzyETyI?si=Yk8HW3mcPc7UIsoY",
+      "tmdbId": null
+    },
+    {
+      "name": "The Wild Robot",
+      "directedBy": "Chris Sanders",
+      "releaseDate": "2024-10-18",
+      "posterImage": "dpanot9b8mp5sawy4azqbbjtrweb",
+      "trailerYoutubeId": "N3oENyzAIiw",
+      "tmdbId": null
+    },
+    {
+      "name": "A Different Man",
+      "directedBy": "Aaron Schimberg",
+      "releaseDate": "2024-09-20",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/9/1/2/9/1/891291-a-different-man-0-230-0-345-crop.jpg?v=f19de2db41",
+      "trailerYoutubeId": "_9CmC5Rmsdw?si=SeTNjgNc93eOESEw",
+      "tmdbId": "989662",
+      "rating": 3.77
+    },
+    {
+      "name": "A Real Pain",
+      "directedBy": "Jesse Eisenberg",
+      "releaseDate": "2025-01-10",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/1/3/2/5/8/913258-a-real-pain-0-230-0-345-crop.jpg?v=893a943872",
+      "trailerYoutubeId": "UB1iCpfBjQI",
+      "tmdbId": "1013850",
+      "rating": 3.78
+    },
+    {
+      "name": "Timestalker",
+      "directedBy": "Alice Lowe",
+      "releaseDate": "2024-09-27",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/6/2/9/9/7/6/629976-timestalker-0-230-0-345-crop.jpg?v=0562cc6c3b",
+      "trailerYoutubeId": "lyhbDjc4yCM?si=XODfjmZBwv3k_agh",
+      "tmdbId": "706693",
+      "rating": 3.16
+    }
+  ],
+  "2024-10-14": [
+    {
+      "name": "A Different Man",
+      "directedBy": "Aaron Schimberg",
+      "releaseDate": "2024-09-20",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/9/1/2/9/1/891291-a-different-man-0-230-0-345-crop.jpg?v=f19de2db41",
+      "trailerYoutubeId": "_9CmC5Rmsdw?si=SeTNjgNc93eOESEw",
+      "tmdbId": "989662",
+      "rating": 3.77
+    },
+    {
+      "name": "The Outrun",
+      "directedBy": "Nora Fingscheidt",
+      "releaseDate": "2024-09-27",
+      "posterImage": "wwwqi08oa0dmvalh1wpcem65aa1k",
+      "trailerYoutubeId": "ReKQYf4Jdpc",
+      "tmdbId": null
+    },
+    {
+      "name": "The Shining - Extended Cut",
+      "directedBy": "Stanley Kubrick",
+      "releaseDate": "1980-05-23",
+      "posterImage": "wjd690x837xpl5wijuz7cludubnb",
+      "trailerYoutubeId": "FZQvIJxG9Xs",
+      "tmdbId": null
+    },
+    {
+      "name": "The Teacher",
+      "directedBy": "Farah Nabulsi",
+      "releaseDate": "2024-09-27",
+      "posterImage": "wpi70blcrg6tnq01upm35yrt4y1d",
+      "trailerYoutubeId": "_TyjxzyETyI?si=Yk8HW3mcPc7UIsoY",
+      "tmdbId": null
+    },
+    {
+      "name": "Timestalker",
+      "directedBy": "Alice Lowe",
+      "releaseDate": "2024-09-27",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/6/2/9/9/7/6/629976-timestalker-0-230-0-345-crop.jpg?v=0562cc6c3b",
+      "trailerYoutubeId": "lyhbDjc4yCM?si=XODfjmZBwv3k_agh",
+      "tmdbId": "706693",
+      "rating": 3.16
+    },
+    {
+      "name": "Endurance",
+      "directedBy": "Elizabeth Chai Vasarhelyi, Jimmy Chin, Natalie Hewit",
+      "releaseDate": null,
+      "posterImage": "emzlwaptq16s3bmxdyksmhmov8dd",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "A Different Man",
+      "directedBy": "Aaron Schimberg",
+      "releaseDate": "2024-09-20",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/9/1/2/9/1/891291-a-different-man-0-230-0-345-crop.jpg?v=f19de2db41",
+      "trailerYoutubeId": "_9CmC5Rmsdw?si=SeTNjgNc93eOESEw",
+      "tmdbId": "989662",
+      "rating": 3.77
+    },
+    {
+      "name": "Access Film Club: Didi",
+      "directedBy": "Sean Wang",
+      "releaseDate": "2024-07-26",
+      "posterImage": "8pcc9uyh7n29q505skfbuhcanx8c",
+      "trailerYoutubeId": "KYaj0yLUMRQ?si=FQ18mXozcg63RyTy",
+      "tmdbId": null
+    },
+    {
+      "name": "I'm Still Here",
+      "directedBy": "Walter Salles",
+      "releaseDate": "2025-01-15",
+      "posterImage": "frnqrzgdzz7iue8szuig87bgrh6c",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "The Teacher",
+      "directedBy": "Farah Nabulsi",
+      "releaseDate": "2024-09-27",
+      "posterImage": "wpi70blcrg6tnq01upm35yrt4y1d",
+      "trailerYoutubeId": "_TyjxzyETyI?si=Yk8HW3mcPc7UIsoY",
+      "tmdbId": null
+    },
+    {
+      "name": "Timestalker",
+      "directedBy": "Alice Lowe",
+      "releaseDate": "2024-09-27",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/6/2/9/9/7/6/629976-timestalker-0-230-0-345-crop.jpg?v=0562cc6c3b",
+      "trailerYoutubeId": "lyhbDjc4yCM?si=XODfjmZBwv3k_agh",
+      "tmdbId": "706693",
+      "rating": 3.16
+    }
+  ],
+  "2024-10-15": [
+    {
+      "name": "The Outrun",
+      "directedBy": "Nora Fingscheidt",
+      "releaseDate": "2024-09-27",
+      "posterImage": "wwwqi08oa0dmvalh1wpcem65aa1k",
+      "trailerYoutubeId": "ReKQYf4Jdpc",
+      "tmdbId": null
+    },
+    {
+      "name": "Timestalker",
+      "directedBy": "Alice Lowe",
+      "releaseDate": "2024-09-27",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/6/2/9/9/7/6/629976-timestalker-0-230-0-345-crop.jpg?v=0562cc6c3b",
+      "trailerYoutubeId": "lyhbDjc4yCM?si=XODfjmZBwv3k_agh",
+      "tmdbId": "706693",
+      "rating": 3.16
+    },
+    {
+      "name": "A Different Man",
+      "directedBy": "Aaron Schimberg",
+      "releaseDate": "2024-09-20",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/9/1/2/9/1/891291-a-different-man-0-230-0-345-crop.jpg?v=f19de2db41",
+      "trailerYoutubeId": "_9CmC5Rmsdw?si=SeTNjgNc93eOESEw",
+      "tmdbId": "989662",
+      "rating": 3.77
+    },
+    {
+      "name": "The Teacher",
+      "directedBy": "Farah Nabulsi",
+      "releaseDate": "2024-09-27",
+      "posterImage": "wpi70blcrg6tnq01upm35yrt4y1d",
+      "trailerYoutubeId": "_TyjxzyETyI?si=Yk8HW3mcPc7UIsoY",
+      "tmdbId": null
+    },
+    {
+      "name": "The Outrun",
+      "directedBy": "Nora Fingscheidt",
+      "releaseDate": "2024-09-27",
+      "posterImage": "wwwqi08oa0dmvalh1wpcem65aa1k",
+      "trailerYoutubeId": "ReKQYf4Jdpc",
+      "tmdbId": null
+    },
+    {
+      "name": "Timestalker",
+      "directedBy": "Alice Lowe",
+      "releaseDate": "2024-09-27",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/6/2/9/9/7/6/629976-timestalker-0-230-0-345-crop.jpg?v=0562cc6c3b",
+      "trailerYoutubeId": "lyhbDjc4yCM?si=XODfjmZBwv3k_agh",
+      "tmdbId": "706693",
+      "rating": 3.16
+    },
+    {
+      "name": "Youth Screening: Nope",
+      "directedBy": "Jordan Peele",
+      "releaseDate": "2022-08-12",
+      "posterImage": "fy615tp5fo06q1q1tv8wfjv35hlf",
+      "trailerYoutubeId": "fJKNxP-tjIQ",
+      "tmdbId": null
+    },
+    {
+      "name": "The Shining - Theatrical Cut",
+      "directedBy": "Stanley Kubrick",
+      "releaseDate": "1980-05-23",
+      "posterImage": "wjd690x837xpl5wijuz7cludubnb",
+      "trailerYoutubeId": "FZQvIJxG9Xs",
+      "tmdbId": null
+    },
+    {
+      "name": "The Wild Bunch",
+      "directedBy": "Sam Peckinpah",
+      "releaseDate": "1969-06-19",
+      "posterImage": "fpbaap93fxvpyt95sslz0hknnzle",
+      "trailerYoutubeId": "kdy0t_8mQBw?si=noYGDsJNKVBWiXuO",
+      "tmdbId": null
+    },
+    {
+      "name": "A Different Man",
+      "directedBy": "Aaron Schimberg",
+      "releaseDate": "2024-09-20",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/9/1/2/9/1/891291-a-different-man-0-230-0-345-crop.jpg?v=f19de2db41",
+      "trailerYoutubeId": "_9CmC5Rmsdw?si=SeTNjgNc93eOESEw",
+      "tmdbId": "989662",
+      "rating": 3.77
+    },
+    {
+      "name": "Shaun Of The Dead (20th Anniversary)",
+      "directedBy": "Edgar Wright",
+      "releaseDate": "2024-09-27",
+      "posterImage": "https://a.ltrbxd.com/resized/sm/upload/36/av/yn/jg/yWEeWO7fLs45XOcb94GPiLrHBRG-0-230-0-345-crop.jpg?v=f9f1d6b3fe",
+      "trailerYoutubeId": "HMg57ZCMh6o",
+      "tmdbId": "747",
+      "rating": 3.97
     }
   ]
 }
