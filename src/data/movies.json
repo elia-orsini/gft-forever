@@ -41963,7 +41963,7 @@
       "tmdbId": null
     },
     {
-      "name": "Apolonia, Apolonia + Q&A",
+      "name": "Apolonia, Apolonia",
       "directedBy": "Lea Glob",
       "releaseDate": "2023-03-23",
       "posterImage": "dncsqbwv2vwnaguxiu15ljp36i4w",
@@ -42713,10 +42713,9 @@
       "name": "The Big Heat",
       "directedBy": "Fritz Lang",
       "releaseDate": "1953-10-14",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/4/2/9/7/7/42977-the-big-heat-0-230-0-345-crop.jpg?v=4c55ee55ff",
+      "posterImage": "h5oceb62pwhqosj2wl3tmcu0bazz",
       "trailerYoutubeId": "ULTeMBUeA7I?si=Mhwy-LScQTd09ha5",
-      "tmdbId": "14580",
-      "rating": 4.08
+      "tmdbId": null
     },
     {
       "name": "Small Things Like These",
@@ -43008,10 +43007,9 @@
       "name": "Access Film Club: Polite Society",
       "directedBy": "Nida Manzoor",
       "releaseDate": "2023-04-28",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/7/9/5/6/6/879566-polite-society-0-230-0-345-crop.jpg?v=f32ec38864",
+      "posterImage": "qrwbft5lwpd943baac03c2zln370",
       "trailerYoutubeId": "5DIBRSpEx9E",
-      "tmdbId": "977223",
-      "rating": 3.58
+      "tmdbId": null
     },
     {
       "name": "Anora",
@@ -43114,14 +43112,6 @@
   ],
   "2024-11-13": [
     {
-      "name": "Black Box Diaries",
-      "directedBy": "Shiori Itō",
-      "releaseDate": "2024-10-25",
-      "posterImage": "b9twtn122zkky8hu39gxemmmj7s0",
-      "trailerYoutubeId": "zeHfN61S6Gg?si=zgv1DkCd1wOY1cLo",
-      "tmdbId": null
-    },
-    {
       "name": "Anora",
       "directedBy": "Sean Baker",
       "releaseDate": "2024-11-01",
@@ -43130,11 +43120,11 @@
       "tmdbId": null
     },
     {
-      "name": "Blitz",
-      "directedBy": "Steve McQueen",
-      "releaseDate": "2024-11-01",
-      "posterImage": "wk91utrui91uqd6withan1a2k2qu",
-      "trailerYoutubeId": "iZwykQK9aZo",
+      "name": "Black Box Diaries",
+      "directedBy": "Shiori Itō",
+      "releaseDate": "2024-10-25",
+      "posterImage": "b9twtn122zkky8hu39gxemmmj7s0",
+      "trailerYoutubeId": "zeHfN61S6Gg?si=zgv1DkCd1wOY1cLo",
       "tmdbId": null
     },
     {
@@ -43247,19 +43237,17 @@
       "name": "The Big Heat",
       "directedBy": "Fritz Lang",
       "releaseDate": "1953-10-14",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/4/2/9/7/7/42977-the-big-heat-0-230-0-345-crop.jpg?v=4c55ee55ff",
+      "posterImage": "h5oceb62pwhqosj2wl3tmcu0bazz",
       "trailerYoutubeId": "ULTeMBUeA7I?si=Mhwy-LScQTd09ha5",
-      "tmdbId": "14580",
-      "rating": 4.08
+      "tmdbId": null
     },
     {
       "name": "Day Off",
       "directedBy": "Fu Tien-Yu",
       "releaseDate": "2023-03-03",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/6/0/5/3/1/860531-day-off-2023-0-230-0-345-crop.jpg?v=d766e7d357",
+      "posterImage": "y17ta8cxqw9hry96eanwnbo0gv3p",
       "trailerYoutubeId": null,
-      "tmdbId": "956288",
-      "rating": 3.4
+      "tmdbId": null
     },
     {
       "name": "Blitz",
@@ -43418,7 +43406,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/5/1/6/7/2/6/516726-savages-0-230-0-345-crop.jpg?v=c98ac4c75f",
       "trailerYoutubeId": null,
       "tmdbId": "589018",
-      "rating": 3.53
+      "rating": 3.54
     },
     {
       "name": "No Other Land",
@@ -43549,6 +43537,245 @@
       "releaseDate": "2024-11-08",
       "posterImage": "8m4h958c5q3b16wbllp0pvl2mlgo",
       "trailerYoutubeId": "-pI2IXKtlew?si=X-9ya4gaaD1hgbCS",
+      "tmdbId": null
+    }
+  ],
+  "2024-11-18": [
+    {
+      "name": "No Other Land",
+      "directedBy": "Basel Adra, Hamdan Ballal, Yuval Abraham, Rachel Szor",
+      "releaseDate": "2024-11-08",
+      "posterImage": "8m4h958c5q3b16wbllp0pvl2mlgo",
+      "trailerYoutubeId": "-pI2IXKtlew?si=X-9ya4gaaD1hgbCS",
+      "tmdbId": null
+    },
+    {
+      "name": "Blitz",
+      "directedBy": "Steve McQueen",
+      "releaseDate": "2024-11-01",
+      "posterImage": "wk91utrui91uqd6withan1a2k2qu",
+      "trailerYoutubeId": "iZwykQK9aZo",
+      "tmdbId": null
+    },
+    {
+      "name": "Anora",
+      "directedBy": "Sean Baker",
+      "releaseDate": "2024-11-01",
+      "posterImage": "4wtkfqqwrbwujbov9zvlh4ks19iu",
+      "trailerYoutubeId": "wvSwg5gv88w",
+      "tmdbId": null
+    },
+    {
+      "name": "Bird",
+      "directedBy": "Andrea Arnold",
+      "releaseDate": "2024-11-08",
+      "posterImage": "pwyvlxx6dhei9v3tgvmwccxszyib",
+      "trailerYoutubeId": "2y0iJkT97Jc?si=j1peO-0WXNL3QD6t",
+      "tmdbId": null
+    },
+    {
+      "name": "Dead Reckoning",
+      "directedBy": "John Cromwell",
+      "releaseDate": "1946-12-31",
+      "posterImage": "2y4cz1dp3r10bd8yvvd9i1gulu44",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Blitz",
+      "directedBy": "Steve McQueen",
+      "releaseDate": "2024-11-01",
+      "posterImage": "wk91utrui91uqd6withan1a2k2qu",
+      "trailerYoutubeId": "iZwykQK9aZo",
+      "tmdbId": null
+    },
+    {
+      "name": "No Other Land",
+      "directedBy": "Basel Adra, Hamdan Ballal, Yuval Abraham, Rachel Szor",
+      "releaseDate": "2024-11-08",
+      "posterImage": "8m4h958c5q3b16wbllp0pvl2mlgo",
+      "trailerYoutubeId": "-pI2IXKtlew?si=X-9ya4gaaD1hgbCS",
+      "tmdbId": null
+    },
+    {
+      "name": "No Direction Home: Bob Dylan",
+      "directedBy": "Martin Scorsese",
+      "releaseDate": "2005-07-21",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/3/9/8/7/9/39879-bob-dylan-no-direction-home-0-230-0-345-crop.jpg?v=884438ce96",
+      "trailerYoutubeId": "rhpp3sFG17Q?si=1IIPp7q5uva4HOvI",
+      "tmdbId": "19082",
+      "rating": 4.13
+    },
+    {
+      "name": "Anora",
+      "directedBy": "Sean Baker",
+      "releaseDate": "2024-11-01",
+      "posterImage": "4wtkfqqwrbwujbov9zvlh4ks19iu",
+      "trailerYoutubeId": "wvSwg5gv88w",
+      "tmdbId": null
+    },
+    {
+      "name": "Bird",
+      "directedBy": "Andrea Arnold",
+      "releaseDate": "2024-11-08",
+      "posterImage": "pwyvlxx6dhei9v3tgvmwccxszyib",
+      "trailerYoutubeId": "2y0iJkT97Jc?si=j1peO-0WXNL3QD6t",
+      "tmdbId": null
+    }
+  ],
+  "2024-11-19": [
+    {
+      "name": "Bird",
+      "directedBy": "Andrea Arnold",
+      "releaseDate": "2024-11-08",
+      "posterImage": "pwyvlxx6dhei9v3tgvmwccxszyib",
+      "trailerYoutubeId": "2y0iJkT97Jc?si=j1peO-0WXNL3QD6t",
+      "tmdbId": null
+    },
+    {
+      "name": "Blitz",
+      "directedBy": "Steve McQueen",
+      "releaseDate": "2024-11-01",
+      "posterImage": "wk91utrui91uqd6withan1a2k2qu",
+      "trailerYoutubeId": "iZwykQK9aZo",
+      "tmdbId": null
+    },
+    {
+      "name": "Anora",
+      "directedBy": "Sean Baker",
+      "releaseDate": "2024-11-01",
+      "posterImage": "4wtkfqqwrbwujbov9zvlh4ks19iu",
+      "trailerYoutubeId": "wvSwg5gv88w",
+      "tmdbId": null
+    },
+    {
+      "name": "No Other Land",
+      "directedBy": "Basel Adra, Hamdan Ballal, Yuval Abraham, Rachel Szor",
+      "releaseDate": "2024-11-08",
+      "posterImage": "8m4h958c5q3b16wbllp0pvl2mlgo",
+      "trailerYoutubeId": "-pI2IXKtlew?si=X-9ya4gaaD1hgbCS",
+      "tmdbId": null
+    },
+    {
+      "name": "Anora",
+      "directedBy": "Sean Baker",
+      "releaseDate": "2024-11-01",
+      "posterImage": "4wtkfqqwrbwujbov9zvlh4ks19iu",
+      "trailerYoutubeId": "wvSwg5gv88w",
+      "tmdbId": null
+    },
+    {
+      "name": "Silent Men",
+      "directedBy": "Duncan Cowles",
+      "releaseDate": "2024-06-13",
+      "posterImage": "2rqpgedsa0fzhbhcfaka3gvfdhlo",
+      "trailerYoutubeId": "WC7xi30KZ5E",
+      "tmdbId": null
+    },
+    {
+      "name": "Visible Cinema: Bird",
+      "directedBy": "Andrea Arnold",
+      "releaseDate": "2024-11-08",
+      "posterImage": "s86s8o0f14wv29qh96jrq7hbjwar",
+      "trailerYoutubeId": "ug0TPkuDk6o",
+      "tmdbId": null
+    },
+    {
+      "name": "Mogwai: If the Stars Had a Sound",
+      "directedBy": "Antony Crook",
+      "releaseDate": "2024-03-12",
+      "posterImage": "o79l549460wxyi3gyodq6z08t175",
+      "trailerYoutubeId": "2n-kiHUupb4?si=tQqMPpRtFfDp3BpM",
+      "tmdbId": null
+    },
+    {
+      "name": "Bird",
+      "directedBy": "Andrea Arnold",
+      "releaseDate": "2024-11-08",
+      "posterImage": "pwyvlxx6dhei9v3tgvmwccxszyib",
+      "trailerYoutubeId": "2y0iJkT97Jc?si=j1peO-0WXNL3QD6t",
+      "tmdbId": null
+    },
+    {
+      "name": "Souleymane's Story",
+      "directedBy": "Boris Lojkine",
+      "releaseDate": "2024-10-09",
+      "posterImage": "jtdlrvhum025h0g2fr41p0y17ych",
+      "trailerYoutubeId": "Fp18viF9Zhk?si=EQrtbwPiuSDKALD-",
+      "tmdbId": null
+    }
+  ],
+  "2024-11-20": [
+    {
+      "name": "Blitz",
+      "directedBy": "Steve McQueen",
+      "releaseDate": "2024-11-01",
+      "posterImage": "wk91utrui91uqd6withan1a2k2qu",
+      "trailerYoutubeId": "iZwykQK9aZo",
+      "tmdbId": null
+    },
+    {
+      "name": "Bird",
+      "directedBy": "Andrea Arnold",
+      "releaseDate": "2024-11-08",
+      "posterImage": "pwyvlxx6dhei9v3tgvmwccxszyib",
+      "trailerYoutubeId": "2y0iJkT97Jc?si=j1peO-0WXNL3QD6t",
+      "tmdbId": null
+    },
+    {
+      "name": "Anora",
+      "directedBy": "Sean Baker",
+      "releaseDate": "2024-11-01",
+      "posterImage": "4wtkfqqwrbwujbov9zvlh4ks19iu",
+      "trailerYoutubeId": "wvSwg5gv88w",
+      "tmdbId": null
+    },
+    {
+      "name": "Blitz",
+      "directedBy": "Steve McQueen",
+      "releaseDate": "2024-11-01",
+      "posterImage": "wk91utrui91uqd6withan1a2k2qu",
+      "trailerYoutubeId": "iZwykQK9aZo",
+      "tmdbId": null
+    },
+    {
+      "name": "British-Jewish Life on Film: Glasgow + Q&A",
+      "directedBy": null,
+      "releaseDate": "2024-11-20",
+      "posterImage": "yt1aqqc3f2uofyt2oyljsw3zu9uq",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "No Other Land",
+      "directedBy": "Basel Adra, Hamdan Ballal, Yuval Abraham, Rachel Szor",
+      "releaseDate": "2024-11-08",
+      "posterImage": "8m4h958c5q3b16wbllp0pvl2mlgo",
+      "trailerYoutubeId": "-pI2IXKtlew?si=X-9ya4gaaD1hgbCS",
+      "tmdbId": null
+    },
+    {
+      "name": "Point Break",
+      "directedBy": "Kathryn Bigelow",
+      "releaseDate": "1991-07-12",
+      "posterImage": "1vxoleyraxehpyzbh57sridi1sir",
+      "trailerYoutubeId": "ZgHPumVN4Fo",
+      "tmdbId": null
+    },
+    {
+      "name": "Bird",
+      "directedBy": "Andrea Arnold",
+      "releaseDate": "2024-11-08",
+      "posterImage": "pwyvlxx6dhei9v3tgvmwccxszyib",
+      "trailerYoutubeId": "2y0iJkT97Jc?si=j1peO-0WXNL3QD6t",
+      "tmdbId": null
+    },
+    {
+      "name": "Dead Reckoning",
+      "directedBy": "John Cromwell",
+      "releaseDate": "1946-12-31",
+      "posterImage": "2y4cz1dp3r10bd8yvvd9i1gulu44",
+      "trailerYoutubeId": null,
       "tmdbId": null
     }
   ]
