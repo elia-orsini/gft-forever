@@ -42678,10 +42678,9 @@
       "name": "Old Fox",
       "directedBy": "Hsiao Ya-chuan",
       "releaseDate": "2023-11-24",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/0/6/3/3/6/906336-old-fox-0-230-0-345-crop.jpg?v=36f8aacfcf",
+      "posterImage": "e39pdyeibhoxn69whd2yfns6i25o",
       "trailerYoutubeId": null,
-      "tmdbId": "1006012",
-      "rating": 3.56
+      "tmdbId": null
     },
     {
       "name": "Anora",
@@ -43601,10 +43600,9 @@
       "name": "No Direction Home: Bob Dylan",
       "directedBy": "Martin Scorsese",
       "releaseDate": "2005-07-21",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/3/9/8/7/9/39879-bob-dylan-no-direction-home-0-230-0-345-crop.jpg?v=884438ce96",
+      "posterImage": "n2352i3p7inua585gshfa6yku06z",
       "trailerYoutubeId": "rhpp3sFG17Q?si=1IIPp7q5uva4HOvI",
-      "tmdbId": "19082",
-      "rating": 4.13
+      "tmdbId": null
     },
     {
       "name": "Anora",
@@ -43776,6 +43774,88 @@
       "releaseDate": "1946-12-31",
       "posterImage": "2y4cz1dp3r10bd8yvvd9i1gulu44",
       "trailerYoutubeId": null,
+      "tmdbId": null
+    }
+  ],
+  "2024-11-21": [
+    {
+      "name": "Movie Memories: Seven Brides for Seven Brothers",
+      "directedBy": "Stanley Donen",
+      "releaseDate": "1954-07-22",
+      "posterImage": "5e8oa4wd1yaxd0rpuezpy64jwwsi",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Dead Reckoning",
+      "directedBy": "John Cromwell",
+      "releaseDate": "1946-12-31",
+      "posterImage": "2y4cz1dp3r10bd8yvvd9i1gulu44",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Blitz",
+      "directedBy": "Steve McQueen",
+      "releaseDate": "2024-11-01",
+      "posterImage": "wk91utrui91uqd6withan1a2k2qu",
+      "trailerYoutubeId": "iZwykQK9aZo",
+      "tmdbId": null
+    },
+    {
+      "name": "Bird",
+      "directedBy": "Andrea Arnold",
+      "releaseDate": "2024-11-08",
+      "posterImage": "pwyvlxx6dhei9v3tgvmwccxszyib",
+      "trailerYoutubeId": "2y0iJkT97Jc?si=j1peO-0WXNL3QD6t",
+      "tmdbId": null
+    },
+    {
+      "name": "No Other Land",
+      "directedBy": "Basel Adra, Hamdan Ballal, Yuval Abraham, Rachel Szor",
+      "releaseDate": "2024-11-08",
+      "posterImage": "8m4h958c5q3b16wbllp0pvl2mlgo",
+      "trailerYoutubeId": "-pI2IXKtlew?si=X-9ya4gaaD1hgbCS",
+      "tmdbId": null
+    },
+    {
+      "name": "Point Break",
+      "directedBy": "Kathryn Bigelow",
+      "releaseDate": "1991-07-12",
+      "posterImage": "1vxoleyraxehpyzbh57sridi1sir",
+      "trailerYoutubeId": "ZgHPumVN4Fo",
+      "tmdbId": null
+    },
+    {
+      "name": "Anora",
+      "directedBy": "Sean Baker",
+      "releaseDate": "2024-11-01",
+      "posterImage": "4wtkfqqwrbwujbov9zvlh4ks19iu",
+      "trailerYoutubeId": "wvSwg5gv88w",
+      "tmdbId": null
+    },
+    {
+      "name": "Zombie Film with Grandpas & Grandmas",
+      "directedBy": "Hsu Tzo-Juo",
+      "releaseDate": "2023-10-13",
+      "posterImage": "qmvjhy5m0on2ufqrok87leroby4y",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Blitz",
+      "directedBy": "Steve McQueen",
+      "releaseDate": "2024-11-01",
+      "posterImage": "wk91utrui91uqd6withan1a2k2qu",
+      "trailerYoutubeId": "iZwykQK9aZo",
+      "tmdbId": null
+    },
+    {
+      "name": "Bird",
+      "directedBy": "Andrea Arnold",
+      "releaseDate": "2024-11-08",
+      "posterImage": "pwyvlxx6dhei9v3tgvmwccxszyib",
+      "trailerYoutubeId": "2y0iJkT97Jc?si=j1peO-0WXNL3QD6t",
       "tmdbId": null
     }
   ]
