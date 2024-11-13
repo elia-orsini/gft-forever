@@ -41359,14 +41359,6 @@
       "tmdbId": null
     },
     {
-      "name": "A Sudden Glimpse to Deeper Things",
-      "directedBy": "Mark Cousins",
-      "releaseDate": "2024-10-18",
-      "posterImage": "rfuzaqss3m73pphtz5bcpobbc1vf",
-      "trailerYoutubeId": null,
-      "tmdbId": null
-    },
-    {
       "name": "The Apprentice",
       "directedBy": "Ali Abbasi",
       "releaseDate": "2024-10-09",
@@ -43553,11 +43545,11 @@
       "tmdbId": null
     },
     {
-      "name": "Anora",
-      "directedBy": "Sean Baker",
+      "name": "Small Things Like These",
+      "directedBy": "Tim Mielants",
       "releaseDate": "2024-11-01",
-      "posterImage": "4wtkfqqwrbwujbov9zvlh4ks19iu",
-      "trailerYoutubeId": "wvSwg5gv88w",
+      "posterImage": "ikravq1wx09sntq92ah6zu3sa01u",
+      "trailerYoutubeId": "PBJ3zgH4pGM",
       "tmdbId": null
     },
     {
@@ -43725,11 +43717,11 @@
       "tmdbId": null
     },
     {
-      "name": "Blitz",
-      "directedBy": "Steve McQueen",
+      "name": "Small Things Like These",
+      "directedBy": "Tim Mielants",
       "releaseDate": "2024-11-01",
-      "posterImage": "wk91utrui91uqd6withan1a2k2qu",
-      "trailerYoutubeId": "iZwykQK9aZo",
+      "posterImage": "ikravq1wx09sntq92ah6zu3sa01u",
+      "trailerYoutubeId": "PBJ3zgH4pGM",
       "tmdbId": null
     },
     {
@@ -43880,13 +43872,13 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/0/9/8/3/3/2/1098332-soundtrack-to-a-coup-detat-0-230-0-345-crop.jpg?v=f32f1b835c",
       "trailerYoutubeId": "sHjUJjaG0q0",
       "tmdbId": "1214539",
-      "rating": 3.98
+      "rating": 3.99
     },
     {
       "name": "Layla",
       "directedBy": "Amrou Al-Kadhi",
       "releaseDate": "2024-11-22",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/8/5/2/0/978520-layla-0-230-0-345-crop.jpg?v=e713a42f9a",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/8/5/2/0/978520-layla-0-230-0-345-crop.jpg?v=5cdf66a854",
       "trailerYoutubeId": "ksw_phJpUAA",
       "tmdbId": "1085492",
       "rating": 3.46
@@ -43906,7 +43898,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/6/7/9/9/2/967992-christmas-eve-in-miller-s-point-0-230-0-345-crop.jpg?v=e77d861652",
       "trailerYoutubeId": "hF-A85hPnyI?si=49ZBtBZ0pyPBCDxI",
       "tmdbId": "1073650",
-      "rating": 3.03
+      "rating": 3.04
     },
     {
       "name": "Holy Cow",
@@ -43928,7 +43920,7 @@
       "name": "Layla",
       "directedBy": "Amrou Al-Kadhi",
       "releaseDate": "2024-11-22",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/8/5/2/0/978520-layla-0-230-0-345-crop.jpg?v=e713a42f9a",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/8/5/2/0/978520-layla-0-230-0-345-crop.jpg?v=5cdf66a854",
       "trailerYoutubeId": "ksw_phJpUAA",
       "tmdbId": "1085492",
       "rating": 3.46
@@ -43940,7 +43932,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/0/7/3/4/4/2/1073442-julie-keeps-quiet-0-230-0-345-crop.jpg?v=17036b89e4",
       "trailerYoutubeId": "E6PxvQCECmM?si=fxkF4X8sIvvwNLlf",
       "tmdbId": "1187308",
-      "rating": 3.45
+      "rating": 3.46
     }
   ],
   "2024-11-23": [
@@ -43957,7 +43949,7 @@
       "name": "Layla",
       "directedBy": "Amrou Al-Kadhi",
       "releaseDate": "2024-11-22",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/8/5/2/0/978520-layla-0-230-0-345-crop.jpg?v=e713a42f9a",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/8/5/2/0/978520-layla-0-230-0-345-crop.jpg?v=5cdf66a854",
       "trailerYoutubeId": "ksw_phJpUAA",
       "tmdbId": "1085492",
       "rating": 3.46
@@ -43986,7 +43978,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/0/9/8/3/3/2/1098332-soundtrack-to-a-coup-detat-0-230-0-345-crop.jpg?v=f32f1b835c",
       "trailerYoutubeId": "sHjUJjaG0q0",
       "tmdbId": "1214539",
-      "rating": 3.98
+      "rating": 3.99
     },
     {
       "name": "Anora",
@@ -44011,7 +44003,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/6/7/9/9/2/967992-christmas-eve-in-miller-s-point-0-230-0-345-crop.jpg?v=e77d861652",
       "trailerYoutubeId": "hF-A85hPnyI?si=49ZBtBZ0pyPBCDxI",
       "tmdbId": "1073650",
-      "rating": 3.03
+      "rating": 3.04
     },
     {
       "name": "The Outrun",
@@ -44028,13 +44020,13 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/7/8/8/5/9/878859-emmanuelle-0-230-0-345-crop.jpg?v=d349412e19",
       "trailerYoutubeId": "tyy7CW4XgJo?si=_4bCtQWKSBvXmoMT",
       "tmdbId": "976576",
-      "rating": 2.53
+      "rating": 2.52
     },
     {
       "name": "Layla",
       "directedBy": "Amrou Al-Kadhi",
       "releaseDate": "2024-11-22",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/8/5/2/0/978520-layla-0-230-0-345-crop.jpg?v=e713a42f9a",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/8/5/2/0/978520-layla-0-230-0-345-crop.jpg?v=5cdf66a854",
       "trailerYoutubeId": "ksw_phJpUAA",
       "tmdbId": "1085492",
       "rating": 3.46
@@ -44056,7 +44048,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/6/7/9/9/2/967992-christmas-eve-in-miller-s-point-0-230-0-345-crop.jpg?v=e77d861652",
       "trailerYoutubeId": "hF-A85hPnyI?si=49ZBtBZ0pyPBCDxI",
       "tmdbId": "1073650",
-      "rating": 3.03
+      "rating": 3.04
     },
     {
       "name": "Murder By Contract",
@@ -44071,7 +44063,7 @@
       "name": "Layla",
       "directedBy": "Amrou Al-Kadhi",
       "releaseDate": "2024-11-22",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/8/5/2/0/978520-layla-0-230-0-345-crop.jpg?v=e713a42f9a",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/8/5/2/0/978520-layla-0-230-0-345-crop.jpg?v=5cdf66a854",
       "trailerYoutubeId": "ksw_phJpUAA",
       "tmdbId": "1085492",
       "rating": 3.46
@@ -44100,7 +44092,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/0/9/8/3/3/2/1098332-soundtrack-to-a-coup-detat-0-230-0-345-crop.jpg?v=f32f1b835c",
       "trailerYoutubeId": "sHjUJjaG0q0",
       "tmdbId": "1214539",
-      "rating": 3.98
+      "rating": 3.99
     },
     {
       "name": "Victor Victoria + introduction",
@@ -44121,19 +44113,27 @@
   ],
   "2024-11-25": [
     {
+      "name": "Small Things Like These",
+      "directedBy": "Tim Mielants",
+      "releaseDate": "2024-11-01",
+      "posterImage": "ikravq1wx09sntq92ah6zu3sa01u",
+      "trailerYoutubeId": "PBJ3zgH4pGM",
+      "tmdbId": null
+    },
+    {
       "name": "Soundtrack to a Coup d'Etat",
       "directedBy": "Johan Grimonprez",
       "releaseDate": "2024-09-11",
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/0/9/8/3/3/2/1098332-soundtrack-to-a-coup-detat-0-230-0-345-crop.jpg?v=f32f1b835c",
       "trailerYoutubeId": "sHjUJjaG0q0",
       "tmdbId": "1214539",
-      "rating": 3.98
+      "rating": 3.99
     },
     {
       "name": "Layla",
       "directedBy": "Amrou Al-Kadhi",
       "releaseDate": "2024-11-22",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/8/5/2/0/978520-layla-0-230-0-345-crop.jpg?v=e713a42f9a",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/8/5/2/0/978520-layla-0-230-0-345-crop.jpg?v=5cdf66a854",
       "trailerYoutubeId": "ksw_phJpUAA",
       "tmdbId": "1085492",
       "rating": 3.46
@@ -44153,7 +44153,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/6/7/9/9/2/967992-christmas-eve-in-miller-s-point-0-230-0-345-crop.jpg?v=e77d861652",
       "trailerYoutubeId": "hF-A85hPnyI?si=49ZBtBZ0pyPBCDxI",
       "tmdbId": "1073650",
-      "rating": 3.03
+      "rating": 3.04
     },
     {
       "name": "Dog on Trial",
@@ -44176,7 +44176,7 @@
       "name": "Layla",
       "directedBy": "Amrou Al-Kadhi",
       "releaseDate": "2024-11-22",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/8/5/2/0/978520-layla-0-230-0-345-crop.jpg?v=e713a42f9a",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/8/5/2/0/978520-layla-0-230-0-345-crop.jpg?v=5cdf66a854",
       "trailerYoutubeId": "ksw_phJpUAA",
       "tmdbId": "1085492",
       "rating": 3.46
@@ -44203,7 +44203,7 @@
       "name": "Layla",
       "directedBy": "Amrou Al-Kadhi",
       "releaseDate": "2024-11-22",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/8/5/2/0/978520-layla-0-230-0-345-crop.jpg?v=e713a42f9a",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/8/5/2/0/978520-layla-0-230-0-345-crop.jpg?v=5cdf66a854",
       "trailerYoutubeId": "ksw_phJpUAA",
       "tmdbId": "1085492",
       "rating": 3.46
@@ -44215,7 +44215,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/6/7/9/9/2/967992-christmas-eve-in-miller-s-point-0-230-0-345-crop.jpg?v=e77d861652",
       "trailerYoutubeId": "hF-A85hPnyI?si=49ZBtBZ0pyPBCDxI",
       "tmdbId": "1073650",
-      "rating": 3.03
+      "rating": 3.04
     },
     {
       "name": "Anora",
@@ -44229,7 +44229,7 @@
       "name": "Layla",
       "directedBy": "Amrou Al-Kadhi",
       "releaseDate": "2024-11-22",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/8/5/2/0/978520-layla-0-230-0-345-crop.jpg?v=e713a42f9a",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/8/5/2/0/978520-layla-0-230-0-345-crop.jpg?v=5cdf66a854",
       "trailerYoutubeId": "ksw_phJpUAA",
       "tmdbId": "1085492",
       "rating": 3.46
@@ -44249,7 +44249,15 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/0/9/8/3/3/2/1098332-soundtrack-to-a-coup-detat-0-230-0-345-crop.jpg?v=f32f1b835c",
       "trailerYoutubeId": "sHjUJjaG0q0",
       "tmdbId": "1214539",
-      "rating": 3.98
+      "rating": 3.99
+    },
+    {
+      "name": "Since Yesterday: The Untold Story of Scotland's Girl Bands",
+      "directedBy": "Blair Young, Carla J Easton",
+      "releaseDate": "2024-10-18",
+      "posterImage": "6bjliyxbbzs9g4pgz2db7l8u15jq",
+      "trailerYoutubeId": null,
+      "tmdbId": null
     },
     {
       "name": "Run Lola Run",
@@ -44276,16 +44284,24 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/0/9/8/3/3/2/1098332-soundtrack-to-a-coup-detat-0-230-0-345-crop.jpg?v=f32f1b835c",
       "trailerYoutubeId": "sHjUJjaG0q0",
       "tmdbId": "1214539",
-      "rating": 3.98
+      "rating": 3.99
     },
     {
       "name": "Layla",
       "directedBy": "Amrou Al-Kadhi",
       "releaseDate": "2024-11-22",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/8/5/2/0/978520-layla-0-230-0-345-crop.jpg?v=e713a42f9a",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/8/5/2/0/978520-layla-0-230-0-345-crop.jpg?v=5cdf66a854",
       "trailerYoutubeId": "ksw_phJpUAA",
       "tmdbId": "1085492",
       "rating": 3.46
+    },
+    {
+      "name": "Since Yesterday: The Untold Story of Scotland's Girl Bands",
+      "directedBy": "Blair Young, Carla J Easton",
+      "releaseDate": "2024-10-18",
+      "posterImage": "6bjliyxbbzs9g4pgz2db7l8u15jq",
+      "trailerYoutubeId": null,
+      "tmdbId": null
     },
     {
       "name": "Cesar and Rosalie",
@@ -44303,7 +44319,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/6/7/9/9/2/967992-christmas-eve-in-miller-s-point-0-230-0-345-crop.jpg?v=e77d861652",
       "trailerYoutubeId": "hF-A85hPnyI?si=49ZBtBZ0pyPBCDxI",
       "tmdbId": "1073650",
-      "rating": 3.03
+      "rating": 3.04
     },
     {
       "name": "NT Live: Prima Facie",
@@ -44325,7 +44341,7 @@
       "name": "Layla",
       "directedBy": "Amrou Al-Kadhi",
       "releaseDate": "2024-11-22",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/8/5/2/0/978520-layla-0-230-0-345-crop.jpg?v=e713a42f9a",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/8/5/2/0/978520-layla-0-230-0-345-crop.jpg?v=5cdf66a854",
       "trailerYoutubeId": "ksw_phJpUAA",
       "tmdbId": "1085492",
       "rating": 3.46
@@ -44333,19 +44349,27 @@
   ],
   "2024-11-28": [
     {
+      "name": "Small Things Like These",
+      "directedBy": "Tim Mielants",
+      "releaseDate": "2024-11-01",
+      "posterImage": "ikravq1wx09sntq92ah6zu3sa01u",
+      "trailerYoutubeId": "PBJ3zgH4pGM",
+      "tmdbId": null
+    },
+    {
       "name": "Soundtrack to a Coup d'Etat",
       "directedBy": "Johan Grimonprez",
       "releaseDate": "2024-09-11",
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/0/9/8/3/3/2/1098332-soundtrack-to-a-coup-detat-0-230-0-345-crop.jpg?v=f32f1b835c",
       "trailerYoutubeId": "sHjUJjaG0q0",
       "tmdbId": "1214539",
-      "rating": 3.98
+      "rating": 3.99
     },
     {
       "name": "Layla",
       "directedBy": "Amrou Al-Kadhi",
       "releaseDate": "2024-11-22",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/8/5/2/0/978520-layla-0-230-0-345-crop.jpg?v=e713a42f9a",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/8/5/2/0/978520-layla-0-230-0-345-crop.jpg?v=5cdf66a854",
       "trailerYoutubeId": "ksw_phJpUAA",
       "tmdbId": "1085492",
       "rating": 3.46
@@ -44390,7 +44414,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/6/7/9/9/2/967992-christmas-eve-in-miller-s-point-0-230-0-345-crop.jpg?v=e77d861652",
       "trailerYoutubeId": "hF-A85hPnyI?si=49ZBtBZ0pyPBCDxI",
       "tmdbId": "1073650",
-      "rating": 3.03
+      "rating": 3.04
     },
     {
       "name": "Everybody Loves Touda",
@@ -44420,5 +44444,17 @@
       "trailerYoutubeId": "5DIBRSpEx9E?si=qWDCir3njIwIm-wn",
       "tmdbId": null
     }
-  ]
+  ],
+  "2024-12-01": [],
+  "2024-12-02": [
+    {
+      "name": "Liverpool Story + Q&A",
+      "directedBy": "Daniel Draper",
+      "releaseDate": "2024-11-21",
+      "posterImage": "pc6f0kjajdc8bt0n1z2070lqtjpl",
+      "trailerYoutubeId": "LAxkW1UVxN4?si=zzoq-x0MUczIMmSM",
+      "tmdbId": null
+    }
+  ],
+  "2024-12-03": []
 }
