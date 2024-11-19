@@ -43954,7 +43954,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/6/3/6/1/7/863617-beating-hearts-2024-0-230-0-345-crop.jpg?v=8cf64b7bca",
       "trailerYoutubeId": null,
       "tmdbId": "959604",
-      "rating": 3.77
+      "rating": 3.76
     },
     {
       "name": "The Outrun",
@@ -44467,5 +44467,51 @@
       "tmdbId": null
     }
   ],
-  "2024-12-06": []
+  "2024-12-06": [],
+  "2024-12-07": [
+    {
+      "name": "RM: Right People, Wrong Place",
+      "directedBy": "Lee Seok-jun",
+      "releaseDate": "2024-12-05",
+      "posterImage": "cuvbb47eh1f6kcr3dqpm01b4eraw",
+      "trailerYoutubeId": "2qepS30_wdA?si=BxF4pqxWIMVyWE73",
+      "tmdbId": null
+    },
+    {
+      "name": "All Shall Be Well",
+      "directedBy": "Ray Yeung",
+      "releaseDate": "2024-05-01",
+      "posterImage": "zywf5cljthqupen1v7maykunspo0",
+      "trailerYoutubeId": "4GTL2q9ueI4?si=T_lbbTK6R1GYHECZ",
+      "tmdbId": null
+    }
+  ],
+  "2024-12-08": [
+    {
+      "name": "July Rhapsody",
+      "directedBy": "Ann Hui",
+      "releaseDate": "2002-03-14",
+      "posterImage": "3j1wwgt14ltc0a43k0bgfjqqtv28",
+      "trailerYoutubeId": "BnfxGRgFI3Q?si=aDNowcGcWRVl0mQ7",
+      "tmdbId": null
+    }
+  ],
+  "2024-12-09": [
+    {
+      "name": "Access Film Club: The Princess Bride",
+      "directedBy": "Rob Reiner",
+      "releaseDate": "1987-09-25",
+      "posterImage": "qy9i4va3nsddpzkoyn2ibdjamzg9",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Who's That Knocking at My Door + introduction",
+      "directedBy": "Martin Scorsese",
+      "releaseDate": "1969-03-14",
+      "posterImage": "qcmg7aa5tprtvxjwgw361saldaok",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    }
+  ]
 }
