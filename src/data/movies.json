@@ -44430,7 +44430,7 @@
       "releaseDate": "2024-09-13",
       "posterImage": "b8yzb1h87n06jtbcxh85doxdn7wr",
       "trailerYoutubeId": "44ElZ_dqgMA?si=VA555NlG0VjRkV4H",
-      "tmdbId": "1014895"
+      "tmdbId": null
     },
     {
       "name": "Soundtrack to a Coup d'Etat",
@@ -44576,7 +44576,7 @@
       "releaseDate": "2024-09-13",
       "posterImage": "b8yzb1h87n06jtbcxh85doxdn7wr",
       "trailerYoutubeId": "44ElZ_dqgMA?si=VA555NlG0VjRkV4H",
-      "tmdbId": "1014895"
+      "tmdbId": null
     }
   ],
   "2024-12-01": [
@@ -44602,7 +44602,7 @@
       "releaseDate": "2024-09-13",
       "posterImage": "b8yzb1h87n06jtbcxh85doxdn7wr",
       "trailerYoutubeId": "44ElZ_dqgMA?si=VA555NlG0VjRkV4H",
-      "tmdbId": "1014895"
+      "tmdbId": null
     },
     {
       "name": "Conclave",
@@ -44716,7 +44716,7 @@
       "releaseDate": "2024-09-13",
       "posterImage": "b8yzb1h87n06jtbcxh85doxdn7wr",
       "trailerYoutubeId": "44ElZ_dqgMA?si=VA555NlG0VjRkV4H",
-      "tmdbId": "1014895"
+      "tmdbId": null
     }
   ],
   "2024-12-03": [
@@ -44938,10 +44938,9 @@
       "name": "Grand Theft Hamlet",
       "directedBy": "Sam Crane, Pinny Grylls",
       "releaseDate": "2024-10-21",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/8/0/5/0/1118050-grand-theft-hamlet-0-230-0-345-crop.jpg?v=43fd1b48d3",
+      "posterImage": "comqbla1mcm1rvjv35k56ll30yvk",
       "trailerYoutubeId": null,
-      "tmdbId": "1234397",
-      "rating": 3.63
+      "tmdbId": null
     },
     {
       "name": "All We Imagine as Light",
@@ -44955,10 +44954,9 @@
       "name": "On Becoming a Guinea Fowl",
       "directedBy": "Rungano Nyoni",
       "releaseDate": "2024-05-16",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/6/2/1/4/976214-on-becoming-a-guinea-fowl-0-230-0-345-crop.jpg?v=ccfcececae",
+      "posterImage": "s7ftp77ed2txh00bda3w2ppc7qqi",
       "trailerYoutubeId": null,
-      "tmdbId": "1082938",
-      "rating": 3.64
+      "tmdbId": null
     },
     {
       "name": "Nightbitch",
@@ -44980,10 +44978,9 @@
       "name": "Grand Theft Hamlet",
       "directedBy": "Sam Crane, Pinny Grylls",
       "releaseDate": "2024-10-21",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/8/0/5/0/1118050-grand-theft-hamlet-0-230-0-345-crop.jpg?v=43fd1b48d3",
+      "posterImage": "comqbla1mcm1rvjv35k56ll30yvk",
       "trailerYoutubeId": null,
-      "tmdbId": "1234397",
-      "rating": 3.63
+      "tmdbId": null
     },
     {
       "name": "Nightbitch",
@@ -44997,10 +44994,9 @@
       "name": "On Becoming a Guinea Fowl",
       "directedBy": "Rungano Nyoni",
       "releaseDate": "2024-05-16",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/6/2/1/4/976214-on-becoming-a-guinea-fowl-0-230-0-345-crop.jpg?v=ccfcececae",
+      "posterImage": "s7ftp77ed2txh00bda3w2ppc7qqi",
       "trailerYoutubeId": null,
-      "tmdbId": "1082938",
-      "rating": 3.64
+      "tmdbId": null
     },
     {
       "name": "All We Imagine as Light",
@@ -45024,28 +45020,25 @@
       "name": "Take 2: The Polar Express",
       "directedBy": "Robert Zemeckis",
       "releaseDate": "2004-11-10",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/4/8/8/8/3/48883-the-polar-express-0-230-0-345-crop.jpg?v=3f712d66a6",
+      "posterImage": "ztbuvvexejsm47nl16krilb82zja",
       "trailerYoutubeId": "TQhRqtt-Fpo",
-      "tmdbId": "5255",
-      "rating": 3.25
+      "tmdbId": null
     },
     {
       "name": "On Becoming a Guinea Fowl",
       "directedBy": "Rungano Nyoni",
       "releaseDate": "2024-05-16",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/6/2/1/4/976214-on-becoming-a-guinea-fowl-0-230-0-345-crop.jpg?v=ccfcececae",
+      "posterImage": "s7ftp77ed2txh00bda3w2ppc7qqi",
       "trailerYoutubeId": null,
-      "tmdbId": "1082938",
-      "rating": 3.64
+      "tmdbId": null
     },
     {
       "name": "Grand Theft Hamlet",
       "directedBy": "Sam Crane, Pinny Grylls",
       "releaseDate": "2024-10-21",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/8/0/5/0/1118050-grand-theft-hamlet-0-230-0-345-crop.jpg?v=43fd1b48d3",
+      "posterImage": "comqbla1mcm1rvjv35k56ll30yvk",
       "trailerYoutubeId": null,
-      "tmdbId": "1234397",
-      "rating": 3.63
+      "tmdbId": null
     },
     {
       "name": "Conclave",
@@ -45067,10 +45060,9 @@
       "name": "On Becoming a Guinea Fowl",
       "directedBy": "Rungano Nyoni",
       "releaseDate": "2024-05-16",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/6/2/1/4/976214-on-becoming-a-guinea-fowl-0-230-0-345-crop.jpg?v=ccfcececae",
+      "posterImage": "s7ftp77ed2txh00bda3w2ppc7qqi",
       "trailerYoutubeId": null,
-      "tmdbId": "1082938",
-      "rating": 3.64
+      "tmdbId": null
     },
     {
       "name": "All We Imagine as Light",
@@ -45116,10 +45108,9 @@
       "name": "Grand Theft Hamlet",
       "directedBy": "Sam Crane, Pinny Grylls",
       "releaseDate": "2024-10-21",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/8/0/5/0/1118050-grand-theft-hamlet-0-230-0-345-crop.jpg?v=43fd1b48d3",
+      "posterImage": "comqbla1mcm1rvjv35k56ll30yvk",
       "trailerYoutubeId": null,
-      "tmdbId": "1234397",
-      "rating": 3.63
+      "tmdbId": null
     }
   ],
   "2024-12-08": [
@@ -45159,10 +45150,9 @@
       "name": "Grand Theft Hamlet",
       "directedBy": "Sam Crane, Pinny Grylls",
       "releaseDate": "2024-10-21",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/8/0/5/0/1118050-grand-theft-hamlet-0-230-0-345-crop.jpg?v=43fd1b48d3",
+      "posterImage": "comqbla1mcm1rvjv35k56ll30yvk",
       "trailerYoutubeId": null,
-      "tmdbId": "1234397",
-      "rating": 3.63
+      "tmdbId": null
     },
     {
       "name": "July Rhapsody",
@@ -45192,10 +45182,9 @@
       "name": "On Becoming a Guinea Fowl",
       "directedBy": "Rungano Nyoni",
       "releaseDate": "2024-05-16",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/6/2/1/4/976214-on-becoming-a-guinea-fowl-0-230-0-345-crop.jpg?v=ccfcececae",
+      "posterImage": "s7ftp77ed2txh00bda3w2ppc7qqi",
       "trailerYoutubeId": null,
-      "tmdbId": "1082938",
-      "rating": 3.64
+      "tmdbId": null
     }
   ],
   "2024-12-09": [
@@ -45211,10 +45200,9 @@
       "name": "On Becoming a Guinea Fowl",
       "directedBy": "Rungano Nyoni",
       "releaseDate": "2024-05-16",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/6/2/1/4/976214-on-becoming-a-guinea-fowl-0-230-0-345-crop.jpg?v=ccfcececae",
+      "posterImage": "s7ftp77ed2txh00bda3w2ppc7qqi",
       "trailerYoutubeId": null,
-      "tmdbId": "1082938",
-      "rating": 3.64
+      "tmdbId": null
     },
     {
       "name": "All We Imagine as Light",
@@ -45228,10 +45216,9 @@
       "name": "On Becoming a Guinea Fowl",
       "directedBy": "Rungano Nyoni",
       "releaseDate": "2024-05-16",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/6/2/1/4/976214-on-becoming-a-guinea-fowl-0-230-0-345-crop.jpg?v=ccfcececae",
+      "posterImage": "s7ftp77ed2txh00bda3w2ppc7qqi",
       "trailerYoutubeId": null,
-      "tmdbId": "1082938",
-      "rating": 3.64
+      "tmdbId": null
     },
     {
       "name": "Nightbitch",
@@ -45245,10 +45232,9 @@
       "name": "Grand Theft Hamlet",
       "directedBy": "Sam Crane, Pinny Grylls",
       "releaseDate": "2024-10-21",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/8/0/5/0/1118050-grand-theft-hamlet-0-230-0-345-crop.jpg?v=43fd1b48d3",
+      "posterImage": "comqbla1mcm1rvjv35k56ll30yvk",
       "trailerYoutubeId": null,
-      "tmdbId": "1234397",
-      "rating": 3.63
+      "tmdbId": null
     },
     {
       "name": "Conclave",
@@ -45294,10 +45280,9 @@
       "name": "Grand Theft Hamlet",
       "directedBy": "Sam Crane, Pinny Grylls",
       "releaseDate": "2024-10-21",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/8/0/5/0/1118050-grand-theft-hamlet-0-230-0-345-crop.jpg?v=43fd1b48d3",
+      "posterImage": "comqbla1mcm1rvjv35k56ll30yvk",
       "trailerYoutubeId": null,
-      "tmdbId": "1234397",
-      "rating": 3.63
+      "tmdbId": null
     }
   ],
   "2024-12-10": [
@@ -45305,10 +45290,9 @@
       "name": "On Becoming a Guinea Fowl",
       "directedBy": "Rungano Nyoni",
       "releaseDate": "2024-05-16",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/6/2/1/4/976214-on-becoming-a-guinea-fowl-0-230-0-345-crop.jpg?v=ccfcececae",
+      "posterImage": "s7ftp77ed2txh00bda3w2ppc7qqi",
       "trailerYoutubeId": null,
-      "tmdbId": "1082938",
-      "rating": 3.64
+      "tmdbId": null
     },
     {
       "name": "Conclave",
@@ -45330,10 +45314,9 @@
       "name": "Grand Theft Hamlet",
       "directedBy": "Sam Crane, Pinny Grylls",
       "releaseDate": "2024-10-21",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/8/0/5/0/1118050-grand-theft-hamlet-0-230-0-345-crop.jpg?v=43fd1b48d3",
+      "posterImage": "comqbla1mcm1rvjv35k56ll30yvk",
       "trailerYoutubeId": null,
-      "tmdbId": "1234397",
-      "rating": 3.63
+      "tmdbId": null
     },
     {
       "name": "All We Imagine as Light",
@@ -45355,28 +45338,25 @@
       "name": "Memories of a Burning Body",
       "directedBy": "Antonella Sudasassi",
       "releaseDate": "2024-07-11",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/5/5/2/6/1115526-memories-of-a-burning-body-0-230-0-345-crop.jpg?v=1f81b3beb9",
+      "posterImage": "9ewnvfexapogf8rhdw8btyqtkpms",
       "trailerYoutubeId": "yhZw0zIfGXg?si=TCQg3621KBg6GQtS",
-      "tmdbId": "1232350",
-      "rating": 3.89
+      "tmdbId": null
     },
     {
       "name": "Grand Theft Hamlet",
       "directedBy": "Sam Crane, Pinny Grylls",
       "releaseDate": "2024-10-21",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/8/0/5/0/1118050-grand-theft-hamlet-0-230-0-345-crop.jpg?v=43fd1b48d3",
+      "posterImage": "comqbla1mcm1rvjv35k56ll30yvk",
       "trailerYoutubeId": null,
-      "tmdbId": "1234397",
-      "rating": 3.63
+      "tmdbId": null
     },
     {
       "name": "On Becoming a Guinea Fowl",
       "directedBy": "Rungano Nyoni",
       "releaseDate": "2024-05-16",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/6/2/1/4/976214-on-becoming-a-guinea-fowl-0-230-0-345-crop.jpg?v=ccfcececae",
+      "posterImage": "s7ftp77ed2txh00bda3w2ppc7qqi",
       "trailerYoutubeId": null,
-      "tmdbId": "1082938",
-      "rating": 3.64
+      "tmdbId": null
     },
     {
       "name": "Nightbitch",
@@ -45400,10 +45380,9 @@
       "name": "Memories of a Burning Body",
       "directedBy": "Antonella Sudasassi",
       "releaseDate": "2024-07-11",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/5/5/2/6/1115526-memories-of-a-burning-body-0-230-0-345-crop.jpg?v=1f81b3beb9",
+      "posterImage": "9ewnvfexapogf8rhdw8btyqtkpms",
       "trailerYoutubeId": "yhZw0zIfGXg?si=TCQg3621KBg6GQtS",
-      "tmdbId": "1232350",
-      "rating": 3.89
+      "tmdbId": null
     },
     {
       "name": "Conclave",
@@ -45433,10 +45412,9 @@
       "name": "On Becoming a Guinea Fowl",
       "directedBy": "Rungano Nyoni",
       "releaseDate": "2024-05-16",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/6/2/1/4/976214-on-becoming-a-guinea-fowl-0-230-0-345-crop.jpg?v=ccfcececae",
+      "posterImage": "s7ftp77ed2txh00bda3w2ppc7qqi",
       "trailerYoutubeId": null,
-      "tmdbId": "1082938",
-      "rating": 3.64
+      "tmdbId": null
     },
     {
       "name": "All We Imagine as Light",
@@ -45466,10 +45444,9 @@
       "name": "Grand Theft Hamlet",
       "directedBy": "Sam Crane, Pinny Grylls",
       "releaseDate": "2024-10-21",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/8/0/5/0/1118050-grand-theft-hamlet-0-230-0-345-crop.jpg?v=43fd1b48d3",
+      "posterImage": "comqbla1mcm1rvjv35k56ll30yvk",
       "trailerYoutubeId": null,
-      "tmdbId": "1234397",
-      "rating": 3.63
+      "tmdbId": null
     }
   ],
   "2024-12-12": [
@@ -45485,10 +45462,9 @@
       "name": "On Becoming a Guinea Fowl",
       "directedBy": "Rungano Nyoni",
       "releaseDate": "2024-05-16",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/6/2/1/4/976214-on-becoming-a-guinea-fowl-0-230-0-345-crop.jpg?v=ccfcececae",
+      "posterImage": "s7ftp77ed2txh00bda3w2ppc7qqi",
       "trailerYoutubeId": null,
-      "tmdbId": "1082938",
-      "rating": 3.64
+      "tmdbId": null
     },
     {
       "name": "Nightbitch",
@@ -45510,10 +45486,9 @@
       "name": "Memories of a Burning Body",
       "directedBy": "Antonella Sudasassi",
       "releaseDate": "2024-07-11",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/5/5/2/6/1115526-memories-of-a-burning-body-0-230-0-345-crop.jpg?v=1f81b3beb9",
+      "posterImage": "9ewnvfexapogf8rhdw8btyqtkpms",
       "trailerYoutubeId": "yhZw0zIfGXg?si=TCQg3621KBg6GQtS",
-      "tmdbId": "1232350",
-      "rating": 3.89
+      "tmdbId": null
     },
     {
       "name": "Conclave",
@@ -45527,10 +45502,9 @@
       "name": "On Becoming a Guinea Fowl",
       "directedBy": "Rungano Nyoni",
       "releaseDate": "2024-05-16",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/6/2/1/4/976214-on-becoming-a-guinea-fowl-0-230-0-345-crop.jpg?v=ccfcececae",
+      "posterImage": "s7ftp77ed2txh00bda3w2ppc7qqi",
       "trailerYoutubeId": null,
-      "tmdbId": "1082938",
-      "rating": 3.64
+      "tmdbId": null
     },
     {
       "name": "Nightbitch",
@@ -45544,19 +45518,262 @@
       "name": "Memories of a Burning Body",
       "directedBy": "Antonella Sudasassi",
       "releaseDate": "2024-07-11",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/5/5/2/6/1115526-memories-of-a-burning-body-0-230-0-345-crop.jpg?v=1f81b3beb9",
+      "posterImage": "9ewnvfexapogf8rhdw8btyqtkpms",
       "trailerYoutubeId": "yhZw0zIfGXg?si=TCQg3621KBg6GQtS",
-      "tmdbId": "1232350",
-      "rating": 3.89
+      "tmdbId": null
     },
     {
       "name": "Grand Theft Hamlet",
       "directedBy": "Sam Crane, Pinny Grylls",
       "releaseDate": "2024-10-21",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/8/0/5/0/1118050-grand-theft-hamlet-0-230-0-345-crop.jpg?v=43fd1b48d3",
+      "posterImage": "comqbla1mcm1rvjv35k56ll30yvk",
       "trailerYoutubeId": null,
-      "tmdbId": "1234397",
-      "rating": 3.63
+      "tmdbId": null
+    }
+  ],
+  "2024-12-13": [
+    {
+      "name": "The Bishop's Wife",
+      "directedBy": "Henry Koster",
+      "releaseDate": "1947-12-25",
+      "posterImage": "2mfknnfliv6bxkwpykdvuqej6rsq",
+      "trailerYoutubeId": "bgb6ZRNQTv8",
+      "tmdbId": null
+    },
+    {
+      "name": "Queer",
+      "directedBy": "Luca Guadagnino",
+      "releaseDate": "2024-11-27",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/5/5/1/8/4/955184-queer-2024-0-230-0-345-crop.jpg?v=a53659b461",
+      "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
+      "tmdbId": "1059128",
+      "rating": 3.5
+    },
+    {
+      "name": "It's A Wonderful Life",
+      "directedBy": "Frank Capra",
+      "releaseDate": "1946-12-20",
+      "posterImage": "fmsqzudqwbrna1pmf99772dvhrp0",
+      "trailerYoutubeId": "iLR3gZrU2Xo",
+      "tmdbId": null
+    },
+    {
+      "name": "White Christmas - 70th Anniversary",
+      "directedBy": "Michael Curtiz",
+      "releaseDate": "1954-10-14",
+      "posterImage": "eu82sh5ut3dyo5g7tolda32ni5g9",
+      "trailerYoutubeId": "4K2C0gcEV3Q",
+      "tmdbId": null
+    },
+    {
+      "name": "Queer",
+      "directedBy": "Luca Guadagnino",
+      "releaseDate": "2024-11-27",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/5/5/1/8/4/955184-queer-2024-0-230-0-345-crop.jpg?v=a53659b461",
+      "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
+      "tmdbId": "1059128",
+      "rating": 3.5
+    },
+    {
+      "name": "It's A Wonderful Life",
+      "directedBy": "Frank Capra",
+      "releaseDate": "1946-12-20",
+      "posterImage": "fmsqzudqwbrna1pmf99772dvhrp0",
+      "trailerYoutubeId": "iLR3gZrU2Xo",
+      "tmdbId": null
+    },
+    {
+      "name": "Nightbitch",
+      "directedBy": "Marielle Heller",
+      "releaseDate": "2024-12-05",
+      "posterImage": "d5bdpmj7wwgh940e85e5us9pxp0t",
+      "trailerYoutubeId": "PsUTQKzZM0E?si=RwgUUiv1V4pIahQB",
+      "tmdbId": null
+    },
+    {
+      "name": "Queer",
+      "directedBy": "Luca Guadagnino",
+      "releaseDate": "2024-11-27",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/5/5/1/8/4/955184-queer-2024-0-230-0-345-crop.jpg?v=a53659b461",
+      "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
+      "tmdbId": "1059128",
+      "rating": 3.5
+    },
+    {
+      "name": "It's A Wonderful Life",
+      "directedBy": "Frank Capra",
+      "releaseDate": "1946-12-20",
+      "posterImage": "fmsqzudqwbrna1pmf99772dvhrp0",
+      "trailerYoutubeId": "iLR3gZrU2Xo",
+      "tmdbId": null
+    },
+    {
+      "name": "Preview: 2073 + discussion",
+      "directedBy": "Asif Kapadia",
+      "releaseDate": "2024-12-27",
+      "posterImage": "yfttcmp2tumbwrbkh225urh71yo0",
+      "trailerYoutubeId": "9NFOQTRTJqw?si=ss56iGUpdi9xuiXU",
+      "tmdbId": null
+    }
+  ],
+  "2024-12-14": [
+    {
+      "name": "Take 2: The Muppet Christmas Carol",
+      "directedBy": "Brian Henson",
+      "releaseDate": "1992-12-10",
+      "posterImage": "yud0xyt95rk47sqtpbp6u7webdr8",
+      "trailerYoutubeId": "pNo-Q0IDJi0",
+      "tmdbId": null
+    },
+    {
+      "name": "Bill Douglas - Trilogy",
+      "directedBy": "Bill Douglas",
+      "releaseDate": "1972-06-05",
+      "posterImage": "yhoymylba9z0o5xb77xdd8idnomx",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "White Christmas - 70th Anniversary",
+      "directedBy": "Michael Curtiz",
+      "releaseDate": "1954-10-14",
+      "posterImage": "eu82sh5ut3dyo5g7tolda32ni5g9",
+      "trailerYoutubeId": "4K2C0gcEV3Q",
+      "tmdbId": null
+    },
+    {
+      "name": "It's A Wonderful Life",
+      "directedBy": "Frank Capra",
+      "releaseDate": "1946-12-20",
+      "posterImage": "fmsqzudqwbrna1pmf99772dvhrp0",
+      "trailerYoutubeId": "iLR3gZrU2Xo",
+      "tmdbId": null
+    },
+    {
+      "name": "Queer",
+      "directedBy": "Luca Guadagnino",
+      "releaseDate": "2024-11-27",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/5/5/1/8/4/955184-queer-2024-0-230-0-345-crop.jpg?v=a53659b461",
+      "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
+      "tmdbId": "1059128",
+      "rating": 3.5
+    },
+    {
+      "name": "It's A Wonderful Life",
+      "directedBy": "Frank Capra",
+      "releaseDate": "1946-12-20",
+      "posterImage": "fmsqzudqwbrna1pmf99772dvhrp0",
+      "trailerYoutubeId": "iLR3gZrU2Xo",
+      "tmdbId": null
+    },
+    {
+      "name": "Gremlins - 40th Anniversary",
+      "directedBy": "Joe Dante",
+      "releaseDate": "1984-06-08",
+      "posterImage": "7ikea7nov999iat1vsk4udn8a7jo",
+      "trailerYoutubeId": "gd20j2Hb-0Y",
+      "tmdbId": null
+    },
+    {
+      "name": "Queer",
+      "directedBy": "Luca Guadagnino",
+      "releaseDate": "2024-11-27",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/5/5/1/8/4/955184-queer-2024-0-230-0-345-crop.jpg?v=a53659b461",
+      "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
+      "tmdbId": "1059128",
+      "rating": 3.5
+    },
+    {
+      "name": "It's A Wonderful Life",
+      "directedBy": "Frank Capra",
+      "releaseDate": "1946-12-20",
+      "posterImage": "fmsqzudqwbrna1pmf99772dvhrp0",
+      "trailerYoutubeId": "iLR3gZrU2Xo",
+      "tmdbId": null
+    },
+    {
+      "name": "In Bruges",
+      "directedBy": "Martin McDonagh",
+      "releaseDate": "2008-02-08",
+      "posterImage": "7ulsummfp1yw5655r86aauwbz8dc",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    }
+  ],
+  "2024-12-15": [
+    {
+      "name": "It's A Wonderful Life",
+      "directedBy": "Frank Capra",
+      "releaseDate": "1946-12-20",
+      "posterImage": "fmsqzudqwbrna1pmf99772dvhrp0",
+      "trailerYoutubeId": "iLR3gZrU2Xo",
+      "tmdbId": null
+    },
+    {
+      "name": "The Muppet Christmas Carol",
+      "directedBy": "Brian Henson",
+      "releaseDate": "1992-12-10",
+      "posterImage": "yud0xyt95rk47sqtpbp6u7webdr8",
+      "trailerYoutubeId": "pNo-Q0IDJi0",
+      "tmdbId": null
+    },
+    {
+      "name": "Queer",
+      "directedBy": "Luca Guadagnino",
+      "releaseDate": "2024-11-27",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/5/5/1/8/4/955184-queer-2024-0-230-0-345-crop.jpg?v=a53659b461",
+      "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
+      "tmdbId": "1059128",
+      "rating": 3.5
+    },
+    {
+      "name": "The Holdovers",
+      "directedBy": "Alexander Payne",
+      "releaseDate": "2023-10-27",
+      "posterImage": "frx2ydtzv1i3qtfpvld6z6iavaac",
+      "trailerYoutubeId": "bAXd27wVpIc",
+      "tmdbId": null
+    },
+    {
+      "name": "It's A Wonderful Life",
+      "directedBy": "Frank Capra",
+      "releaseDate": "1946-12-20",
+      "posterImage": "fmsqzudqwbrna1pmf99772dvhrp0",
+      "trailerYoutubeId": "iLR3gZrU2Xo",
+      "tmdbId": null
+    },
+    {
+      "name": "Queer",
+      "directedBy": "Luca Guadagnino",
+      "releaseDate": "2024-11-27",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/5/5/1/8/4/955184-queer-2024-0-230-0-345-crop.jpg?v=a53659b461",
+      "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
+      "tmdbId": "1059128",
+      "rating": 3.5
+    },
+    {
+      "name": "It's A Wonderful Life",
+      "directedBy": "Frank Capra",
+      "releaseDate": "1946-12-20",
+      "posterImage": "fmsqzudqwbrna1pmf99772dvhrp0",
+      "trailerYoutubeId": "iLR3gZrU2Xo",
+      "tmdbId": null
+    },
+    {
+      "name": "Die Hard",
+      "directedBy": "John McTiernan",
+      "releaseDate": "1988-07-15",
+      "posterImage": "glpw19wsms4iaqhwzq8ddkci7pcb",
+      "trailerYoutubeId": "gYWvwkXreaI",
+      "tmdbId": null
+    },
+    {
+      "name": "Nightbitch",
+      "directedBy": "Marielle Heller",
+      "releaseDate": "2024-12-05",
+      "posterImage": "d5bdpmj7wwgh940e85e5us9pxp0t",
+      "trailerYoutubeId": "PsUTQKzZM0E?si=RwgUUiv1V4pIahQB",
+      "tmdbId": null
     }
   ]
 }
