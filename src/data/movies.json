@@ -45295,6 +45295,14 @@
       "tmdbId": null
     },
     {
+      "name": "Soundtrack to a Coup d'Etat",
+      "directedBy": "Johan Grimonprez",
+      "releaseDate": "2024-09-11",
+      "posterImage": "xwafyqls4ar2cy6wy3v4cwj61ltv",
+      "trailerYoutubeId": "sHjUJjaG0q0",
+      "tmdbId": null
+    },
+    {
       "name": "Conclave",
       "directedBy": "Edward Berger",
       "releaseDate": "2024-11-29",
@@ -45308,14 +45316,6 @@
       "releaseDate": "2024-12-05",
       "posterImage": "d5bdpmj7wwgh940e85e5us9pxp0t",
       "trailerYoutubeId": "PsUTQKzZM0E?si=RwgUUiv1V4pIahQB",
-      "tmdbId": null
-    },
-    {
-      "name": "Grand Theft Hamlet",
-      "directedBy": "Sam Crane, Pinny Grylls",
-      "releaseDate": "2024-10-21",
-      "posterImage": "comqbla1mcm1rvjv35k56ll30yvk",
-      "trailerYoutubeId": null,
       "tmdbId": null
     },
     {
@@ -45429,7 +45429,7 @@
       "directedBy": "Jack Archer\n",
       "releaseDate": null,
       "posterImage": "3trfr8djx3bmkuz4nt2q1i3wc1vv",
-      "trailerYoutubeId": null,
+      "trailerYoutubeId": "0wdNPI0kXKo?si=-6xvWkSBJzYJE93d",
       "tmdbId": null
     },
     {
@@ -45483,11 +45483,11 @@
       "tmdbId": null
     },
     {
-      "name": "Memories of a Burning Body",
-      "directedBy": "Antonella Sudasassi",
-      "releaseDate": "2024-07-11",
-      "posterImage": "9ewnvfexapogf8rhdw8btyqtkpms",
-      "trailerYoutubeId": "yhZw0zIfGXg?si=TCQg3621KBg6GQtS",
+      "name": "Soundtrack to a Coup d'Etat",
+      "directedBy": "Johan Grimonprez",
+      "releaseDate": "2024-09-11",
+      "posterImage": "xwafyqls4ar2cy6wy3v4cwj61ltv",
+      "trailerYoutubeId": "sHjUJjaG0q0",
       "tmdbId": null
     },
     {
@@ -45496,14 +45496,6 @@
       "releaseDate": "2024-11-29",
       "posterImage": "3ofujonvl5qbassub6ib8u3hz7rm",
       "trailerYoutubeId": "QaSaM4GYmfg",
-      "tmdbId": null
-    },
-    {
-      "name": "On Becoming a Guinea Fowl",
-      "directedBy": "Rungano Nyoni",
-      "releaseDate": "2024-05-16",
-      "posterImage": "s7ftp77ed2txh00bda3w2ppc7qqi",
-      "trailerYoutubeId": null,
       "tmdbId": null
     },
     {
@@ -45547,7 +45539,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/5/5/1/8/4/955184-queer-2024-0-230-0-345-crop.jpg?v=a53659b461",
       "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
       "tmdbId": "1059128",
-      "rating": 3.49
+      "rating": 3.47
     },
     {
       "name": "It's A Wonderful Life",
@@ -45572,7 +45564,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/5/5/1/8/4/955184-queer-2024-0-230-0-345-crop.jpg?v=a53659b461",
       "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
       "tmdbId": "1059128",
-      "rating": 3.49
+      "rating": 3.47
     },
     {
       "name": "It's A Wonderful Life",
@@ -45597,7 +45589,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/5/5/1/8/4/955184-queer-2024-0-230-0-345-crop.jpg?v=a53659b461",
       "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
       "tmdbId": "1059128",
-      "rating": 3.49
+      "rating": 3.47
     },
     {
       "name": "It's A Wonderful Life",
@@ -45656,7 +45648,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/5/5/1/8/4/955184-queer-2024-0-230-0-345-crop.jpg?v=a53659b461",
       "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
       "tmdbId": "1059128",
-      "rating": 3.49
+      "rating": 3.47
     },
     {
       "name": "It's A Wonderful Life",
@@ -45681,7 +45673,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/5/5/1/8/4/955184-queer-2024-0-230-0-345-crop.jpg?v=a53659b461",
       "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
       "tmdbId": "1059128",
-      "rating": 3.49
+      "rating": 3.47
     },
     {
       "name": "It's A Wonderful Life",
@@ -45724,7 +45716,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/5/5/1/8/4/955184-queer-2024-0-230-0-345-crop.jpg?v=a53659b461",
       "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
       "tmdbId": "1059128",
-      "rating": 3.49
+      "rating": 3.47
     },
     {
       "name": "The Holdovers",
@@ -45749,7 +45741,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/5/5/1/8/4/955184-queer-2024-0-230-0-345-crop.jpg?v=a53659b461",
       "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
       "tmdbId": "1059128",
-      "rating": 3.49
+      "rating": 3.47
     },
     {
       "name": "It's A Wonderful Life",
@@ -45792,7 +45784,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/5/5/1/8/4/955184-queer-2024-0-230-0-345-crop.jpg?v=a53659b461",
       "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
       "tmdbId": "1059128",
-      "rating": 3.49
+      "rating": 3.47
     },
     {
       "name": "It's A Wonderful Life",
@@ -45817,7 +45809,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/5/5/1/8/4/955184-queer-2024-0-230-0-345-crop.jpg?v=a53659b461",
       "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
       "tmdbId": "1059128",
-      "rating": 3.49
+      "rating": 3.47
     },
     {
       "name": "It's A Wonderful Life",
@@ -45842,7 +45834,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/5/5/1/8/4/955184-queer-2024-0-230-0-345-crop.jpg?v=a53659b461",
       "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
       "tmdbId": "1059128",
-      "rating": 3.49
+      "rating": 3.47
     },
     {
       "name": "It's A Wonderful Life",
@@ -45885,7 +45877,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/5/5/1/8/4/955184-queer-2024-0-230-0-345-crop.jpg?v=a53659b461",
       "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
       "tmdbId": "1059128",
-      "rating": 3.49
+      "rating": 3.47
     },
     {
       "name": "It's A Wonderful Life",
@@ -45911,7 +45903,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/5/5/1/8/4/955184-queer-2024-0-230-0-345-crop.jpg?v=a53659b461",
       "trailerYoutubeId": "v1gvY8488p0",
       "tmdbId": "1059128",
-      "rating": 3.49
+      "rating": 3.47
     },
     {
       "name": "It's A Wonderful Life",
@@ -45962,7 +45954,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/5/5/1/8/4/955184-queer-2024-0-230-0-345-crop.jpg?v=a53659b461",
       "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
       "tmdbId": "1059128",
-      "rating": 3.49
+      "rating": 3.47
     },
     {
       "name": "Nightbitch",
@@ -46003,7 +45995,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/5/5/1/8/4/955184-queer-2024-0-230-0-345-crop.jpg?v=a53659b461",
       "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
       "tmdbId": "1059128",
-      "rating": 3.49
+      "rating": 3.47
     },
     {
       "name": "Die Hard",
@@ -46046,7 +46038,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/5/5/1/8/4/955184-queer-2024-0-230-0-345-crop.jpg?v=a53659b461",
       "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
       "tmdbId": "1059128",
-      "rating": 3.49
+      "rating": 3.47
     },
     {
       "name": "Super/Man: The Christopher Reeve Story",
@@ -46087,7 +46079,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/5/5/1/8/4/955184-queer-2024-0-230-0-345-crop.jpg?v=a53659b461",
       "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
       "tmdbId": "1059128",
-      "rating": 3.49
+      "rating": 3.47
     },
     {
       "name": "It's A Wonderful Life",
@@ -46162,7 +46154,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/5/5/1/8/4/955184-queer-2024-0-230-0-345-crop.jpg?v=a53659b461",
       "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
       "tmdbId": "1059128",
-      "rating": 3.49
+      "rating": 3.47
     },
     {
       "name": "The Bishop's Wife",
@@ -46205,7 +46197,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/sm/upload/na/qh/1q/84/lJqIgDqRr3nw3PiGu7ESCANCs9I-0-230-0-345-crop.jpg?v=fa8da1bae4",
       "trailerYoutubeId": "a54yC1etmVc",
       "tmdbId": "10719",
-      "rating": 3.44
+      "rating": 3.45
     },
     {
       "name": "The Bishop's Wife",
@@ -46271,7 +46263,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/5/5/1/8/4/955184-queer-2024-0-230-0-345-crop.jpg?v=a53659b461",
       "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
       "tmdbId": "1059128",
-      "rating": 3.49
+      "rating": 3.47
     },
     {
       "name": "Eyes Wide Shut",
@@ -46287,6 +46279,264 @@
       "releaseDate": "1946-12-20",
       "posterImage": "fmsqzudqwbrna1pmf99772dvhrp0",
       "trailerYoutubeId": "iLR3gZrU2Xo",
+      "tmdbId": null
+    }
+  ],
+  "2024-12-22": [
+    {
+      "name": "The Muppet Christmas Carol",
+      "directedBy": "Brian Henson",
+      "releaseDate": "1992-12-10",
+      "posterImage": "yud0xyt95rk47sqtpbp6u7webdr8",
+      "trailerYoutubeId": "pNo-Q0IDJi0",
+      "tmdbId": null
+    },
+    {
+      "name": "It's A Wonderful Life",
+      "directedBy": "Frank Capra",
+      "releaseDate": "1946-12-20",
+      "posterImage": "fmsqzudqwbrna1pmf99772dvhrp0",
+      "trailerYoutubeId": "iLR3gZrU2Xo",
+      "tmdbId": null
+    },
+    {
+      "name": "The Universal Theory",
+      "directedBy": "Timm Kröger",
+      "releaseDate": null,
+      "posterImage": "zt4n90br6r5cc3tecydolmc7t680",
+      "trailerYoutubeId": "JkgJV8IZ2gE?feature=shared",
+      "tmdbId": null
+    },
+    {
+      "name": "Comfort and Joy",
+      "directedBy": "Bill Forsyth",
+      "releaseDate": "1984-10-10",
+      "posterImage": "tm4q211le8avyr0s41vh5yoq6a7i",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "It's A Wonderful Life",
+      "directedBy": "Frank Capra",
+      "releaseDate": "1946-12-20",
+      "posterImage": "fmsqzudqwbrna1pmf99772dvhrp0",
+      "trailerYoutubeId": "iLR3gZrU2Xo",
+      "tmdbId": null
+    },
+    {
+      "name": "Queer",
+      "directedBy": "Luca Guadagnino",
+      "releaseDate": "2024-11-27",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/5/5/1/8/4/955184-queer-2024-0-230-0-345-crop.jpg?v=a53659b461",
+      "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
+      "tmdbId": "1059128",
+      "rating": 3.47
+    },
+    {
+      "name": "The Bishop's Wife",
+      "directedBy": "Henry Koster",
+      "releaseDate": "1947-12-25",
+      "posterImage": "2mfknnfliv6bxkwpykdvuqej6rsq",
+      "trailerYoutubeId": "bgb6ZRNQTv8",
+      "tmdbId": null
+    },
+    {
+      "name": "It's A Wonderful Life",
+      "directedBy": "Frank Capra",
+      "releaseDate": "1946-12-20",
+      "posterImage": "fmsqzudqwbrna1pmf99772dvhrp0",
+      "trailerYoutubeId": "iLR3gZrU2Xo",
+      "tmdbId": null
+    },
+    {
+      "name": "The Universal Theory",
+      "directedBy": "Timm Kröger",
+      "releaseDate": null,
+      "posterImage": "zt4n90br6r5cc3tecydolmc7t680",
+      "trailerYoutubeId": "JkgJV8IZ2gE?feature=shared",
+      "tmdbId": null
+    },
+    {
+      "name": "Elf",
+      "directedBy": "Jon Favreau",
+      "releaseDate": "2003-10-09",
+      "posterImage": "6q104p0o7zez1k763ne195xb8mfb",
+      "trailerYoutubeId": "a54yC1etmVc",
+      "tmdbId": null
+    }
+  ],
+  "2024-12-23": [
+    {
+      "name": "White Christmas - 70th Anniversary",
+      "directedBy": "Michael Curtiz",
+      "releaseDate": "1954-10-14",
+      "posterImage": "eu82sh5ut3dyo5g7tolda32ni5g9",
+      "trailerYoutubeId": "4K2C0gcEV3Q",
+      "tmdbId": null
+    },
+    {
+      "name": "A Sudden Glimpse to Deeper Things",
+      "directedBy": "Mark Cousins",
+      "releaseDate": "2024-10-18",
+      "posterImage": "97gevk55hxo8h0oe9mpcrbqltstv",
+      "trailerYoutubeId": "hoWBlzMQDmg?si=QlROTA0QkKJJxQCv",
+      "tmdbId": null
+    },
+    {
+      "name": "It's A Wonderful Life",
+      "directedBy": "Frank Capra",
+      "releaseDate": "1946-12-20",
+      "posterImage": "fmsqzudqwbrna1pmf99772dvhrp0",
+      "trailerYoutubeId": "iLR3gZrU2Xo",
+      "tmdbId": null
+    },
+    {
+      "name": "Queer",
+      "directedBy": "Luca Guadagnino",
+      "releaseDate": "2024-11-27",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/5/5/1/8/4/955184-queer-2024-0-230-0-345-crop.jpg?v=a53659b461",
+      "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
+      "tmdbId": "1059128",
+      "rating": 3.47
+    },
+    {
+      "name": "Elf",
+      "directedBy": "Jon Favreau",
+      "releaseDate": "2003-10-09",
+      "posterImage": "6q104p0o7zez1k763ne195xb8mfb",
+      "trailerYoutubeId": "a54yC1etmVc",
+      "tmdbId": null
+    },
+    {
+      "name": "It's A Wonderful Life",
+      "directedBy": "Frank Capra",
+      "releaseDate": "1946-12-20",
+      "posterImage": "fmsqzudqwbrna1pmf99772dvhrp0",
+      "trailerYoutubeId": "iLR3gZrU2Xo",
+      "tmdbId": null
+    },
+    {
+      "name": "The Muppet Christmas Carol",
+      "directedBy": "Brian Henson",
+      "releaseDate": "1992-12-10",
+      "posterImage": "yud0xyt95rk47sqtpbp6u7webdr8",
+      "trailerYoutubeId": "pNo-Q0IDJi0",
+      "tmdbId": null
+    },
+    {
+      "name": "The Universal Theory",
+      "directedBy": "Timm Kröger",
+      "releaseDate": null,
+      "posterImage": "zt4n90br6r5cc3tecydolmc7t680",
+      "trailerYoutubeId": "JkgJV8IZ2gE?feature=shared",
+      "tmdbId": null
+    },
+    {
+      "name": "Eyes Wide Shut",
+      "directedBy": "Stanley Kubrick",
+      "releaseDate": "1999-07-16",
+      "posterImage": "ezc4o8rcp41s97t9sgi91l45mmod",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "It's A Wonderful Life",
+      "directedBy": "Frank Capra",
+      "releaseDate": "1946-12-20",
+      "posterImage": "fmsqzudqwbrna1pmf99772dvhrp0",
+      "trailerYoutubeId": "iLR3gZrU2Xo",
+      "tmdbId": null
+    },
+    {
+      "name": "The Universal Theory",
+      "directedBy": "Timm Kröger",
+      "releaseDate": null,
+      "posterImage": "zt4n90br6r5cc3tecydolmc7t680",
+      "trailerYoutubeId": "JkgJV8IZ2gE?feature=shared",
+      "tmdbId": null
+    }
+  ],
+  "2024-12-24": [
+    {
+      "name": "The Bishop's Wife",
+      "directedBy": "Henry Koster",
+      "releaseDate": "1947-12-25",
+      "posterImage": "2mfknnfliv6bxkwpykdvuqej6rsq",
+      "trailerYoutubeId": "bgb6ZRNQTv8",
+      "tmdbId": null
+    },
+    {
+      "name": "Queer",
+      "directedBy": "Luca Guadagnino",
+      "releaseDate": "2024-11-27",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/5/5/1/8/4/955184-queer-2024-0-230-0-345-crop.jpg?v=a53659b461",
+      "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
+      "tmdbId": "1059128",
+      "rating": 3.47
+    },
+    {
+      "name": "It's A Wonderful Life",
+      "directedBy": "Frank Capra",
+      "releaseDate": "1946-12-20",
+      "posterImage": "fmsqzudqwbrna1pmf99772dvhrp0",
+      "trailerYoutubeId": "iLR3gZrU2Xo",
+      "tmdbId": null
+    },
+    {
+      "name": "The Muppet Christmas Carol",
+      "directedBy": "Brian Henson",
+      "releaseDate": "1992-12-10",
+      "posterImage": "yud0xyt95rk47sqtpbp6u7webdr8",
+      "trailerYoutubeId": "pNo-Q0IDJi0",
+      "tmdbId": null
+    },
+    {
+      "name": "The Universal Theory",
+      "directedBy": "Timm Kröger",
+      "releaseDate": null,
+      "posterImage": "zt4n90br6r5cc3tecydolmc7t680",
+      "trailerYoutubeId": "JkgJV8IZ2gE?feature=shared",
+      "tmdbId": null
+    },
+    {
+      "name": "It's A Wonderful Life",
+      "directedBy": "Frank Capra",
+      "releaseDate": "1946-12-20",
+      "posterImage": "fmsqzudqwbrna1pmf99772dvhrp0",
+      "trailerYoutubeId": "iLR3gZrU2Xo",
+      "tmdbId": null
+    },
+    {
+      "name": "The Muppet Christmas Carol",
+      "directedBy": "Brian Henson",
+      "releaseDate": "1992-12-10",
+      "posterImage": "yud0xyt95rk47sqtpbp6u7webdr8",
+      "trailerYoutubeId": "pNo-Q0IDJi0",
+      "tmdbId": null
+    },
+    {
+      "name": "Queer",
+      "directedBy": "Luca Guadagnino",
+      "releaseDate": "2024-11-27",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/5/5/1/8/4/955184-queer-2024-0-230-0-345-crop.jpg?v=a53659b461",
+      "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
+      "tmdbId": "1059128",
+      "rating": 3.47
+    },
+    {
+      "name": "It's A Wonderful Life",
+      "directedBy": "Frank Capra",
+      "releaseDate": "1946-12-20",
+      "posterImage": "fmsqzudqwbrna1pmf99772dvhrp0",
+      "trailerYoutubeId": "iLR3gZrU2Xo",
+      "tmdbId": null
+    },
+    {
+      "name": "A Sudden Glimpse to Deeper Things",
+      "directedBy": "Mark Cousins",
+      "releaseDate": "2024-10-18",
+      "posterImage": "97gevk55hxo8h0oe9mpcrbqltstv",
+      "trailerYoutubeId": "hoWBlzMQDmg?si=QlROTA0QkKJJxQCv",
       "tmdbId": null
     }
   ]
