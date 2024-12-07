@@ -46539,5 +46539,84 @@
       "trailerYoutubeId": "hoWBlzMQDmg?si=QlROTA0QkKJJxQCv",
       "tmdbId": null
     }
+  ],
+  "2024-12-25": [],
+  "2024-12-26": [],
+  "2024-12-27": [
+    {
+      "name": "Fanny and Alexander",
+      "directedBy": "Ingmar Bergman",
+      "releaseDate": "1982-12-17",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/4/8/5/3/6/48536-fanny-alexander-0-230-0-345-crop.jpg?v=7a54d11e04",
+      "trailerYoutubeId": "UCXoXFdNa1o?si=huxnLDV18vu5WppG",
+      "tmdbId": "5961",
+      "rating": 4.42
+    },
+    {
+      "name": "Spirited Away (Subtitled)",
+      "directedBy": "Hayao Miyazaki",
+      "releaseDate": "2024-12-27",
+      "posterImage": "u8urkkjkruzwiwsbn12dathbayxu",
+      "trailerYoutubeId": "EfYkRhWqX3s",
+      "tmdbId": null
+    },
+    {
+      "name": "The Dead",
+      "directedBy": "John Huston",
+      "releaseDate": "1987-09-03",
+      "posterImage": "j2etkmaezwcbaxunb6uya318gp8z",
+      "trailerYoutubeId": "ZT_7rOkvNKU?si=kc7eTVqXrTB6pg9A",
+      "tmdbId": null
+    },
+    {
+      "name": "The Universal Theory",
+      "directedBy": "Timm Kröger",
+      "releaseDate": null,
+      "posterImage": "zt4n90br6r5cc3tecydolmc7t680",
+      "trailerYoutubeId": "JkgJV8IZ2gE?feature=shared",
+      "tmdbId": null
+    },
+    {
+      "name": "Spirited Away (Subtitled)",
+      "directedBy": "Hayao Miyazaki",
+      "releaseDate": "2024-12-27",
+      "posterImage": "u8urkkjkruzwiwsbn12dathbayxu",
+      "trailerYoutubeId": "EfYkRhWqX3s",
+      "tmdbId": null
+    },
+    {
+      "name": "Rumours",
+      "directedBy": "Guy Maddin, Galen Johnson, Evan Johnson",
+      "releaseDate": "2024-10-18",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/0/7/3/2/6/7/1073267-rumours-2024-0-230-0-345-crop.jpg?v=f40609f689",
+      "trailerYoutubeId": "wBMXS32KOQ4?si=Ive7cmB0DRzFvEMi",
+      "tmdbId": "1187417",
+      "rating": 2.8
+    },
+    {
+      "name": "Smoke",
+      "directedBy": "Wayne Wang",
+      "releaseDate": "1995-06-09",
+      "posterImage": "8jm3qp02j8gkjuzc464zyd9r9knt",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Phantom Thread",
+      "directedBy": "Paul Thomas Anderson",
+      "releaseDate": "2017-12-25",
+      "posterImage": "ouzhv4hfssh7ogrut3us59op0vs2",
+      "trailerYoutubeId": "xNsiQMeSvMk?si=eyO0XbjLDCsA7RsD",
+      "tmdbId": null
+    },
+    {
+      "name": "Rumours",
+      "directedBy": "Guy Maddin, Galen Johnson, Evan Johnson",
+      "releaseDate": "2024-10-18",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/0/7/3/2/6/7/1073267-rumours-2024-0-230-0-345-crop.jpg?v=f40609f689",
+      "trailerYoutubeId": "wBMXS32KOQ4?si=Ive7cmB0DRzFvEMi",
+      "tmdbId": "1187417",
+      "rating": 2.8
+    }
   ]
 }
