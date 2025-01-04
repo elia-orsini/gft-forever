@@ -47415,14 +47415,6 @@
       "tmdbId": null
     },
     {
-      "name": "Nickel Boys",
-      "directedBy": "RaMell Ross",
-      "releaseDate": "2025-01-03",
-      "posterImage": "d7qzgc4ufin0ee42n85ujwfc6tqo",
-      "trailerYoutubeId": "2jeti8dl1WI",
-      "tmdbId": null
-    },
-    {
       "name": "Nosferatu",
       "directedBy": "Robert Eggers",
       "releaseDate": "2025-01-01",
@@ -48476,6 +48468,229 @@
       "releaseDate": "2025-01-10",
       "posterImage": "yw0bnfohsnla2nprisohacvmfefx",
       "trailerYoutubeId": "UB1iCpfBjQI",
+      "tmdbId": null
+    }
+  ],
+  "2025-01-22": [
+    {
+      "name": "A Real Pain",
+      "directedBy": "Jesse Eisenberg",
+      "releaseDate": "2025-01-10",
+      "posterImage": "yw0bnfohsnla2nprisohacvmfefx",
+      "trailerYoutubeId": "UB1iCpfBjQI",
+      "tmdbId": null
+    },
+    {
+      "name": "Maria",
+      "directedBy": "Pablo Larraín",
+      "releaseDate": "2025-01-10",
+      "posterImage": "8v0kmo6rvzowprfm2djvhah3xmmh",
+      "trailerYoutubeId": "mVIXaTdxlQc",
+      "tmdbId": null
+    },
+    {
+      "name": "Vermiglio",
+      "directedBy": "Maura Delpero",
+      "releaseDate": "2024-09-19",
+      "posterImage": "w356ldi6bujpi83o50wykv1azpoo",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Babygirl",
+      "directedBy": "Halina Reijn",
+      "releaseDate": "2025-01-10",
+      "posterImage": "wz220mn8qqs3wo0ca7r2famzp34q",
+      "trailerYoutubeId": "dq_bnfZy9-g",
+      "tmdbId": null
+    },
+    {
+      "name": "Maria",
+      "directedBy": "Pablo Larraín",
+      "releaseDate": "2025-01-10",
+      "posterImage": "8v0kmo6rvzowprfm2djvhah3xmmh",
+      "trailerYoutubeId": "mVIXaTdxlQc",
+      "tmdbId": null
+    },
+    {
+      "name": "A Real Pain",
+      "directedBy": "Jesse Eisenberg",
+      "releaseDate": "2025-01-10",
+      "posterImage": "yw0bnfohsnla2nprisohacvmfefx",
+      "trailerYoutubeId": "UB1iCpfBjQI",
+      "tmdbId": null
+    },
+    {
+      "name": "Captain Kronos: Vampire Hunter",
+      "directedBy": "Brian Clemens",
+      "releaseDate": "1974-04-07",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/3/9/9/5/5/39955-captain-kronos-vampire-hunter-0-230-0-345-crop.jpg?v=8ec56b3e99",
+      "trailerYoutubeId": "YNvpx1B6jkQ?si=lULZhfwysv_B5LqF",
+      "tmdbId": "18979",
+      "rating": 3.22
+    },
+    {
+      "name": "Babygirl",
+      "directedBy": "Halina Reijn",
+      "releaseDate": "2025-01-10",
+      "posterImage": "wz220mn8qqs3wo0ca7r2famzp34q",
+      "trailerYoutubeId": "dq_bnfZy9-g",
+      "tmdbId": null
+    },
+    {
+      "name": "Vermiglio",
+      "directedBy": "Maura Delpero",
+      "releaseDate": "2024-09-19",
+      "posterImage": "w356ldi6bujpi83o50wykv1azpoo",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Celtic Connections presents: Kim Carnie Out Loud + Q&A",
+      "directedBy": "Maureen MacLeod",
+      "releaseDate": null,
+      "posterImage": "9kcn4pupjkclripat9xuzb02pf7y",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    }
+  ],
+  "2025-01-23": [
+    {
+      "name": "Babygirl",
+      "directedBy": "Halina Reijn",
+      "releaseDate": "2025-01-10",
+      "posterImage": "wz220mn8qqs3wo0ca7r2famzp34q",
+      "trailerYoutubeId": "dq_bnfZy9-g",
+      "tmdbId": null
+    },
+    {
+      "name": "Maria",
+      "directedBy": "Pablo Larraín",
+      "releaseDate": "2025-01-10",
+      "posterImage": "8v0kmo6rvzowprfm2djvhah3xmmh",
+      "trailerYoutubeId": "mVIXaTdxlQc",
+      "tmdbId": null
+    },
+    {
+      "name": "Vermiglio",
+      "directedBy": "Maura Delpero",
+      "releaseDate": "2024-09-19",
+      "posterImage": "w356ldi6bujpi83o50wykv1azpoo",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "A Real Pain",
+      "directedBy": "Jesse Eisenberg",
+      "releaseDate": "2025-01-10",
+      "posterImage": "yw0bnfohsnla2nprisohacvmfefx",
+      "trailerYoutubeId": "UB1iCpfBjQI",
+      "tmdbId": null
+    },
+    {
+      "name": "Babygirl",
+      "directedBy": "Halina Reijn",
+      "releaseDate": "2025-01-10",
+      "posterImage": "wz220mn8qqs3wo0ca7r2famzp34q",
+      "trailerYoutubeId": "dq_bnfZy9-g",
+      "tmdbId": null
+    },
+    {
+      "name": "Maria",
+      "directedBy": "Pablo Larraín",
+      "releaseDate": "2025-01-10",
+      "posterImage": "8v0kmo6rvzowprfm2djvhah3xmmh",
+      "trailerYoutubeId": "mVIXaTdxlQc",
+      "tmdbId": null
+    },
+    {
+      "name": "Vermiglio",
+      "directedBy": "Maura Delpero",
+      "releaseDate": "2024-09-19",
+      "posterImage": "w356ldi6bujpi83o50wykv1azpoo",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Topsy-Turvy",
+      "directedBy": "Mike Leigh",
+      "releaseDate": "1999-12-15",
+      "posterImage": "rqbfxeiwlsc8vsov0h61s5nnjb71",
+      "trailerYoutubeId": "GqTxlBI1IHY?si=eLG1bEoNetFSvFDn",
+      "tmdbId": null
+    },
+    {
+      "name": "Babygirl",
+      "directedBy": "Halina Reijn",
+      "releaseDate": "2025-01-10",
+      "posterImage": "wz220mn8qqs3wo0ca7r2famzp34q",
+      "trailerYoutubeId": "dq_bnfZy9-g",
+      "tmdbId": null
+    },
+    {
+      "name": "A Real Pain",
+      "directedBy": "Jesse Eisenberg",
+      "releaseDate": "2025-01-10",
+      "posterImage": "yw0bnfohsnla2nprisohacvmfefx",
+      "trailerYoutubeId": "UB1iCpfBjQI",
+      "tmdbId": null
+    }
+  ],
+  "2025-01-24": [
+    {
+      "name": "Maria",
+      "directedBy": "Pablo Larraín",
+      "releaseDate": "2025-01-10",
+      "posterImage": "8v0kmo6rvzowprfm2djvhah3xmmh",
+      "trailerYoutubeId": "mVIXaTdxlQc",
+      "tmdbId": null
+    },
+    {
+      "name": "Babygirl",
+      "directedBy": "Halina Reijn",
+      "releaseDate": "2025-01-10",
+      "posterImage": "wz220mn8qqs3wo0ca7r2famzp34q",
+      "trailerYoutubeId": "dq_bnfZy9-g",
+      "tmdbId": null
+    },
+    {
+      "name": "Presence",
+      "directedBy": "Steven Soderbergh",
+      "releaseDate": "2025-01-24",
+      "posterImage": "cxi4ee7x8i05vxw0detl61wvmi6r",
+      "trailerYoutubeId": "fw8OpucRovg",
+      "tmdbId": null
+    },
+    {
+      "name": "Maria",
+      "directedBy": "Pablo Larraín",
+      "releaseDate": "2025-01-10",
+      "posterImage": "8v0kmo6rvzowprfm2djvhah3xmmh",
+      "trailerYoutubeId": "mVIXaTdxlQc",
+      "tmdbId": null
+    },
+    {
+      "name": "Presence",
+      "directedBy": "Steven Soderbergh",
+      "releaseDate": "2025-01-24",
+      "posterImage": "cxi4ee7x8i05vxw0detl61wvmi6r",
+      "trailerYoutubeId": "fw8OpucRovg",
+      "tmdbId": null
+    },
+    {
+      "name": "Babygirl",
+      "directedBy": "Halina Reijn",
+      "releaseDate": "2025-01-10",
+      "posterImage": "wz220mn8qqs3wo0ca7r2famzp34q",
+      "trailerYoutubeId": "dq_bnfZy9-g",
+      "tmdbId": null
+    },
+    {
+      "name": "Presence",
+      "directedBy": "Steven Soderbergh",
+      "releaseDate": "2025-01-24",
+      "posterImage": "cxi4ee7x8i05vxw0detl61wvmi6r",
+      "trailerYoutubeId": "fw8OpucRovg",
       "tmdbId": null
     }
   ]
