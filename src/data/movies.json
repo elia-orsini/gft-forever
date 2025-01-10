@@ -47984,7 +47984,7 @@
       "name": "Movie Memories: The Odd Couple",
       "directedBy": "Gene Saks",
       "releaseDate": "1968-05-16",
-      "posterImage": "rhzd82bdzqktize2lq8gngvys5rp",
+      "posterImage": "axajup0o83m86jbg6p8sb3dv1mq0",
       "trailerYoutubeId": null,
       "tmdbId": null
     },
@@ -48447,7 +48447,7 @@
       "tmdbId": null
     },
     {
-      "name": "Foreign Language",
+      "name": "Foreign Language + Q&A",
       "directedBy": "Claire Burger",
       "releaseDate": "2024-09-11",
       "posterImage": "g9na7xqqp9tze4qbccyzk46yb5is",
@@ -48527,7 +48527,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/3/9/9/5/5/39955-captain-kronos-vampire-hunter-0-230-0-345-crop.jpg?v=8ec56b3e99",
       "trailerYoutubeId": "YNvpx1B6jkQ?si=lULZhfwysv_B5LqF",
       "tmdbId": "18979",
-      "rating": 3.22
+      "rating": 3.23
     },
     {
       "name": "Babygirl",
@@ -48849,6 +48849,188 @@
       "releaseDate": "2025-01-10",
       "posterImage": "8v0kmo6rvzowprfm2djvhah3xmmh",
       "trailerYoutubeId": "mVIXaTdxlQc",
+      "tmdbId": null
+    },
+    {
+      "name": "Presence",
+      "directedBy": "Steven Soderbergh",
+      "releaseDate": "2025-01-24",
+      "posterImage": "cxi4ee7x8i05vxw0detl61wvmi6r",
+      "trailerYoutubeId": "fw8OpucRovg",
+      "tmdbId": null
+    },
+    {
+      "name": "Babygirl",
+      "directedBy": "Halina Reijn",
+      "releaseDate": "2025-01-10",
+      "posterImage": "wz220mn8qqs3wo0ca7r2famzp34q",
+      "trailerYoutubeId": "dq_bnfZy9-g",
+      "tmdbId": null
+    },
+    {
+      "name": "Presence",
+      "directedBy": "Steven Soderbergh",
+      "releaseDate": "2025-01-24",
+      "posterImage": "cxi4ee7x8i05vxw0detl61wvmi6r",
+      "trailerYoutubeId": "fw8OpucRovg",
+      "tmdbId": null
+    }
+  ],
+  "2025-01-28": [
+    {
+      "name": "Presence",
+      "directedBy": "Steven Soderbergh",
+      "releaseDate": "2025-01-24",
+      "posterImage": "cxi4ee7x8i05vxw0detl61wvmi6r",
+      "trailerYoutubeId": "fw8OpucRovg",
+      "tmdbId": null
+    },
+    {
+      "name": "Babygirl",
+      "directedBy": "Halina Reijn",
+      "releaseDate": "2025-01-10",
+      "posterImage": "wz220mn8qqs3wo0ca7r2famzp34q",
+      "trailerYoutubeId": "dq_bnfZy9-g",
+      "tmdbId": null
+    },
+    {
+      "name": "Presence",
+      "directedBy": "Steven Soderbergh",
+      "releaseDate": "2025-01-24",
+      "posterImage": "cxi4ee7x8i05vxw0detl61wvmi6r",
+      "trailerYoutubeId": "fw8OpucRovg",
+      "tmdbId": null
+    },
+    {
+      "name": "Maria",
+      "directedBy": "Pablo Larraín",
+      "releaseDate": "2025-01-10",
+      "posterImage": "8v0kmo6rvzowprfm2djvhah3xmmh",
+      "trailerYoutubeId": "mVIXaTdxlQc",
+      "tmdbId": null
+    },
+    {
+      "name": "Babygirl",
+      "directedBy": "Halina Reijn",
+      "releaseDate": "2025-01-10",
+      "posterImage": "wz220mn8qqs3wo0ca7r2famzp34q",
+      "trailerYoutubeId": "dq_bnfZy9-g",
+      "tmdbId": null
+    },
+    {
+      "name": "Youth Screening: Dahomey",
+      "directedBy": "Mati Diop",
+      "releaseDate": "2024-09-25",
+      "posterImage": "w20ohqzitpd7o8ktk53jp544ky4q",
+      "trailerYoutubeId": "uUi718ZBH0c?si=AvvqTgl9sXKEwy2K",
+      "tmdbId": null
+    },
+    {
+      "name": "Mrs Robinson",
+      "directedBy": "Aoife Kelleher",
+      "releaseDate": "2024-08-23",
+      "posterImage": "a4nxjg27irk41dr31e5sqbx72mme",
+      "trailerYoutubeId": "QKICypsdcIw?si=_HHRh_sq6hxv7rS8",
+      "tmdbId": null
+    },
+    {
+      "name": "Presence",
+      "directedBy": "Steven Soderbergh",
+      "releaseDate": "2025-01-24",
+      "posterImage": "cxi4ee7x8i05vxw0detl61wvmi6r",
+      "trailerYoutubeId": "fw8OpucRovg",
+      "tmdbId": null
+    }
+  ],
+  "2025-01-29": [
+    {
+      "name": "Babygirl",
+      "directedBy": "Halina Reijn",
+      "releaseDate": "2025-01-10",
+      "posterImage": "wz220mn8qqs3wo0ca7r2famzp34q",
+      "trailerYoutubeId": "dq_bnfZy9-g",
+      "tmdbId": null
+    },
+    {
+      "name": "Babygirl",
+      "directedBy": "Halina Reijn",
+      "releaseDate": "2025-01-10",
+      "posterImage": "wz220mn8qqs3wo0ca7r2famzp34q",
+      "trailerYoutubeId": "dq_bnfZy9-g",
+      "tmdbId": null
+    },
+    {
+      "name": "Presence",
+      "directedBy": "Steven Soderbergh",
+      "releaseDate": "2025-01-24",
+      "posterImage": "cxi4ee7x8i05vxw0detl61wvmi6r",
+      "trailerYoutubeId": "fw8OpucRovg",
+      "tmdbId": null
+    },
+    {
+      "name": "Vera Drake",
+      "directedBy": "Mike Leigh",
+      "releaseDate": "2004-10-22",
+      "posterImage": "u61xgph5grxkj39djia8drwj07w7",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Presence",
+      "directedBy": "Steven Soderbergh",
+      "releaseDate": "2025-01-24",
+      "posterImage": "cxi4ee7x8i05vxw0detl61wvmi6r",
+      "trailerYoutubeId": "fw8OpucRovg",
+      "tmdbId": null
+    },
+    {
+      "name": "Maria",
+      "directedBy": "Pablo Larraín",
+      "releaseDate": "2025-01-10",
+      "posterImage": "8v0kmo6rvzowprfm2djvhah3xmmh",
+      "trailerYoutubeId": "mVIXaTdxlQc",
+      "tmdbId": null
+    },
+    {
+      "name": "Presence",
+      "directedBy": "Steven Soderbergh",
+      "releaseDate": "2025-01-24",
+      "posterImage": "cxi4ee7x8i05vxw0detl61wvmi6r",
+      "trailerYoutubeId": "fw8OpucRovg",
+      "tmdbId": null
+    }
+  ],
+  "2025-01-30": [
+    {
+      "name": "Presence",
+      "directedBy": "Steven Soderbergh",
+      "releaseDate": "2025-01-24",
+      "posterImage": "cxi4ee7x8i05vxw0detl61wvmi6r",
+      "trailerYoutubeId": "fw8OpucRovg",
+      "tmdbId": null
+    },
+    {
+      "name": "Babygirl",
+      "directedBy": "Halina Reijn",
+      "releaseDate": "2025-01-10",
+      "posterImage": "wz220mn8qqs3wo0ca7r2famzp34q",
+      "trailerYoutubeId": "dq_bnfZy9-g",
+      "tmdbId": null
+    },
+    {
+      "name": "Maria",
+      "directedBy": "Pablo Larraín",
+      "releaseDate": "2025-01-10",
+      "posterImage": "8v0kmo6rvzowprfm2djvhah3xmmh",
+      "trailerYoutubeId": "mVIXaTdxlQc",
+      "tmdbId": null
+    },
+    {
+      "name": "Rebels + introduction",
+      "directedBy": "Pamela Meyer-Arndt",
+      "releaseDate": "2022-10-19",
+      "posterImage": "x87uc4d4xg9fk8prghmfez24jnjj",
+      "trailerYoutubeId": null,
       "tmdbId": null
     },
     {
