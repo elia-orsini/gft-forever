@@ -49057,5 +49057,35 @@
       "trailerYoutubeId": "fw8OpucRovg",
       "tmdbId": null
     }
+  ],
+  "2025-01-31": [
+    {
+      "name": "Queer",
+      "directedBy": "Luca Guadagnino",
+      "releaseDate": "2024-11-27",
+      "posterImage": "9w6c9265u6i0vq7zfq4cmau5k0h4",
+      "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
+      "tmdbId": null
+    }
+  ],
+  "2025-02-01": [
+    {
+      "name": "Queer",
+      "directedBy": "Luca Guadagnino",
+      "releaseDate": "2024-11-27",
+      "posterImage": "9w6c9265u6i0vq7zfq4cmau5k0h4",
+      "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
+      "tmdbId": null
+    }
+  ],
+  "2025-02-02": [
+    {
+      "name": "Queer",
+      "directedBy": "Luca Guadagnino",
+      "releaseDate": "2024-11-27",
+      "posterImage": "9w6c9265u6i0vq7zfq4cmau5k0h4",
+      "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
+      "tmdbId": null
+    }
   ]
 }
