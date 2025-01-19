@@ -49187,14 +49187,6 @@
       "tmdbId": null
     },
     {
-      "name": "Babygirl",
-      "directedBy": "Halina Reijn",
-      "releaseDate": "2025-01-10",
-      "posterImage": "wz220mn8qqs3wo0ca7r2famzp34q",
-      "trailerYoutubeId": "dq_bnfZy9-g",
-      "tmdbId": null
-    },
-    {
       "name": "The Brutalist",
       "directedBy": "Brady Corbet",
       "releaseDate": "2024-12-20",
@@ -49286,14 +49278,6 @@
       "tmdbId": null
     },
     {
-      "name": "Babygirl",
-      "directedBy": "Halina Reijn",
-      "releaseDate": "2025-01-10",
-      "posterImage": "wz220mn8qqs3wo0ca7r2famzp34q",
-      "trailerYoutubeId": "dq_bnfZy9-g",
-      "tmdbId": null
-    },
-    {
       "name": "Hard Truths",
       "directedBy": "Mike Leigh",
       "releaseDate": "2025-01-31",
@@ -49377,11 +49361,70 @@
       "tmdbId": null
     },
     {
-      "name": "Babygirl",
-      "directedBy": "Halina Reijn",
-      "releaseDate": "2025-01-10",
-      "posterImage": "wz220mn8qqs3wo0ca7r2famzp34q",
-      "trailerYoutubeId": "dq_bnfZy9-g",
+      "name": "Hard Truths",
+      "directedBy": "Mike Leigh",
+      "releaseDate": "2025-01-31",
+      "posterImage": "kczr08vj4c47kc28kpz28p36k7wu",
+      "trailerYoutubeId": "gFuEZfZUKIk",
+      "tmdbId": null
+    }
+  ],
+  "2025-02-03": [
+    {
+      "name": "The Brutalist",
+      "directedBy": "Brady Corbet",
+      "releaseDate": "2024-12-20",
+      "posterImage": "io850c52sdkbz1fgjkg5l9jzcc3h",
+      "trailerYoutubeId": "hNiwPU5vjCk?si=AofWg7geJRS2uhO_",
+      "tmdbId": null
+    },
+    {
+      "name": "The Apartment",
+      "directedBy": "Billy Wilder",
+      "releaseDate": "1960-06-21",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/5/1/7/7/4/51774-the-apartment-0-230-0-345-crop.jpg?v=7df6fac704",
+      "trailerYoutubeId": "OcslkrBMLGc?si=xqrn8uML_vYh83tn",
+      "tmdbId": "284",
+      "rating": 4.44
+    },
+    {
+      "name": "Hard Truths",
+      "directedBy": "Mike Leigh",
+      "releaseDate": "2025-01-31",
+      "posterImage": "kczr08vj4c47kc28kpz28p36k7wu",
+      "trailerYoutubeId": "gFuEZfZUKIk",
+      "tmdbId": null
+    },
+    {
+      "name": "Presence",
+      "directedBy": "Steven Soderbergh",
+      "releaseDate": "2025-01-24",
+      "posterImage": "cxi4ee7x8i05vxw0detl61wvmi6r",
+      "trailerYoutubeId": "fw8OpucRovg",
+      "tmdbId": null
+    },
+    {
+      "name": "The Colors Within (Dubbed)",
+      "directedBy": "Naoko Yamada",
+      "releaseDate": "2025-01-31",
+      "posterImage": "cno67gnm0ai67ga2r1ouyiggq0ld",
+      "trailerYoutubeId": "Tib7du6zGKY?si=tMwkft58bPVFhkTF",
+      "tmdbId": null
+    },
+    {
+      "name": "The Brutalist",
+      "directedBy": "Brady Corbet",
+      "releaseDate": "2024-12-20",
+      "posterImage": "io850c52sdkbz1fgjkg5l9jzcc3h",
+      "trailerYoutubeId": "hNiwPU5vjCk?si=AofWg7geJRS2uhO_",
+      "tmdbId": null
+    },
+    {
+      "name": "Coming Out + introduction",
+      "directedBy": "Heiner Carow",
+      "releaseDate": "1989-11-09",
+      "posterImage": "15f4ot8mlksqpfwfgvejzpxplc4b",
+      "trailerYoutubeId": null,
       "tmdbId": null
     },
     {
@@ -49393,14 +49436,70 @@
       "tmdbId": null
     }
   ],
-  "2025-02-03": [],
   "2025-02-04": [
+    {
+      "name": "The Colors Within (Subtitled)",
+      "directedBy": "Naoko Yamada",
+      "releaseDate": "2025-01-31",
+      "posterImage": "5qz565l7dsjw9tcylv3f9wftweog",
+      "trailerYoutubeId": "9Qbc4yP_mtc?si=tQ_iCZKY2hlCV105",
+      "tmdbId": null
+    },
+    {
+      "name": "Hard Truths",
+      "directedBy": "Mike Leigh",
+      "releaseDate": "2025-01-31",
+      "posterImage": "kczr08vj4c47kc28kpz28p36k7wu",
+      "trailerYoutubeId": "gFuEZfZUKIk",
+      "tmdbId": null
+    },
     {
       "name": "Queer",
       "directedBy": "Luca Guadagnino",
       "releaseDate": "2024-11-27",
       "posterImage": "9w6c9265u6i0vq7zfq4cmau5k0h4",
       "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
+      "tmdbId": null
+    },
+    {
+      "name": "Hard Truths",
+      "directedBy": "Mike Leigh",
+      "releaseDate": "2025-01-31",
+      "posterImage": "kczr08vj4c47kc28kpz28p36k7wu",
+      "trailerYoutubeId": "gFuEZfZUKIk",
+      "tmdbId": null
+    },
+    {
+      "name": "The Apartment",
+      "directedBy": "Billy Wilder",
+      "releaseDate": "1960-06-21",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/5/1/7/7/4/51774-the-apartment-0-230-0-345-crop.jpg?v=7df6fac704",
+      "trailerYoutubeId": "OcslkrBMLGc?si=xqrn8uML_vYh83tn",
+      "tmdbId": "284",
+      "rating": 4.44
+    },
+    {
+      "name": "The Brutalist",
+      "directedBy": "Brady Corbet",
+      "releaseDate": "2024-12-20",
+      "posterImage": "io850c52sdkbz1fgjkg5l9jzcc3h",
+      "trailerYoutubeId": "hNiwPU5vjCk?si=AofWg7geJRS2uhO_",
+      "tmdbId": null
+    },
+    {
+      "name": "Hard Truths",
+      "directedBy": "Mike Leigh",
+      "releaseDate": "2025-01-31",
+      "posterImage": "kczr08vj4c47kc28kpz28p36k7wu",
+      "trailerYoutubeId": "gFuEZfZUKIk",
+      "tmdbId": null
+    },
+    {
+      "name": "Presence",
+      "directedBy": "Steven Soderbergh",
+      "releaseDate": "2025-01-24",
+      "posterImage": "cxi4ee7x8i05vxw0detl61wvmi6r",
+      "trailerYoutubeId": "fw8OpucRovg",
       "tmdbId": null
     }
   ],
@@ -49419,14 +49518,6 @@
       "releaseDate": "2025-01-31",
       "posterImage": "kczr08vj4c47kc28kpz28p36k7wu",
       "trailerYoutubeId": "gFuEZfZUKIk",
-      "tmdbId": null
-    },
-    {
-      "name": "Babygirl",
-      "directedBy": "Halina Reijn",
-      "releaseDate": "2025-01-10",
-      "posterImage": "wz220mn8qqs3wo0ca7r2famzp34q",
-      "trailerYoutubeId": "dq_bnfZy9-g",
       "tmdbId": null
     },
     {
@@ -49483,6 +49574,255 @@
       "releaseDate": "2025-01-31",
       "posterImage": "kczr08vj4c47kc28kpz28p36k7wu",
       "trailerYoutubeId": "gFuEZfZUKIk",
+      "tmdbId": null
+    }
+  ],
+  "2025-02-06": [
+    {
+      "name": "Hard Truths",
+      "directedBy": "Mike Leigh",
+      "releaseDate": "2025-01-31",
+      "posterImage": "kczr08vj4c47kc28kpz28p36k7wu",
+      "trailerYoutubeId": "gFuEZfZUKIk",
+      "tmdbId": null
+    },
+    {
+      "name": "The Colors Within (Subtitled)",
+      "directedBy": "Naoko Yamada",
+      "releaseDate": "2025-01-31",
+      "posterImage": "5qz565l7dsjw9tcylv3f9wftweog",
+      "trailerYoutubeId": "9Qbc4yP_mtc?si=tQ_iCZKY2hlCV105",
+      "tmdbId": null
+    },
+    {
+      "name": "Queer",
+      "directedBy": "Luca Guadagnino",
+      "releaseDate": "2024-11-27",
+      "posterImage": "9w6c9265u6i0vq7zfq4cmau5k0h4",
+      "trailerYoutubeId": "eknj5_0tF2s?si=F-jZpJFwGixh4AnH",
+      "tmdbId": null
+    },
+    {
+      "name": "Presence",
+      "directedBy": "Steven Soderbergh",
+      "releaseDate": "2025-01-24",
+      "posterImage": "cxi4ee7x8i05vxw0detl61wvmi6r",
+      "trailerYoutubeId": "fw8OpucRovg",
+      "tmdbId": null
+    },
+    {
+      "name": "Hard Truths",
+      "directedBy": "Mike Leigh",
+      "releaseDate": "2025-01-31",
+      "posterImage": "kczr08vj4c47kc28kpz28p36k7wu",
+      "trailerYoutubeId": "gFuEZfZUKIk",
+      "tmdbId": null
+    },
+    {
+      "name": "Kohlhiesel's Daughters + introduction",
+      "directedBy": "Ernst Lubitsch",
+      "releaseDate": "1920-03-08",
+      "posterImage": "9llv2zg3bnastwhjnh9qtgu8020z",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "The Brutalist",
+      "directedBy": "Brady Corbet",
+      "releaseDate": "2024-12-20",
+      "posterImage": "io850c52sdkbz1fgjkg5l9jzcc3h",
+      "trailerYoutubeId": "hNiwPU5vjCk?si=AofWg7geJRS2uhO_",
+      "tmdbId": null
+    },
+    {
+      "name": "The Lighthouse + Fierce Salvage Glasgow Launch",
+      "directedBy": "Robert Eggers",
+      "releaseDate": "2019-10-18",
+      "posterImage": "a9gfhgrbu2zqb2ftlldv3rmdq5dq",
+      "trailerYoutubeId": "ogp0znSUWAM?si=792Cb0G1tl_MarXi",
+      "tmdbId": null
+    },
+    {
+      "name": "Hard Truths",
+      "directedBy": "Mike Leigh",
+      "releaseDate": "2025-01-31",
+      "posterImage": "kczr08vj4c47kc28kpz28p36k7wu",
+      "trailerYoutubeId": "gFuEZfZUKIk",
+      "tmdbId": null
+    }
+  ],
+  "2025-02-07": [
+    {
+      "name": "A Complete Unknown",
+      "directedBy": "James Mangold",
+      "releaseDate": "2025-01-17",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/5/8/6/5/8/3/586583-a-complete-unknown-0-230-0-345-crop.jpg?v=f14ab6ecf6",
+      "trailerYoutubeId": "Nsvexi2Ulbs",
+      "tmdbId": "661539",
+      "rating": 3.64
+    },
+    {
+      "name": "Bring Them Down",
+      "directedBy": "Christopher Andrews",
+      "releaseDate": "2025-02-06",
+      "posterImage": "wpzlw72cfmzn96jhpn4hgz5bycsq",
+      "trailerYoutubeId": "9N1QHUePOZg?si=d4PBWziThosnZ-C5",
+      "tmdbId": null
+    },
+    {
+      "name": "The Seed Of The Sacred Fig",
+      "directedBy": "Mohammad Rasoulof",
+      "releaseDate": "2025-02-07",
+      "posterImage": "qlwebmhlzdtwyc6ycgj4l1ymbcs6",
+      "trailerYoutubeId": "NX1azcAduRc",
+      "tmdbId": null
+    },
+    {
+      "name": "Hard Truths",
+      "directedBy": "Mike Leigh",
+      "releaseDate": "2025-01-31",
+      "posterImage": "kczr08vj4c47kc28kpz28p36k7wu",
+      "trailerYoutubeId": "gFuEZfZUKIk",
+      "tmdbId": null
+    },
+    {
+      "name": "A Complete Unknown",
+      "directedBy": "James Mangold",
+      "releaseDate": "2025-01-17",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/5/8/6/5/8/3/586583-a-complete-unknown-0-230-0-345-crop.jpg?v=f14ab6ecf6",
+      "trailerYoutubeId": "Nsvexi2Ulbs",
+      "tmdbId": "661539",
+      "rating": 3.64
+    },
+    {
+      "name": "Bring Them Down",
+      "directedBy": "Christopher Andrews",
+      "releaseDate": "2025-02-06",
+      "posterImage": "wpzlw72cfmzn96jhpn4hgz5bycsq",
+      "trailerYoutubeId": "9N1QHUePOZg?si=d4PBWziThosnZ-C5",
+      "tmdbId": null
+    },
+    {
+      "name": "Hard Truths",
+      "directedBy": "Mike Leigh",
+      "releaseDate": "2025-01-31",
+      "posterImage": "kczr08vj4c47kc28kpz28p36k7wu",
+      "trailerYoutubeId": "gFuEZfZUKIk",
+      "tmdbId": null
+    },
+    {
+      "name": "The Seed Of The Sacred Fig",
+      "directedBy": "Mohammad Rasoulof",
+      "releaseDate": "2025-02-07",
+      "posterImage": "qlwebmhlzdtwyc6ycgj4l1ymbcs6",
+      "trailerYoutubeId": "NX1azcAduRc",
+      "tmdbId": null
+    },
+    {
+      "name": "Bring Them Down",
+      "directedBy": "Christopher Andrews",
+      "releaseDate": "2025-02-06",
+      "posterImage": "wpzlw72cfmzn96jhpn4hgz5bycsq",
+      "trailerYoutubeId": "9N1QHUePOZg?si=d4PBWziThosnZ-C5",
+      "tmdbId": null
+    },
+    {
+      "name": "Hard Truths",
+      "directedBy": "Mike Leigh",
+      "releaseDate": "2025-01-31",
+      "posterImage": "kczr08vj4c47kc28kpz28p36k7wu",
+      "trailerYoutubeId": "gFuEZfZUKIk",
+      "tmdbId": null
+    }
+  ],
+  "2025-02-08": [
+    {
+      "name": "Take 2: Wreck-It Ralph",
+      "directedBy": "Rich Moore",
+      "releaseDate": "2012-11-01",
+      "posterImage": "0u3c08p342b463616jewpd5pt0m7",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Bring Them Down",
+      "directedBy": "Christopher Andrews",
+      "releaseDate": "2025-02-06",
+      "posterImage": "wpzlw72cfmzn96jhpn4hgz5bycsq",
+      "trailerYoutubeId": "9N1QHUePOZg?si=d4PBWziThosnZ-C5",
+      "tmdbId": null
+    },
+    {
+      "name": "The Seed Of The Sacred Fig",
+      "directedBy": "Mohammad Rasoulof",
+      "releaseDate": "2025-02-07",
+      "posterImage": "qlwebmhlzdtwyc6ycgj4l1ymbcs6",
+      "trailerYoutubeId": "NX1azcAduRc",
+      "tmdbId": null
+    },
+    {
+      "name": "The Odd Couple",
+      "directedBy": "Gene Saks",
+      "releaseDate": "1968-05-16",
+      "posterImage": "dxiw1trr7qnoueqlxiiu2mh6tyvs",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Hard Truths",
+      "directedBy": "Mike Leigh",
+      "releaseDate": "2025-01-31",
+      "posterImage": "kczr08vj4c47kc28kpz28p36k7wu",
+      "trailerYoutubeId": "gFuEZfZUKIk",
+      "tmdbId": null
+    },
+    {
+      "name": "The Seed Of The Sacred Fig",
+      "directedBy": "Mohammad Rasoulof",
+      "releaseDate": "2025-02-07",
+      "posterImage": "qlwebmhlzdtwyc6ycgj4l1ymbcs6",
+      "trailerYoutubeId": "NX1azcAduRc",
+      "tmdbId": null
+    },
+    {
+      "name": "A Complete Unknown",
+      "directedBy": "James Mangold",
+      "releaseDate": "2025-01-17",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/5/8/6/5/8/3/586583-a-complete-unknown-0-230-0-345-crop.jpg?v=f14ab6ecf6",
+      "trailerYoutubeId": "Nsvexi2Ulbs",
+      "tmdbId": "661539",
+      "rating": 3.64
+    },
+    {
+      "name": "Bring Them Down",
+      "directedBy": "Christopher Andrews",
+      "releaseDate": "2025-02-06",
+      "posterImage": "wpzlw72cfmzn96jhpn4hgz5bycsq",
+      "trailerYoutubeId": "9N1QHUePOZg?si=d4PBWziThosnZ-C5",
+      "tmdbId": null
+    },
+    {
+      "name": "Bring Them Down",
+      "directedBy": "Christopher Andrews",
+      "releaseDate": "2025-02-06",
+      "posterImage": "wpzlw72cfmzn96jhpn4hgz5bycsq",
+      "trailerYoutubeId": "9N1QHUePOZg?si=d4PBWziThosnZ-C5",
+      "tmdbId": null
+    },
+    {
+      "name": "Hard Truths",
+      "directedBy": "Mike Leigh",
+      "releaseDate": "2025-01-31",
+      "posterImage": "kczr08vj4c47kc28kpz28p36k7wu",
+      "trailerYoutubeId": "gFuEZfZUKIk",
+      "tmdbId": null
+    },
+    {
+      "name": "We Are Fugazi From Washington, D.C.",
+      "directedBy": "Joe Gross, Jeff Krulik, Joseph Pattisall",
+      "releaseDate": "2025-02-08",
+      "posterImage": "wwysksqg18rmcor46xmv9ip2frsv",
+      "trailerYoutubeId": "b2YvUkzHC3E?si=JGY3lD7ImP20aDmz",
       "tmdbId": null
     }
   ]
