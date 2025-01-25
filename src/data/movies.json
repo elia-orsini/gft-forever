@@ -48635,80 +48635,7 @@
       "tmdbId": null
     }
   ],
-  "2025-01-24": [
-    {
-      "name": "The Brutalist",
-      "directedBy": "Brady Corbet",
-      "releaseDate": "2024-12-20",
-      "posterImage": "io850c52sdkbz1fgjkg5l9jzcc3h",
-      "trailerYoutubeId": "hNiwPU5vjCk?si=AofWg7geJRS2uhO_",
-      "tmdbId": null
-    },
-    {
-      "name": "Maria",
-      "directedBy": "Pablo Larraín",
-      "releaseDate": "2025-01-10",
-      "posterImage": "8v0kmo6rvzowprfm2djvhah3xmmh",
-      "trailerYoutubeId": "mVIXaTdxlQc",
-      "tmdbId": null
-    },
-    {
-      "name": "Babygirl",
-      "directedBy": "Halina Reijn",
-      "releaseDate": "2025-01-10",
-      "posterImage": "wz220mn8qqs3wo0ca7r2famzp34q",
-      "trailerYoutubeId": "dq_bnfZy9-g",
-      "tmdbId": null
-    },
-    {
-      "name": "Presence",
-      "directedBy": "Steven Soderbergh",
-      "releaseDate": "2025-01-24",
-      "posterImage": "cxi4ee7x8i05vxw0detl61wvmi6r",
-      "trailerYoutubeId": "fw8OpucRovg",
-      "tmdbId": null
-    },
-    {
-      "name": "Maria",
-      "directedBy": "Pablo Larraín",
-      "releaseDate": "2025-01-10",
-      "posterImage": "8v0kmo6rvzowprfm2djvhah3xmmh",
-      "trailerYoutubeId": "mVIXaTdxlQc",
-      "tmdbId": null
-    },
-    {
-      "name": "Presence",
-      "directedBy": "Steven Soderbergh",
-      "releaseDate": "2025-01-24",
-      "posterImage": "cxi4ee7x8i05vxw0detl61wvmi6r",
-      "trailerYoutubeId": "fw8OpucRovg",
-      "tmdbId": null
-    },
-    {
-      "name": "The Brutalist",
-      "directedBy": "Brady Corbet",
-      "releaseDate": "2024-12-20",
-      "posterImage": "io850c52sdkbz1fgjkg5l9jzcc3h",
-      "trailerYoutubeId": "hNiwPU5vjCk?si=AofWg7geJRS2uhO_",
-      "tmdbId": null
-    },
-    {
-      "name": "Babygirl",
-      "directedBy": "Halina Reijn",
-      "releaseDate": "2025-01-10",
-      "posterImage": "wz220mn8qqs3wo0ca7r2famzp34q",
-      "trailerYoutubeId": "dq_bnfZy9-g",
-      "tmdbId": null
-    },
-    {
-      "name": "Presence",
-      "directedBy": "Steven Soderbergh",
-      "releaseDate": "2025-01-24",
-      "posterImage": "cxi4ee7x8i05vxw0detl61wvmi6r",
-      "trailerYoutubeId": "fw8OpucRovg",
-      "tmdbId": null
-    }
-  ],
+  "2025-01-24": [],
   "2025-01-25": [
     {
       "name": "Take 2: Brave",
@@ -49695,7 +49622,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/5/8/6/5/8/3/586583-a-complete-unknown-0-230-0-345-crop.jpg?v=f14ab6ecf6",
       "trailerYoutubeId": "Nsvexi2Ulbs",
       "tmdbId": "661539",
-      "rating": 3.64
+      "rating": 3.63
     },
     {
       "name": "Bring Them Down",
@@ -49728,7 +49655,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/5/8/6/5/8/3/586583-a-complete-unknown-0-230-0-345-crop.jpg?v=f14ab6ecf6",
       "trailerYoutubeId": "Nsvexi2Ulbs",
       "tmdbId": "661539",
-      "rating": 3.64
+      "rating": 3.63
     },
     {
       "name": "Bring Them Down",
@@ -49827,7 +49754,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/5/8/6/5/8/3/586583-a-complete-unknown-0-230-0-345-crop.jpg?v=f14ab6ecf6",
       "trailerYoutubeId": "Nsvexi2Ulbs",
       "tmdbId": "661539",
-      "rating": 3.64
+      "rating": 3.63
     },
     {
       "name": "Bring Them Down",
@@ -49888,11 +49815,11 @@
       "tmdbId": null
     },
     {
-      "name": "Bring Them Down",
-      "directedBy": "Christopher Andrews",
-      "releaseDate": "2025-02-06",
-      "posterImage": "wpzlw72cfmzn96jhpn4hgz5bycsq",
-      "trailerYoutubeId": "9N1QHUePOZg?si=d4PBWziThosnZ-C5",
+      "name": "The Odd Couple",
+      "directedBy": "Gene Saks",
+      "releaseDate": "1968-05-16",
+      "posterImage": "dxiw1trr7qnoueqlxiiu2mh6tyvs",
+      "trailerYoutubeId": null,
       "tmdbId": null
     },
     {
@@ -49910,7 +49837,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/5/8/6/5/8/3/586583-a-complete-unknown-0-230-0-345-crop.jpg?v=f14ab6ecf6",
       "trailerYoutubeId": "Nsvexi2Ulbs",
       "tmdbId": "661539",
-      "rating": 3.64
+      "rating": 3.63
     },
     {
       "name": "Any Given Sunday (Director's Cut)",
@@ -49918,6 +49845,14 @@
       "releaseDate": "1999-12-22",
       "posterImage": "36ct9vyx0o77khyuz89cqbult6vd",
       "trailerYoutubeId": "a3nGztzo6Dk?si=bZLoB-6J04pDFYzt",
+      "tmdbId": null
+    },
+    {
+      "name": "Bring Them Down",
+      "directedBy": "Christopher Andrews",
+      "releaseDate": "2025-02-06",
+      "posterImage": "wpzlw72cfmzn96jhpn4hgz5bycsq",
+      "trailerYoutubeId": "9N1QHUePOZg?si=d4PBWziThosnZ-C5",
       "tmdbId": null
     },
     {
@@ -49953,7 +49888,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/5/8/6/5/8/3/586583-a-complete-unknown-0-230-0-345-crop.jpg?v=f14ab6ecf6",
       "trailerYoutubeId": "Nsvexi2Ulbs",
       "tmdbId": "661539",
-      "rating": 3.64
+      "rating": 3.63
     },
     {
       "name": "Bring Them Down",
@@ -50077,7 +50012,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/5/8/6/5/8/3/586583-a-complete-unknown-0-230-0-345-crop.jpg?v=f14ab6ecf6",
       "trailerYoutubeId": "Nsvexi2Ulbs",
       "tmdbId": "661539",
-      "rating": 3.64
+      "rating": 3.63
     },
     {
       "name": "Bring Them Down",
@@ -50085,6 +50020,254 @@
       "releaseDate": "2025-02-06",
       "posterImage": "wpzlw72cfmzn96jhpn4hgz5bycsq",
       "trailerYoutubeId": "9N1QHUePOZg?si=d4PBWziThosnZ-C5",
+      "tmdbId": null
+    }
+  ],
+  "2025-02-12": [
+    {
+      "name": "Hard Truths",
+      "directedBy": "Mike Leigh",
+      "releaseDate": "2025-01-31",
+      "posterImage": "kczr08vj4c47kc28kpz28p36k7wu",
+      "trailerYoutubeId": "gFuEZfZUKIk",
+      "tmdbId": null
+    },
+    {
+      "name": "The Seed Of The Sacred Fig",
+      "directedBy": "Mohammad Rasoulof",
+      "releaseDate": "2025-02-07",
+      "posterImage": "qlwebmhlzdtwyc6ycgj4l1ymbcs6",
+      "trailerYoutubeId": "NX1azcAduRc",
+      "tmdbId": null
+    },
+    {
+      "name": "Bring Them Down",
+      "directedBy": "Christopher Andrews",
+      "releaseDate": "2025-02-06",
+      "posterImage": "wpzlw72cfmzn96jhpn4hgz5bycsq",
+      "trailerYoutubeId": "9N1QHUePOZg?si=d4PBWziThosnZ-C5",
+      "tmdbId": null
+    },
+    {
+      "name": "Hard Truths",
+      "directedBy": "Mike Leigh",
+      "releaseDate": "2025-01-31",
+      "posterImage": "kczr08vj4c47kc28kpz28p36k7wu",
+      "trailerYoutubeId": "gFuEZfZUKIk",
+      "tmdbId": null
+    },
+    {
+      "name": "Bring Them Down",
+      "directedBy": "Christopher Andrews",
+      "releaseDate": "2025-02-06",
+      "posterImage": "wpzlw72cfmzn96jhpn4hgz5bycsq",
+      "trailerYoutubeId": "9N1QHUePOZg?si=d4PBWziThosnZ-C5",
+      "tmdbId": null
+    },
+    {
+      "name": "The Seed Of The Sacred Fig",
+      "directedBy": "Mohammad Rasoulof",
+      "releaseDate": "2025-02-07",
+      "posterImage": "qlwebmhlzdtwyc6ycgj4l1ymbcs6",
+      "trailerYoutubeId": "NX1azcAduRc",
+      "tmdbId": null
+    },
+    {
+      "name": "A Complete Unknown",
+      "directedBy": "James Mangold",
+      "releaseDate": "2025-01-17",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/5/8/6/5/8/3/586583-a-complete-unknown-0-230-0-345-crop.jpg?v=f14ab6ecf6",
+      "trailerYoutubeId": "Nsvexi2Ulbs",
+      "tmdbId": "661539",
+      "rating": 3.63
+    },
+    {
+      "name": "The Human Surge 3 + Q&A",
+      "directedBy": "Eduardo Williams",
+      "releaseDate": "2024-07-03",
+      "posterImage": "ifed70xst8f37xxigugqhxlbp7kh",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Bring Them Down",
+      "directedBy": "Christopher Andrews",
+      "releaseDate": "2025-02-06",
+      "posterImage": "wpzlw72cfmzn96jhpn4hgz5bycsq",
+      "trailerYoutubeId": "9N1QHUePOZg?si=d4PBWziThosnZ-C5",
+      "tmdbId": null
+    },
+    {
+      "name": "Hard Truths",
+      "directedBy": "Mike Leigh",
+      "releaseDate": "2025-01-31",
+      "posterImage": "kczr08vj4c47kc28kpz28p36k7wu",
+      "trailerYoutubeId": "gFuEZfZUKIk",
+      "tmdbId": null
+    }
+  ],
+  "2025-02-13": [
+    {
+      "name": "Hard Truths",
+      "directedBy": "Mike Leigh",
+      "releaseDate": "2025-01-31",
+      "posterImage": "kczr08vj4c47kc28kpz28p36k7wu",
+      "trailerYoutubeId": "gFuEZfZUKIk",
+      "tmdbId": null
+    },
+    {
+      "name": "Bring Them Down",
+      "directedBy": "Christopher Andrews",
+      "releaseDate": "2025-02-06",
+      "posterImage": "wpzlw72cfmzn96jhpn4hgz5bycsq",
+      "trailerYoutubeId": "9N1QHUePOZg?si=d4PBWziThosnZ-C5",
+      "tmdbId": null
+    },
+    {
+      "name": "The Seed Of The Sacred Fig",
+      "directedBy": "Mohammad Rasoulof",
+      "releaseDate": "2025-02-07",
+      "posterImage": "qlwebmhlzdtwyc6ycgj4l1ymbcs6",
+      "trailerYoutubeId": "NX1azcAduRc",
+      "tmdbId": null
+    },
+    {
+      "name": "Hard Truths",
+      "directedBy": "Mike Leigh",
+      "releaseDate": "2025-01-31",
+      "posterImage": "kczr08vj4c47kc28kpz28p36k7wu",
+      "trailerYoutubeId": "gFuEZfZUKIk",
+      "tmdbId": null
+    },
+    {
+      "name": "Bring Them Down",
+      "directedBy": "Christopher Andrews",
+      "releaseDate": "2025-02-06",
+      "posterImage": "wpzlw72cfmzn96jhpn4hgz5bycsq",
+      "trailerYoutubeId": "9N1QHUePOZg?si=d4PBWziThosnZ-C5",
+      "tmdbId": null
+    },
+    {
+      "name": "Hard Truths",
+      "directedBy": "Mike Leigh",
+      "releaseDate": "2025-01-31",
+      "posterImage": "kczr08vj4c47kc28kpz28p36k7wu",
+      "trailerYoutubeId": "gFuEZfZUKIk",
+      "tmdbId": null
+    },
+    {
+      "name": "Elbow + introduction",
+      "directedBy": "Aslı Özarslan",
+      "releaseDate": "2024-09-05",
+      "posterImage": "vbbuji0wcxql1szixh8rded6hzac",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "The Seed Of The Sacred Fig",
+      "directedBy": "Mohammad Rasoulof",
+      "releaseDate": "2025-02-07",
+      "posterImage": "qlwebmhlzdtwyc6ycgj4l1ymbcs6",
+      "trailerYoutubeId": "NX1azcAduRc",
+      "tmdbId": null
+    },
+    {
+      "name": "Missing",
+      "directedBy": "Costa-Gavras",
+      "releaseDate": "1982-02-12",
+      "posterImage": "vu70ajof5vg0ujlve1vxyybh7qju",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Bring Them Down",
+      "directedBy": "Christopher Andrews",
+      "releaseDate": "2025-02-06",
+      "posterImage": "wpzlw72cfmzn96jhpn4hgz5bycsq",
+      "trailerYoutubeId": "9N1QHUePOZg?si=d4PBWziThosnZ-C5",
+      "tmdbId": null
+    }
+  ],
+  "2025-02-14": [
+    {
+      "name": "Memoir of a Snail",
+      "directedBy": "Adam Elliot",
+      "releaseDate": "2024-10-17",
+      "posterImage": "rz7p5ggfsl5nrsednzphbmbzh26f",
+      "trailerYoutubeId": "Ehc8cc7g31I?si=gJqLspalOhzpZqWX",
+      "tmdbId": null
+    },
+    {
+      "name": "Casablanca",
+      "directedBy": "Michael Curtiz",
+      "releaseDate": "1943-01-15",
+      "posterImage": "guac13ky2yros7nayo9sxfkfuqbo",
+      "trailerYoutubeId": "MF7JH_54d8c?si=yyAF597V0WFN3nrD",
+      "tmdbId": null
+    },
+    {
+      "name": "Rocco and His Brothers",
+      "directedBy": "Luchino Visconti",
+      "releaseDate": "1960-10-07",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/4/7/7/3/8/47738-rocco-and-his-brothers-0-230-0-345-crop.jpg?v=50b0fb7b37",
+      "trailerYoutubeId": null,
+      "tmdbId": "8422",
+      "rating": 4.3
+    },
+    {
+      "name": "To a Land Unknown",
+      "directedBy": "Mahdi Fleifel",
+      "releaseDate": "2025-02-14",
+      "posterImage": "9piyxxr1jpm0p8dd9c8zgsh5muhf",
+      "trailerYoutubeId": "_AaxAUTng-0",
+      "tmdbId": null
+    },
+    {
+      "name": "I'm Still Here",
+      "directedBy": "Walter Salles",
+      "releaseDate": "2025-01-15",
+      "posterImage": "lcpkwudenbg5u0yct8fbse27rbr6",
+      "trailerYoutubeId": "oLJEojFPvIA",
+      "tmdbId": null
+    },
+    {
+      "name": "Bring Them Down",
+      "directedBy": "Christopher Andrews",
+      "releaseDate": "2025-02-06",
+      "posterImage": "wpzlw72cfmzn96jhpn4hgz5bycsq",
+      "trailerYoutubeId": "9N1QHUePOZg?si=d4PBWziThosnZ-C5",
+      "tmdbId": null
+    },
+    {
+      "name": "Memoir of a Snail",
+      "directedBy": "Adam Elliot",
+      "releaseDate": "2024-10-17",
+      "posterImage": "rz7p5ggfsl5nrsednzphbmbzh26f",
+      "trailerYoutubeId": "Ehc8cc7g31I?si=gJqLspalOhzpZqWX",
+      "tmdbId": null
+    },
+    {
+      "name": "The Brutalist",
+      "directedBy": "Brady Corbet",
+      "releaseDate": "2024-12-20",
+      "posterImage": "io850c52sdkbz1fgjkg5l9jzcc3h",
+      "trailerYoutubeId": "hNiwPU5vjCk?si=AofWg7geJRS2uhO_",
+      "tmdbId": null
+    },
+    {
+      "name": "I'm Still Here",
+      "directedBy": "Walter Salles",
+      "releaseDate": "2025-01-15",
+      "posterImage": "lcpkwudenbg5u0yct8fbse27rbr6",
+      "trailerYoutubeId": "oLJEojFPvIA",
+      "tmdbId": null
+    },
+    {
+      "name": "Love & Basketball - 25th Anniversary",
+      "directedBy": "Gina Prince-Bythewood",
+      "releaseDate": "2000-04-21",
+      "posterImage": "fux6yv6lv9n8s69ftdpf3o22cbj3",
+      "trailerYoutubeId": "vhl4TV-S3bg?si=L_cLij4kAL19lDxg",
       "tmdbId": null
     }
   ]
