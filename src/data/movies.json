@@ -49688,14 +49688,6 @@
       "tmdbId": null
     },
     {
-      "name": "Bring Them Down",
-      "directedBy": "Christopher Andrews",
-      "releaseDate": "2025-02-06",
-      "posterImage": "wpzlw72cfmzn96jhpn4hgz5bycsq",
-      "trailerYoutubeId": "9N1QHUePOZg?si=d4PBWziThosnZ-C5",
-      "tmdbId": null
-    },
-    {
       "name": "Hard Truths",
       "directedBy": "Mike Leigh",
       "releaseDate": "2025-01-31",
@@ -50780,6 +50772,88 @@
       "releaseDate": "2025-01-15",
       "posterImage": "lcpkwudenbg5u0yct8fbse27rbr6",
       "trailerYoutubeId": "oLJEojFPvIA",
+      "tmdbId": null
+    }
+  ],
+  "2025-02-21": [
+    {
+      "name": "Conclave",
+      "directedBy": "Edward Berger",
+      "releaseDate": "2024-11-29",
+      "posterImage": "3ofujonvl5qbassub6ib8u3hz7rm",
+      "trailerYoutubeId": "QaSaM4GYmfg",
+      "tmdbId": null
+    },
+    {
+      "name": "I'm Still Here",
+      "directedBy": "Walter Salles",
+      "releaseDate": "2025-01-15",
+      "posterImage": "lcpkwudenbg5u0yct8fbse27rbr6",
+      "trailerYoutubeId": "oLJEojFPvIA",
+      "tmdbId": null
+    },
+    {
+      "name": "I Am Martin Parr",
+      "directedBy": "Lee Shulman",
+      "releaseDate": "2025-02-21",
+      "posterImage": "teehobrm2moxag0989l3p6yn5b8a",
+      "trailerYoutubeId": "60-EJ6RCiTE?si=q4Terqi_20eebEJx",
+      "tmdbId": "1371557"
+    },
+    {
+      "name": "September Says",
+      "directedBy": "Ariane Labed",
+      "releaseDate": "2025-02-13",
+      "posterImage": "4critbm4o7z9013uasbah5mguuin",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Picnic at Hanging Rock - 50th Anniversary",
+      "directedBy": "Peter Weir",
+      "releaseDate": "1975-09-02",
+      "posterImage": "rqv229okw0fcdwfkajfj7o65hmqa",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "I'm Still Here",
+      "directedBy": "Walter Salles",
+      "releaseDate": "2025-01-15",
+      "posterImage": "lcpkwudenbg5u0yct8fbse27rbr6",
+      "trailerYoutubeId": "oLJEojFPvIA",
+      "tmdbId": null
+    },
+    {
+      "name": "I Am Martin Parr",
+      "directedBy": "Lee Shulman",
+      "releaseDate": "2025-02-21",
+      "posterImage": "teehobrm2moxag0989l3p6yn5b8a",
+      "trailerYoutubeId": "60-EJ6RCiTE?si=q4Terqi_20eebEJx",
+      "tmdbId": "1371557"
+    },
+    {
+      "name": "The Brutalist",
+      "directedBy": "Brady Corbet",
+      "releaseDate": "2024-12-20",
+      "posterImage": "io850c52sdkbz1fgjkg5l9jzcc3h",
+      "trailerYoutubeId": "hNiwPU5vjCk?si=AofWg7geJRS2uhO_",
+      "tmdbId": null
+    },
+    {
+      "name": "I'm Still Here",
+      "directedBy": "Walter Salles",
+      "releaseDate": "2025-01-15",
+      "posterImage": "lcpkwudenbg5u0yct8fbse27rbr6",
+      "trailerYoutubeId": "oLJEojFPvIA",
+      "tmdbId": null
+    },
+    {
+      "name": "September Says",
+      "directedBy": "Ariane Labed",
+      "releaseDate": "2025-02-13",
+      "posterImage": "4critbm4o7z9013uasbah5mguuin",
+      "trailerYoutubeId": null,
       "tmdbId": null
     }
   ]
