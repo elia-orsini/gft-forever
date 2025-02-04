@@ -49786,11 +49786,11 @@
       "tmdbId": null
     },
     {
-      "name": "Bring Them Down",
-      "directedBy": "Christopher Andrews",
-      "releaseDate": "2025-02-06",
-      "posterImage": "wpzlw72cfmzn96jhpn4hgz5bycsq",
-      "trailerYoutubeId": "9N1QHUePOZg?si=d4PBWziThosnZ-C5",
+      "name": "Nickel Boys",
+      "directedBy": "RaMell Ross",
+      "releaseDate": "2025-01-03",
+      "posterImage": "d7qzgc4ufin0ee42n85ujwfc6tqo",
+      "trailerYoutubeId": "2jeti8dl1WI",
       "tmdbId": null
     },
     {
@@ -50014,7 +50014,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/3/9/3/8/8/39388-100-days-before-the-command-0-230-0-345-crop.jpg?v=bc94266a9c",
       "trailerYoutubeId": null,
       "tmdbId": "19830",
-      "rating": 3.25
+      "rating": 3.24
     },
     {
       "name": "The Seed Of The Sacred Fig",
@@ -50226,10 +50226,9 @@
       "name": "Rocco and His Brothers",
       "directedBy": "Luchino Visconti",
       "releaseDate": "1960-10-07",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/4/7/7/3/8/47738-rocco-and-his-brothers-0-230-0-345-crop.jpg?v=50b0fb7b37",
+      "posterImage": "xbqay4cbvtodh7frc6ce4on9d70r",
       "trailerYoutubeId": null,
-      "tmdbId": "8422",
-      "rating": 4.3
+      "tmdbId": null
     },
     {
       "name": "To a Land Unknown",
@@ -50407,10 +50406,9 @@
       "name": "Rocco and His Brothers",
       "directedBy": "Luchino Visconti",
       "releaseDate": "1960-10-07",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/4/7/7/3/8/47738-rocco-and-his-brothers-0-230-0-345-crop.jpg?v=50b0fb7b37",
+      "posterImage": "xbqay4cbvtodh7frc6ce4on9d70r",
       "trailerYoutubeId": null,
-      "tmdbId": "8422",
-      "rating": 4.3
+      "tmdbId": null
     },
     {
       "name": "To a Land Unknown",
@@ -50631,10 +50629,9 @@
       "name": "Rocco and His Brothers",
       "directedBy": "Luchino Visconti",
       "releaseDate": "1960-10-07",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/4/7/7/3/8/47738-rocco-and-his-brothers-0-230-0-345-crop.jpg?v=50b0fb7b37",
+      "posterImage": "xbqay4cbvtodh7frc6ce4on9d70r",
       "trailerYoutubeId": null,
-      "tmdbId": "8422",
-      "rating": 4.3
+      "tmdbId": null
     },
     {
       "name": "Memoir of a Snail",
@@ -50669,11 +50666,11 @@
       "tmdbId": null
     },
     {
-      "name": "Bring Them Down",
-      "directedBy": "Christopher Andrews",
-      "releaseDate": "2025-02-06",
-      "posterImage": "wpzlw72cfmzn96jhpn4hgz5bycsq",
-      "trailerYoutubeId": "9N1QHUePOZg?si=d4PBWziThosnZ-C5",
+      "name": "Nickel Boys",
+      "directedBy": "RaMell Ross",
+      "releaseDate": "2025-01-03",
+      "posterImage": "d7qzgc4ufin0ee42n85ujwfc6tqo",
+      "trailerYoutubeId": "2jeti8dl1WI",
       "tmdbId": null
     },
     {
@@ -50813,6 +50810,255 @@
       "directedBy": "Peter Weir",
       "releaseDate": "1975-09-02",
       "posterImage": "rqv229okw0fcdwfkajfj7o65hmqa",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "I'm Still Here",
+      "directedBy": "Walter Salles",
+      "releaseDate": "2025-01-15",
+      "posterImage": "lcpkwudenbg5u0yct8fbse27rbr6",
+      "trailerYoutubeId": "oLJEojFPvIA",
+      "tmdbId": null
+    },
+    {
+      "name": "I Am Martin Parr",
+      "directedBy": "Lee Shulman",
+      "releaseDate": "2025-02-21",
+      "posterImage": "teehobrm2moxag0989l3p6yn5b8a",
+      "trailerYoutubeId": "60-EJ6RCiTE?si=q4Terqi_20eebEJx",
+      "tmdbId": "1371557"
+    },
+    {
+      "name": "The Brutalist",
+      "directedBy": "Brady Corbet",
+      "releaseDate": "2024-12-20",
+      "posterImage": "io850c52sdkbz1fgjkg5l9jzcc3h",
+      "trailerYoutubeId": "hNiwPU5vjCk?si=AofWg7geJRS2uhO_",
+      "tmdbId": null
+    },
+    {
+      "name": "I'm Still Here",
+      "directedBy": "Walter Salles",
+      "releaseDate": "2025-01-15",
+      "posterImage": "lcpkwudenbg5u0yct8fbse27rbr6",
+      "trailerYoutubeId": "oLJEojFPvIA",
+      "tmdbId": null
+    },
+    {
+      "name": "September Says",
+      "directedBy": "Ariane Labed",
+      "releaseDate": "2025-02-13",
+      "posterImage": "4critbm4o7z9013uasbah5mguuin",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    }
+  ],
+  "2025-02-22": [
+    {
+      "name": "BFI Future Film Festival presents: Producing Masterclass with Reece Cargan + Scottish Shorts",
+      "directedBy": null,
+      "releaseDate": "2025-02-22",
+      "posterImage": "bpez1g5i0qnujhnnjkxiome8mfsk",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Take 2: Paddington In Peru",
+      "directedBy": "Dougal Wilson",
+      "releaseDate": "2024-11-08",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/4/4/6/4/8/2/446482-paddington-in-peru-0-230-0-345-crop.jpg?v=929c78758b",
+      "trailerYoutubeId": "ELfvaByE9Rg",
+      "tmdbId": "516729",
+      "rating": 3.46
+    },
+    {
+      "name": "Take 2 Access: Paddington In Peru",
+      "directedBy": "Dougal Wilson",
+      "releaseDate": "2024-11-08",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/4/4/6/4/8/2/446482-paddington-in-peru-0-230-0-345-crop.jpg?v=929c78758b",
+      "trailerYoutubeId": "ELfvaByE9Rg",
+      "tmdbId": "516729",
+      "rating": 3.46
+    },
+    {
+      "name": "I'm Still Here",
+      "directedBy": "Walter Salles",
+      "releaseDate": "2025-01-15",
+      "posterImage": "lcpkwudenbg5u0yct8fbse27rbr6",
+      "trailerYoutubeId": "oLJEojFPvIA",
+      "tmdbId": null
+    },
+    {
+      "name": "I Am Martin Parr",
+      "directedBy": "Lee Shulman",
+      "releaseDate": "2025-02-21",
+      "posterImage": "teehobrm2moxag0989l3p6yn5b8a",
+      "trailerYoutubeId": "60-EJ6RCiTE?si=q4Terqi_20eebEJx",
+      "tmdbId": "1371557"
+    },
+    {
+      "name": "The Brutalist",
+      "directedBy": "Brady Corbet",
+      "releaseDate": "2024-12-20",
+      "posterImage": "io850c52sdkbz1fgjkg5l9jzcc3h",
+      "trailerYoutubeId": "hNiwPU5vjCk?si=AofWg7geJRS2uhO_",
+      "tmdbId": null
+    },
+    {
+      "name": "Conclave",
+      "directedBy": "Edward Berger",
+      "releaseDate": "2024-11-29",
+      "posterImage": "3ofujonvl5qbassub6ib8u3hz7rm",
+      "trailerYoutubeId": "QaSaM4GYmfg",
+      "tmdbId": null
+    },
+    {
+      "name": "I'm Still Here",
+      "directedBy": "Walter Salles",
+      "releaseDate": "2025-01-15",
+      "posterImage": "lcpkwudenbg5u0yct8fbse27rbr6",
+      "trailerYoutubeId": "oLJEojFPvIA",
+      "tmdbId": null
+    },
+    {
+      "name": "Anora",
+      "directedBy": "Sean Baker",
+      "releaseDate": "2024-11-01",
+      "posterImage": "4wtkfqqwrbwujbov9zvlh4ks19iu",
+      "trailerYoutubeId": "wvSwg5gv88w",
+      "tmdbId": null
+    },
+    {
+      "name": "I'm Still Here",
+      "directedBy": "Walter Salles",
+      "releaseDate": "2025-01-15",
+      "posterImage": "lcpkwudenbg5u0yct8fbse27rbr6",
+      "trailerYoutubeId": "oLJEojFPvIA",
+      "tmdbId": null
+    },
+    {
+      "name": "September Says",
+      "directedBy": "Ariane Labed",
+      "releaseDate": "2025-02-13",
+      "posterImage": "4critbm4o7z9013uasbah5mguuin",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    }
+  ],
+  "2025-02-23": [
+    {
+      "name": "I Am Martin Parr",
+      "directedBy": "Lee Shulman",
+      "releaseDate": "2025-02-21",
+      "posterImage": "teehobrm2moxag0989l3p6yn5b8a",
+      "trailerYoutubeId": "60-EJ6RCiTE?si=q4Terqi_20eebEJx",
+      "tmdbId": "1371557"
+    },
+    {
+      "name": "I'm Still Here",
+      "directedBy": "Walter Salles",
+      "releaseDate": "2025-01-15",
+      "posterImage": "lcpkwudenbg5u0yct8fbse27rbr6",
+      "trailerYoutubeId": "oLJEojFPvIA",
+      "tmdbId": null
+    },
+    {
+      "name": "The Brutalist",
+      "directedBy": "Brady Corbet",
+      "releaseDate": "2024-12-20",
+      "posterImage": "io850c52sdkbz1fgjkg5l9jzcc3h",
+      "trailerYoutubeId": "hNiwPU5vjCk?si=AofWg7geJRS2uhO_",
+      "tmdbId": null
+    },
+    {
+      "name": "Picnic at Hanging Rock - 50th Anniversary",
+      "directedBy": "Peter Weir",
+      "releaseDate": "1975-09-02",
+      "posterImage": "rqv229okw0fcdwfkajfj7o65hmqa",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Anora",
+      "directedBy": "Sean Baker",
+      "releaseDate": "2024-11-01",
+      "posterImage": "4wtkfqqwrbwujbov9zvlh4ks19iu",
+      "trailerYoutubeId": "wvSwg5gv88w",
+      "tmdbId": null
+    },
+    {
+      "name": "September Says",
+      "directedBy": "Ariane Labed",
+      "releaseDate": "2025-02-13",
+      "posterImage": "4critbm4o7z9013uasbah5mguuin",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "I'm Still Here",
+      "directedBy": "Walter Salles",
+      "releaseDate": "2025-01-15",
+      "posterImage": "lcpkwudenbg5u0yct8fbse27rbr6",
+      "trailerYoutubeId": "oLJEojFPvIA",
+      "tmdbId": null
+    },
+    {
+      "name": "Saving Face + introduction",
+      "directedBy": "Alice Wu",
+      "releaseDate": "2004-09-12",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/3/9/7/1/1/39711-saving-face-0-230-0-345-crop.jpg?v=cc366a685a",
+      "trailerYoutubeId": null,
+      "tmdbId": "19316",
+      "rating": 3.99
+    },
+    {
+      "name": "I Am Martin Parr",
+      "directedBy": "Lee Shulman",
+      "releaseDate": "2025-02-21",
+      "posterImage": "teehobrm2moxag0989l3p6yn5b8a",
+      "trailerYoutubeId": "60-EJ6RCiTE?si=q4Terqi_20eebEJx",
+      "tmdbId": "1371557"
+    }
+  ],
+  "2025-02-24": [
+    {
+      "name": "Picnic at Hanging Rock - 50th Anniversary",
+      "directedBy": "Peter Weir",
+      "releaseDate": "1975-09-02",
+      "posterImage": "rqv229okw0fcdwfkajfj7o65hmqa",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "I'm Still Here",
+      "directedBy": "Walter Salles",
+      "releaseDate": "2025-01-15",
+      "posterImage": "lcpkwudenbg5u0yct8fbse27rbr6",
+      "trailerYoutubeId": "oLJEojFPvIA",
+      "tmdbId": null
+    },
+    {
+      "name": "I Am Martin Parr",
+      "directedBy": "Lee Shulman",
+      "releaseDate": "2025-02-21",
+      "posterImage": "teehobrm2moxag0989l3p6yn5b8a",
+      "trailerYoutubeId": "60-EJ6RCiTE?si=q4Terqi_20eebEJx",
+      "tmdbId": "1371557"
+    },
+    {
+      "name": "Conclave",
+      "directedBy": "Edward Berger",
+      "releaseDate": "2024-11-29",
+      "posterImage": "3ofujonvl5qbassub6ib8u3hz7rm",
+      "trailerYoutubeId": "QaSaM4GYmfg",
+      "tmdbId": null
+    },
+    {
+      "name": "September Says",
+      "directedBy": "Ariane Labed",
+      "releaseDate": "2025-02-13",
+      "posterImage": "4critbm4o7z9013uasbah5mguuin",
       "trailerYoutubeId": null,
       "tmdbId": null
     },
