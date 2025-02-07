@@ -50605,7 +50605,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/1/8/5/6/81856-another-way-0-230-0-345-crop.jpg?v=bd4b7ceb2e",
       "trailerYoutubeId": null,
       "tmdbId": "100215",
-      "rating": 3.4
+      "rating": 3.39
     }
   ],
   "2025-02-19": [
@@ -50810,7 +50810,7 @@
       "directedBy": "Peter Weir",
       "releaseDate": "1975-09-02",
       "posterImage": "rqv229okw0fcdwfkajfj7o65hmqa",
-      "trailerYoutubeId": null,
+      "trailerYoutubeId": "OOA1UY_ND2M",
       "tmdbId": null
     },
     {
@@ -50976,7 +50976,7 @@
       "directedBy": "Peter Weir",
       "releaseDate": "1975-09-02",
       "posterImage": "rqv229okw0fcdwfkajfj7o65hmqa",
-      "trailerYoutubeId": null,
+      "trailerYoutubeId": "OOA1UY_ND2M",
       "tmdbId": null
     },
     {
@@ -51027,7 +51027,7 @@
       "directedBy": "Peter Weir",
       "releaseDate": "1975-09-02",
       "posterImage": "rqv229okw0fcdwfkajfj7o65hmqa",
-      "trailerYoutubeId": null,
+      "trailerYoutubeId": "OOA1UY_ND2M",
       "tmdbId": null
     },
     {
@@ -51099,6 +51099,260 @@
       "directedBy": "Ariane Labed",
       "releaseDate": "2025-02-13",
       "posterImage": "4critbm4o7z9013uasbah5mguuin",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    }
+  ],
+  "2025-02-25": [
+    {
+      "name": "I'm Still Here",
+      "directedBy": "Walter Salles",
+      "releaseDate": "2025-01-15",
+      "posterImage": "lcpkwudenbg5u0yct8fbse27rbr6",
+      "trailerYoutubeId": "oLJEojFPvIA",
+      "tmdbId": null
+    },
+    {
+      "name": "Picnic at Hanging Rock - 50th Anniversary",
+      "directedBy": "Peter Weir",
+      "releaseDate": "1975-09-02",
+      "posterImage": "rqv229okw0fcdwfkajfj7o65hmqa",
+      "trailerYoutubeId": "OOA1UY_ND2M",
+      "tmdbId": null
+    },
+    {
+      "name": "I Am Martin Parr",
+      "directedBy": "Lee Shulman",
+      "releaseDate": "2025-02-21",
+      "posterImage": "teehobrm2moxag0989l3p6yn5b8a",
+      "trailerYoutubeId": "60-EJ6RCiTE?si=q4Terqi_20eebEJx",
+      "tmdbId": "1371557"
+    },
+    {
+      "name": "September Says",
+      "directedBy": "Ariane Labed",
+      "releaseDate": "2025-02-13",
+      "posterImage": "4critbm4o7z9013uasbah5mguuin",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "I'm Still Here",
+      "directedBy": "Walter Salles",
+      "releaseDate": "2025-01-15",
+      "posterImage": "lcpkwudenbg5u0yct8fbse27rbr6",
+      "trailerYoutubeId": "oLJEojFPvIA",
+      "tmdbId": null
+    },
+    {
+      "name": "Anora",
+      "directedBy": "Sean Baker",
+      "releaseDate": "2024-11-01",
+      "posterImage": "4wtkfqqwrbwujbov9zvlh4ks19iu",
+      "trailerYoutubeId": "wvSwg5gv88w",
+      "tmdbId": null
+    },
+    {
+      "name": "Picnic at Hanging Rock - 50th Anniversary",
+      "directedBy": "Peter Weir",
+      "releaseDate": "1975-09-02",
+      "posterImage": "rqv229okw0fcdwfkajfj7o65hmqa",
+      "trailerYoutubeId": "OOA1UY_ND2M",
+      "tmdbId": null
+    },
+    {
+      "name": "Youth Screening: Beautiful Thing",
+      "directedBy": "Hettie Macdonald",
+      "releaseDate": "1996-06-21",
+      "posterImage": "zdgg5hh2omdc4uit49kogz1c55ih",
+      "trailerYoutubeId": "YeGBkXoOe6Q?si=UXKvyBsrJi9ENe-x",
+      "tmdbId": null
+    },
+    {
+      "name": "The Brutalist",
+      "directedBy": "Brady Corbet",
+      "releaseDate": "2024-12-20",
+      "posterImage": "io850c52sdkbz1fgjkg5l9jzcc3h",
+      "trailerYoutubeId": "hNiwPU5vjCk?si=AofWg7geJRS2uhO_",
+      "tmdbId": null
+    },
+    {
+      "name": "I'm Still Here",
+      "directedBy": "Walter Salles",
+      "releaseDate": "2025-01-15",
+      "posterImage": "lcpkwudenbg5u0yct8fbse27rbr6",
+      "trailerYoutubeId": "oLJEojFPvIA",
+      "tmdbId": null
+    },
+    {
+      "name": "I Am Martin Parr",
+      "directedBy": "Lee Shulman",
+      "releaseDate": "2025-02-21",
+      "posterImage": "teehobrm2moxag0989l3p6yn5b8a",
+      "trailerYoutubeId": "60-EJ6RCiTE?si=q4Terqi_20eebEJx",
+      "tmdbId": "1371557"
+    }
+  ],
+  "2025-02-26": [
+    {
+      "name": "Conclave",
+      "directedBy": "Edward Berger",
+      "releaseDate": "2024-11-29",
+      "posterImage": "3ofujonvl5qbassub6ib8u3hz7rm",
+      "trailerYoutubeId": "QaSaM4GYmfg",
+      "tmdbId": null
+    },
+    {
+      "name": "I'm Still Here",
+      "directedBy": "Walter Salles",
+      "releaseDate": "2025-01-15",
+      "posterImage": "lcpkwudenbg5u0yct8fbse27rbr6",
+      "trailerYoutubeId": "oLJEojFPvIA",
+      "tmdbId": null
+    },
+    {
+      "name": "I'm Still Here",
+      "directedBy": "Walter Salles",
+      "releaseDate": "2025-01-15",
+      "posterImage": "lcpkwudenbg5u0yct8fbse27rbr6",
+      "trailerYoutubeId": "oLJEojFPvIA",
+      "tmdbId": null
+    },
+    {
+      "name": "September Says",
+      "directedBy": "Ariane Labed",
+      "releaseDate": "2025-02-13",
+      "posterImage": "4critbm4o7z9013uasbah5mguuin",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Opening Gala: Tornado",
+      "directedBy": "John Maclean",
+      "releaseDate": "2025-02-26",
+      "posterImage": "11ic0745w96khs910q12bnexlo9l",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Opening Gala: Tornado",
+      "directedBy": "John Maclean",
+      "releaseDate": "2025-02-26",
+      "posterImage": "11ic0745w96khs910q12bnexlo9l",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Opening Gala: Tornado",
+      "directedBy": "John Maclean",
+      "releaseDate": "2025-02-26",
+      "posterImage": "11ic0745w96khs910q12bnexlo9l",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    }
+  ],
+  "2025-02-27": [
+    {
+      "name": "A Tree Grows in Brooklyn",
+      "directedBy": "Elia Kazan",
+      "releaseDate": null,
+      "posterImage": "cmczxjh8trdw8q1m1jt5iq2frp8n",
+      "trailerYoutubeId": "8NEsJ5ScGr4",
+      "tmdbId": null
+    },
+    {
+      "name": "Sunshine Follows Rain",
+      "directedBy": "Gustaf Edgren",
+      "releaseDate": "2025-02-27",
+      "posterImage": "bqyvz6s8z6pxak1b77cil826xhtr",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Tornado",
+      "directedBy": "John Maclean",
+      "releaseDate": "2025-02-27",
+      "posterImage": "212zgzh354kxppf250g0p4dufdpy",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Andrea Gets a Divorce",
+      "directedBy": "Josef Hader",
+      "releaseDate": "2025-02-27",
+      "posterImage": "usd7fseiqgf9upe543wvapoprr8m",
+      "trailerYoutubeId": "yBZgMbrf-gU",
+      "tmdbId": null
+    },
+    {
+      "name": "Ghostlight",
+      "directedBy": "Kelly O’Sullivan, Alex Thompson",
+      "releaseDate": "2025-02-27",
+      "posterImage": "zazyu731kmyw8lriz7xzmrbzw189",
+      "trailerYoutubeId": "",
+      "tmdbId": null
+    },
+    {
+      "name": "Sew Torn",
+      "directedBy": "Freddy Macdonald",
+      "releaseDate": "2025-02-27",
+      "posterImage": "h8n07s57vutf32whtl7c02kx3lgz",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Fear",
+      "directedBy": "Justin Chadwick",
+      "releaseDate": "2025-02-27",
+      "posterImage": "7s9acybhatjvzu7n9d4hw17kq3jy",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Quiet Life",
+      "directedBy": "Alexandros Avranas",
+      "releaseDate": "2025-02-27",
+      "posterImage": "p8hgwg97irn7ohhs40xfsjetvo7y",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Spilt Milk",
+      "directedBy": "Brian Durnin",
+      "releaseDate": "2025-02-27",
+      "posterImage": "rh42bfv5ifafkn8ngfcebaiuk3rq",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Hill",
+      "directedBy": "Alex Holmes",
+      "releaseDate": "2025-02-27",
+      "posterImage": "qa1cipr5zkyf9pdjc6e4r9y8ffvq",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "The Kingdom",
+      "directedBy": "Julien Colonna",
+      "releaseDate": "2025-02-27",
+      "posterImage": "ke81fvuxw5entpfla9vm4xxpxmke",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "In Vitro",
+      "directedBy": "Will Howarth, Tom McKeith",
+      "releaseDate": "2025-02-27",
+      "posterImage": "vxwn8qsmx49mp4wd4fr1qwe0g18g",
+      "trailerYoutubeId": "",
+      "tmdbId": null
+    },
+    {
+      "name": "Mexico 86",
+      "directedBy": "César Diaz",
+      "releaseDate": "2025-02-27",
+      "posterImage": "flee0k6vhetngsvqalni99krx22y",
       "trailerYoutubeId": null,
       "tmdbId": null
     }
