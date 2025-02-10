@@ -50605,7 +50605,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/8/1/8/5/6/81856-another-way-0-230-0-345-crop.jpg?v=bd4b7ceb2e",
       "trailerYoutubeId": null,
       "tmdbId": "100215",
-      "rating": 3.39
+      "rating": 3.38
     }
   ],
   "2025-02-19": [
@@ -50870,7 +50870,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/4/4/6/4/8/2/446482-paddington-in-peru-0-230-0-345-crop.jpg?v=929c78758b",
       "trailerYoutubeId": "ELfvaByE9Rg",
       "tmdbId": "516729",
-      "rating": 3.46
+      "rating": 3.51
     },
     {
       "name": "Take 2 Access: Paddington In Peru",
@@ -50879,7 +50879,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/4/4/6/4/8/2/446482-paddington-in-peru-0-230-0-345-crop.jpg?v=929c78758b",
       "trailerYoutubeId": "ELfvaByE9Rg",
       "tmdbId": "516729",
-      "rating": 3.46
+      "rating": 3.51
     },
     {
       "name": "I'm Still Here",
@@ -51353,6 +51353,452 @@
       "directedBy": "César Diaz",
       "releaseDate": "2025-02-27",
       "posterImage": "flee0k6vhetngsvqalni99krx22y",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    }
+  ],
+  "2025-02-28": [
+    {
+      "name": "Pather Panchali",
+      "directedBy": "Satyajit Ray",
+      "releaseDate": null,
+      "posterImage": "nu1zhh10ui88zf6ckfwxmorspg7l",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Andrea Gets a Divorce",
+      "directedBy": "Josef Hader",
+      "releaseDate": "2025-02-27",
+      "posterImage": "usd7fseiqgf9upe543wvapoprr8m",
+      "trailerYoutubeId": "yBZgMbrf-gU",
+      "tmdbId": null
+    },
+    {
+      "name": "Blackmailed",
+      "directedBy": "Marc Allegret",
+      "releaseDate": "2025-02-28",
+      "posterImage": "sr9iflua1qr3yjgnhfl8xm7zmtof",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Hill",
+      "directedBy": "Alex Holmes",
+      "releaseDate": "2025-02-27",
+      "posterImage": "qa1cipr5zkyf9pdjc6e4r9y8ffvq",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Spilt Milk",
+      "directedBy": "Brian Durnin",
+      "releaseDate": "2025-02-27",
+      "posterImage": "rh42bfv5ifafkn8ngfcebaiuk3rq",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Ghostlight",
+      "directedBy": "Kelly O’Sullivan, Alex Thompson",
+      "releaseDate": "2025-02-27",
+      "posterImage": "zazyu731kmyw8lriz7xzmrbzw189",
+      "trailerYoutubeId": "",
+      "tmdbId": null
+    },
+    {
+      "name": "Quiet Life",
+      "directedBy": "Alexandros Avranas",
+      "releaseDate": "2025-02-27",
+      "posterImage": "p8hgwg97irn7ohhs40xfsjetvo7y",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Sew Torn",
+      "directedBy": "Freddy Macdonald",
+      "releaseDate": "2025-02-27",
+      "posterImage": "h8n07s57vutf32whtl7c02kx3lgz",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Long Day's Journey Into Night",
+      "directedBy": "Jonathan Kent",
+      "releaseDate": "2025-02-28",
+      "posterImage": "svblixr02pjondzcfv5dgthcs0nw",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Gina",
+      "directedBy": "Ulrike Kofler",
+      "releaseDate": "2025-02-28",
+      "posterImage": "50vvcmdlkanmovhrmotvymbsfl3f",
+      "trailerYoutubeId": "",
+      "tmdbId": null
+    },
+    {
+      "name": "Boys Go to Jupiter: GFF Youth Takeover",
+      "directedBy": "Julian Glander",
+      "releaseDate": null,
+      "posterImage": "ib6gx7nwd2ttrjtkaho51x1pz8yf",
+      "trailerYoutubeId": "SjWzV_LKfpE",
+      "tmdbId": null
+    },
+    {
+      "name": "The Kingdom",
+      "directedBy": "Julien Colonna",
+      "releaseDate": "2025-02-27",
+      "posterImage": "ke81fvuxw5entpfla9vm4xxpxmke",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Mexico 86",
+      "directedBy": "César Diaz",
+      "releaseDate": "2025-02-27",
+      "posterImage": "flee0k6vhetngsvqalni99krx22y",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "In Vitro",
+      "directedBy": "Will Howarth, Tom McKeith",
+      "releaseDate": "2025-02-27",
+      "posterImage": "vxwn8qsmx49mp4wd4fr1qwe0g18g",
+      "trailerYoutubeId": "",
+      "tmdbId": null
+    },
+    {
+      "name": "My Dead Friend Zoe",
+      "directedBy": "Kyle Hausmann-Stokes",
+      "releaseDate": "2025-02-28",
+      "posterImage": "bxww2x1lozs4fjrovp48qiseh3ad",
+      "trailerYoutubeId": "Q4SbCaV1esg",
+      "tmdbId": null
+    },
+    {
+      "name": "Motel Destino",
+      "directedBy": "Karim AÏnouz",
+      "releaseDate": "2025-02-28",
+      "posterImage": "7gy6mfnkubdwp3q22gkedoi3yifj",
+      "trailerYoutubeId": "",
+      "tmdbId": null
+    },
+    {
+      "name": "On Falling",
+      "directedBy": "Laura Carreira",
+      "releaseDate": "2025-02-28",
+      "posterImage": "91w7ncz80mc9mzumsqdih4zf12fq",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Kill the Jockey",
+      "directedBy": "Luis Ortega",
+      "releaseDate": "2025-02-28",
+      "posterImage": "0fi2f4yl30rgbj8rrku2daz7hacq",
+      "trailerYoutubeId": "",
+      "tmdbId": null
+    },
+    {
+      "name": "Some Nights I Feel Like Walking",
+      "directedBy": "Petersen Vargas",
+      "releaseDate": "2025-02-28",
+      "posterImage": "w18m2gd9pm7xi6ow6oih7zbp0vhy",
+      "trailerYoutubeId": "",
+      "tmdbId": null
+    },
+    {
+      "name": "GFF Karaoke",
+      "directedBy": null,
+      "releaseDate": null,
+      "posterImage": "t42wik8sf4n4o84rh971e7q33au5",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    }
+  ],
+  "2025-03-01": [
+    {
+      "name": "The Prime of Miss Jean Brodie",
+      "directedBy": "Ronald Neame",
+      "releaseDate": "2025-03-01",
+      "posterImage": "61p3re92qlkkyn6gnbt5r6r260it",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Take 2: Madagascar",
+      "directedBy": "Eric Darnell, Tom McGrath",
+      "releaseDate": null,
+      "posterImage": "2mwr19po84bmvg5fe8kth6j7e5jr",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "On Falling",
+      "directedBy": "Laura Carreira",
+      "releaseDate": "2025-02-28",
+      "posterImage": "91w7ncz80mc9mzumsqdih4zf12fq",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Gina",
+      "directedBy": "Ulrike Kofler",
+      "releaseDate": "2025-02-28",
+      "posterImage": "50vvcmdlkanmovhrmotvymbsfl3f",
+      "trailerYoutubeId": "",
+      "tmdbId": null
+    },
+    {
+      "name": "Some Nights I Feel Like Walking",
+      "directedBy": "Petersen Vargas",
+      "releaseDate": "2025-02-28",
+      "posterImage": "w18m2gd9pm7xi6ow6oih7zbp0vhy",
+      "trailerYoutubeId": "",
+      "tmdbId": null
+    },
+    {
+      "name": "Motel Destino",
+      "directedBy": "Karim AÏnouz",
+      "releaseDate": "2025-02-28",
+      "posterImage": "7gy6mfnkubdwp3q22gkedoi3yifj",
+      "trailerYoutubeId": "",
+      "tmdbId": null
+    },
+    {
+      "name": "Kill the Jockey",
+      "directedBy": "Luis Ortega",
+      "releaseDate": "2025-02-28",
+      "posterImage": "0fi2f4yl30rgbj8rrku2daz7hacq",
+      "trailerYoutubeId": "",
+      "tmdbId": null
+    },
+    {
+      "name": "In Conversation with Jessica Lange",
+      "directedBy": null,
+      "releaseDate": "2025-03-01",
+      "posterImage": "rhlic8zostp1dwd5n8fs46bqszu3",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "My Dead Friend Zoe",
+      "directedBy": "Kyle Hausmann-Stokes",
+      "releaseDate": "2025-02-28",
+      "posterImage": "bxww2x1lozs4fjrovp48qiseh3ad",
+      "trailerYoutubeId": "Q4SbCaV1esg",
+      "tmdbId": null
+    },
+    {
+      "name": "Queens",
+      "directedBy": "Klaudia Reynicke",
+      "releaseDate": "2025-03-01",
+      "posterImage": "mf7wxpstcf9kjf7xyzcuyeiv2kz0",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Sharp Corner",
+      "directedBy": "Jason Buxton",
+      "releaseDate": "2025-03-01",
+      "posterImage": "dz5gg90jr57th3aa33sxjx54v2rj",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Mr. K",
+      "directedBy": "Tallulah Hazehamp Schwab",
+      "releaseDate": "2025-03-01",
+      "posterImage": "wzy3pcwmd6yf5sqmbaok58o2vnis",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "The Extraordinary Miss Flower",
+      "directedBy": "Iain Forsyth, Jane Pollard",
+      "releaseDate": "2025-03-01",
+      "posterImage": "qwme1ixqush843olgwjhfnfya1hh",
+      "trailerYoutubeId": "mZhJwHmi5y4",
+      "tmdbId": null
+    },
+    {
+      "name": "Dying",
+      "directedBy": "Matthias Glasner",
+      "releaseDate": "2025-03-01",
+      "posterImage": "vmc6yp7vkmf8kfkmaek7tbpt3z53",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Gazer",
+      "directedBy": "Ryan J. Sloan",
+      "releaseDate": "2025-03-01",
+      "posterImage": "h4m64qgefb73fwqd2cs2owju79v5",
+      "trailerYoutubeId": "",
+      "tmdbId": null
+    },
+    {
+      "name": "Ghost Killer",
+      "directedBy": "Kensuke Sonomura",
+      "releaseDate": "2025-03-01",
+      "posterImage": "bju3oqo96zycopw3tkihauik9zvh",
+      "trailerYoutubeId": "",
+      "tmdbId": null
+    },
+    {
+      "name": "The Surfer",
+      "directedBy": "Lorcan Finnegan",
+      "releaseDate": "2025-03-01",
+      "posterImage": "vzv0a685av5jwbk0zoc5f41r68jv",
+      "trailerYoutubeId": "",
+      "tmdbId": null
+    },
+    {
+      "name": "Peaches Goes Bananas",
+      "directedBy": "Marie Losier",
+      "releaseDate": "2025-03-01",
+      "posterImage": "aj2nu0nz2598sc40vx4228wh9pf5",
+      "trailerYoutubeId": "3hvBEB048TU",
+      "tmdbId": null
+    }
+  ],
+  "2025-03-02": [
+    {
+      "name": "Gregory's Girl",
+      "directedBy": "Bill Forsyth",
+      "releaseDate": "1981-04-23",
+      "posterImage": "krnovzuaynwv9201bp7kjmh1wix4",
+      "trailerYoutubeId": "VG1uVqMI7R0",
+      "tmdbId": null
+    },
+    {
+      "name": "The Surfer",
+      "directedBy": "Lorcan Finnegan",
+      "releaseDate": "2025-03-01",
+      "posterImage": "vzv0a685av5jwbk0zoc5f41r68jv",
+      "trailerYoutubeId": "",
+      "tmdbId": null
+    },
+    {
+      "name": "The Extraordinary Miss Flower",
+      "directedBy": "Iain Forsyth, Jane Pollard",
+      "releaseDate": "2025-03-01",
+      "posterImage": "qwme1ixqush843olgwjhfnfya1hh",
+      "trailerYoutubeId": "mZhJwHmi5y4",
+      "tmdbId": null
+    },
+    {
+      "name": "In Conversation with James McAvoy",
+      "directedBy": null,
+      "releaseDate": null,
+      "posterImage": "ictr1o2jaif2qk4q9lsyu3flcby0",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Queens",
+      "directedBy": "Klaudia Reynicke",
+      "releaseDate": "2025-03-01",
+      "posterImage": "mf7wxpstcf9kjf7xyzcuyeiv2kz0",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Peaches Goes Bananas",
+      "directedBy": "Marie Losier",
+      "releaseDate": "2025-03-01",
+      "posterImage": "aj2nu0nz2598sc40vx4228wh9pf5",
+      "trailerYoutubeId": "3hvBEB048TU",
+      "tmdbId": null
+    },
+    {
+      "name": "Mr. K",
+      "directedBy": "Tallulah Hazehamp Schwab",
+      "releaseDate": "2025-03-01",
+      "posterImage": "wzy3pcwmd6yf5sqmbaok58o2vnis",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Dying",
+      "directedBy": "Matthias Glasner",
+      "releaseDate": "2025-03-01",
+      "posterImage": "vmc6yp7vkmf8kfkmaek7tbpt3z53",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "The Last King of Scotland",
+      "directedBy": "Kevin Macdonald",
+      "releaseDate": "2006-01-12",
+      "posterImage": "8jhncsj0uap2a1kmen40gx7vu4ee",
+      "trailerYoutubeId": "R_W7PC6NnN4",
+      "tmdbId": null
+    },
+    {
+      "name": "Peacock",
+      "directedBy": "Bernhard Wenger",
+      "releaseDate": "2025-03-02",
+      "posterImage": "my8y2gvelsc7fibzfxrju4unr4c5",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Gazer",
+      "directedBy": "Ryan J. Sloan",
+      "releaseDate": "2025-03-01",
+      "posterImage": "h4m64qgefb73fwqd2cs2owju79v5",
+      "trailerYoutubeId": "",
+      "tmdbId": null
+    },
+    {
+      "name": "Ghost Killer",
+      "directedBy": "Kensuke Sonomura",
+      "releaseDate": "2025-03-01",
+      "posterImage": "bju3oqo96zycopw3tkihauik9zvh",
+      "trailerYoutubeId": "",
+      "tmdbId": null
+    },
+    {
+      "name": "The Swedish Torpedo",
+      "directedBy": "Frida Kempff",
+      "releaseDate": "2025-03-02",
+      "posterImage": "52frzhlpt70r29wh6qk8oiwl135e",
+      "trailerYoutubeId": "",
+      "tmdbId": null
+    },
+    {
+      "name": "Harvest",
+      "directedBy": "Athina Rachel Tsangari",
+      "releaseDate": "2025-03-02",
+      "posterImage": "px9oi29sn89uwyu5pi9olxdafotu",
+      "trailerYoutubeId": "ck944Ak3TL0",
+      "tmdbId": null
+    },
+    {
+      "name": "Electric Child",
+      "directedBy": "Simon Jaquemet",
+      "releaseDate": "2025-03-02",
+      "posterImage": "ghk5yrxdnuhp3e465j6npf4edeao",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Showgirls - 30th Anniversary",
+      "directedBy": "Paul Verhoeven",
+      "releaseDate": "1995-09-22",
+      "posterImage": "rm43mf7ltwogncx9ncwuqinj1een",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Silver Star",
+      "directedBy": "Ruben Amar, Lola Bessis",
+      "releaseDate": "2025-03-02",
+      "posterImage": "86wcw8m5da4w36tlmfc82yfkj22t",
       "trailerYoutubeId": null,
       "tmdbId": null
     }
