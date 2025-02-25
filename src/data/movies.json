@@ -52596,6 +52596,14 @@
       "tmdbId": null
     },
     {
+      "name": "GFF25 Community Takeover Day: U Are The Universe",
+      "directedBy": "Pavlo Ostrikov",
+      "releaseDate": "2025-03-04",
+      "posterImage": "1alwy3k8a9axhehwm63chcqdbyi5",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
       "name": "From Hilde, With Love",
       "directedBy": "Andreas Dresen",
       "releaseDate": "2025-03-07",
@@ -53091,10 +53099,9 @@
       "name": "Sister Midnight",
       "directedBy": "Karan Kandhari",
       "releaseDate": "2025-03-14",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/5/8/4/4/5/1158445-sister-midnight-0-230-0-345-crop.jpg?v=ac887935e0",
+      "posterImage": "i3l7sb8nys2zracpizjtuzbypakl",
       "trailerYoutubeId": "MpC4Y4r8ftM?si=z_tQRasd4p9qVnJE",
-      "tmdbId": "1275248",
-      "rating": 3.42
+      "tmdbId": null
     },
     {
       "name": "The Last Showgirl",
@@ -53103,7 +53110,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/8/7/8/6/1118786-the-last-showgirl-0-230-0-345-crop.jpg?v=811b7fc7a2",
       "trailerYoutubeId": "r4xpoKBKrpo",
       "tmdbId": "1235499",
-      "rating": 3.32
+      "rating": 3.31
     },
     {
       "name": "Mickey 17",
@@ -53133,10 +53140,9 @@
       "name": "Sister Midnight",
       "directedBy": "Karan Kandhari",
       "releaseDate": "2025-03-14",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/5/8/4/4/5/1158445-sister-midnight-0-230-0-345-crop.jpg?v=ac887935e0",
+      "posterImage": "i3l7sb8nys2zracpizjtuzbypakl",
       "trailerYoutubeId": "MpC4Y4r8ftM?si=z_tQRasd4p9qVnJE",
-      "tmdbId": "1275248",
-      "rating": 3.42
+      "tmdbId": null
     },
     {
       "name": "The Last Showgirl",
@@ -53145,7 +53151,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/8/7/8/6/1118786-the-last-showgirl-0-230-0-345-crop.jpg?v=811b7fc7a2",
       "trailerYoutubeId": "r4xpoKBKrpo",
       "tmdbId": "1235499",
-      "rating": 3.32
+      "rating": 3.31
     },
     {
       "name": "Mickey 17",
@@ -53161,6 +53167,237 @@
       "releaseDate": "2024-11-22",
       "posterImage": "qpj7hpe47z8t4t112wqqwfuuh166",
       "trailerYoutubeId": "dLiCCGTd51s?si=HVV0nlGngoLzgww6",
+      "tmdbId": null
+    }
+  ],
+  "2025-03-15": [
+    {
+      "name": "Take 2: Away + short",
+      "directedBy": "Gints Zilbalodis",
+      "releaseDate": "2019-11-15",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/5/2/4/9/1/5/524915-away-0-230-0-345-crop.jpg?v=878aa8daa3",
+      "trailerYoutubeId": "m38uXs6_VNQ?si=itd51J8RnEwwMSF2",
+      "tmdbId": "597398",
+      "rating": 3.41
+    },
+    {
+      "name": "A House on Fire (Casa En Flames)",
+      "directedBy": "Dani de la Orden",
+      "releaseDate": "2024-06-28",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/0/2/1/7/1/1102171-casa-en-flames-0-230-0-345-crop.jpg?v=c4a75dea72",
+      "trailerYoutubeId": "7mhzsmm6hlo?si=rHG-KMTR3DGSGCYg",
+      "tmdbId": "1218193",
+      "rating": 3.77
+    },
+    {
+      "name": "Ernest Cole: Lost and Found",
+      "directedBy": "Raoul Peck",
+      "releaseDate": "2024-11-22",
+      "posterImage": "qpj7hpe47z8t4t112wqqwfuuh166",
+      "trailerYoutubeId": "dLiCCGTd51s?si=HVV0nlGngoLzgww6",
+      "tmdbId": null
+    },
+    {
+      "name": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+      "directedBy": "Chantal Akerman",
+      "releaseDate": "1976-01-21",
+      "posterImage": "95kei405ql55abozhcryqr2lsdvi",
+      "trailerYoutubeId": "iuP1MN6RNJU?si=5CI2-H76Xj81XtZw",
+      "tmdbId": null
+    },
+    {
+      "name": "Away + short",
+      "directedBy": "Gints Zilbalodis",
+      "releaseDate": "2019-11-15",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/5/2/4/9/1/5/524915-away-0-230-0-345-crop.jpg?v=878aa8daa3",
+      "trailerYoutubeId": "m38uXs6_VNQ?si=itd51J8RnEwwMSF2",
+      "tmdbId": "597398",
+      "rating": 3.41
+    },
+    {
+      "name": "Mickey 17",
+      "directedBy": "Bong Joon Ho",
+      "releaseDate": "2025-03-07",
+      "posterImage": "6rskdwwcd6aikf1js4cc35wemwlz",
+      "trailerYoutubeId": "6D3pcuJQkc4",
+      "tmdbId": null
+    },
+    {
+      "name": "Mickey 17",
+      "directedBy": "Bong Joon Ho",
+      "releaseDate": "2025-03-07",
+      "posterImage": "6rskdwwcd6aikf1js4cc35wemwlz",
+      "trailerYoutubeId": "6D3pcuJQkc4",
+      "tmdbId": null
+    },
+    {
+      "name": "Sister Midnight",
+      "directedBy": "Karan Kandhari",
+      "releaseDate": "2025-03-14",
+      "posterImage": "i3l7sb8nys2zracpizjtuzbypakl",
+      "trailerYoutubeId": "MpC4Y4r8ftM?si=z_tQRasd4p9qVnJE",
+      "tmdbId": null
+    },
+    {
+      "name": "The Last Showgirl",
+      "directedBy": "Gia Coppola",
+      "releaseDate": "2025-02-28",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/8/7/8/6/1118786-the-last-showgirl-0-230-0-345-crop.jpg?v=811b7fc7a2",
+      "trailerYoutubeId": "r4xpoKBKrpo",
+      "tmdbId": "1235499",
+      "rating": 3.31
+    }
+  ],
+  "2025-03-16": [
+    {
+      "name": "Mickey 17",
+      "directedBy": "Bong Joon Ho",
+      "releaseDate": "2025-03-07",
+      "posterImage": "6rskdwwcd6aikf1js4cc35wemwlz",
+      "trailerYoutubeId": "6D3pcuJQkc4",
+      "tmdbId": null
+    },
+    {
+      "name": "Away + short",
+      "directedBy": "Gints Zilbalodis",
+      "releaseDate": "2019-11-15",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/5/2/4/9/1/5/524915-away-0-230-0-345-crop.jpg?v=878aa8daa3",
+      "trailerYoutubeId": "m38uXs6_VNQ?si=itd51J8RnEwwMSF2",
+      "tmdbId": "597398",
+      "rating": 3.41
+    },
+    {
+      "name": "Sister Midnight",
+      "directedBy": "Karan Kandhari",
+      "releaseDate": "2025-03-14",
+      "posterImage": "i3l7sb8nys2zracpizjtuzbypakl",
+      "trailerYoutubeId": "MpC4Y4r8ftM?si=z_tQRasd4p9qVnJE",
+      "tmdbId": null
+    },
+    {
+      "name": "Mickey 17",
+      "directedBy": "Bong Joon Ho",
+      "releaseDate": "2025-03-07",
+      "posterImage": "6rskdwwcd6aikf1js4cc35wemwlz",
+      "trailerYoutubeId": "6D3pcuJQkc4",
+      "tmdbId": null
+    },
+    {
+      "name": "Ernest Cole: Lost and Found",
+      "directedBy": "Raoul Peck",
+      "releaseDate": "2024-11-22",
+      "posterImage": "qpj7hpe47z8t4t112wqqwfuuh166",
+      "trailerYoutubeId": "dLiCCGTd51s?si=HVV0nlGngoLzgww6",
+      "tmdbId": null
+    },
+    {
+      "name": "They Will Be Dust (Polvo serán)",
+      "directedBy": "Carlos Marques-Marcet",
+      "releaseDate": "2024-11-15",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/0/8/1/3/8/1108138-they-will-be-dust-0-230-0-345-crop.jpg?v=a47aeb9fe0",
+      "trailerYoutubeId": null,
+      "tmdbId": "1224666",
+      "rating": 3.61
+    },
+    {
+      "name": "Mickey 17",
+      "directedBy": "Bong Joon Ho",
+      "releaseDate": "2025-03-07",
+      "posterImage": "6rskdwwcd6aikf1js4cc35wemwlz",
+      "trailerYoutubeId": "6D3pcuJQkc4",
+      "tmdbId": null
+    },
+    {
+      "name": "The Last of England + introduction",
+      "directedBy": "Derek Jarman",
+      "releaseDate": "1987-08-23",
+      "posterImage": "od4q6cylsvcufxoxbvr98ps4dpu4",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "The Last Showgirl",
+      "directedBy": "Gia Coppola",
+      "releaseDate": "2025-02-28",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/8/7/8/6/1118786-the-last-showgirl-0-230-0-345-crop.jpg?v=811b7fc7a2",
+      "trailerYoutubeId": "r4xpoKBKrpo",
+      "tmdbId": "1235499",
+      "rating": 3.31
+    }
+  ],
+  "2025-03-17": [
+    {
+      "name": "Day of the Fight",
+      "directedBy": "Jack Huston",
+      "releaseDate": "2024-11-15",
+      "posterImage": "8u18cwog6w5m996dmw7sh855214j",
+      "trailerYoutubeId": "j9ZB6gYsils?si=yO-jTAdfra5un_e5",
+      "tmdbId": null
+    },
+    {
+      "name": "Ernest Cole: Lost and Found",
+      "directedBy": "Raoul Peck",
+      "releaseDate": "2024-11-22",
+      "posterImage": "qpj7hpe47z8t4t112wqqwfuuh166",
+      "trailerYoutubeId": "dLiCCGTd51s?si=HVV0nlGngoLzgww6",
+      "tmdbId": null
+    },
+    {
+      "name": "Mickey 17",
+      "directedBy": "Bong Joon Ho",
+      "releaseDate": "2025-03-07",
+      "posterImage": "6rskdwwcd6aikf1js4cc35wemwlz",
+      "trailerYoutubeId": "6D3pcuJQkc4",
+      "tmdbId": null
+    },
+    {
+      "name": "Sister Midnight",
+      "directedBy": "Karan Kandhari",
+      "releaseDate": "2025-03-14",
+      "posterImage": "i3l7sb8nys2zracpizjtuzbypakl",
+      "trailerYoutubeId": "MpC4Y4r8ftM?si=z_tQRasd4p9qVnJE",
+      "tmdbId": null
+    },
+    {
+      "name": "Mickey 17",
+      "directedBy": "Bong Joon Ho",
+      "releaseDate": "2025-03-07",
+      "posterImage": "6rskdwwcd6aikf1js4cc35wemwlz",
+      "trailerYoutubeId": "6D3pcuJQkc4",
+      "tmdbId": null
+    },
+    {
+      "name": "Away + short",
+      "directedBy": "Gints Zilbalodis",
+      "releaseDate": "2019-11-15",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/5/2/4/9/1/5/524915-away-0-230-0-345-crop.jpg?v=878aa8daa3",
+      "trailerYoutubeId": "m38uXs6_VNQ?si=itd51J8RnEwwMSF2",
+      "tmdbId": "597398",
+      "rating": 3.41
+    },
+    {
+      "name": "The Last Showgirl",
+      "directedBy": "Gia Coppola",
+      "releaseDate": "2025-02-28",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/8/7/8/6/1118786-the-last-showgirl-0-230-0-345-crop.jpg?v=811b7fc7a2",
+      "trailerYoutubeId": "r4xpoKBKrpo",
+      "tmdbId": "1235499",
+      "rating": 3.31
+    },
+    {
+      "name": "Mickey 17",
+      "directedBy": "Bong Joon Ho",
+      "releaseDate": "2025-03-07",
+      "posterImage": "6rskdwwcd6aikf1js4cc35wemwlz",
+      "trailerYoutubeId": "6D3pcuJQkc4",
+      "tmdbId": null
+    },
+    {
+      "name": "Sister Midnight",
+      "directedBy": "Karan Kandhari",
+      "releaseDate": "2025-03-14",
+      "posterImage": "i3l7sb8nys2zracpizjtuzbypakl",
+      "trailerYoutubeId": "MpC4Y4r8ftM?si=z_tQRasd4p9qVnJE",
       "tmdbId": null
     }
   ]
