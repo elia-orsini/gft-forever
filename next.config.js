@@ -21,5 +21,6 @@ module.exports = module.exports = {
         pathname: "/**",
       },
     ],
+    minimumCacheTTL: 2592000, // a month
   },
 };
