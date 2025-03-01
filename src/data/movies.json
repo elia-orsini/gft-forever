@@ -51680,14 +51680,6 @@
       "tmdbId": null
     },
     {
-      "name": "In Conversation with James McAvoy",
-      "directedBy": null,
-      "releaseDate": null,
-      "posterImage": "ictr1o2jaif2qk4q9lsyu3flcby0",
-      "trailerYoutubeId": null,
-      "tmdbId": null
-    },
-    {
       "name": "Queens",
       "directedBy": "Klaudia Reynicke",
       "releaseDate": "2025-03-01",
@@ -53586,6 +53578,59 @@
       "posterImage": "i3l7sb8nys2zracpizjtuzbypakl",
       "trailerYoutubeId": "MpC4Y4r8ftM?si=z_tQRasd4p9qVnJE",
       "tmdbId": null
+    }
+  ],
+  "2025-03-21": [
+    {
+      "name": "Mickey 17",
+      "directedBy": "Bong Joon Ho",
+      "releaseDate": "2025-03-07",
+      "posterImage": "6rskdwwcd6aikf1js4cc35wemwlz",
+      "trailerYoutubeId": "6D3pcuJQkc4",
+      "tmdbId": null
+    },
+    {
+      "name": "Oh My Goodness! (Juste ciel!)",
+      "directedBy": "Laurent Tirard",
+      "releaseDate": "2023-02-15",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/7/9/6/5/3/5/796535-oh-my-goodness-0-230-0-345-crop.jpg?v=7cde260150",
+      "trailerYoutubeId": "NJd1kjKz7so?si=vL_9n_WCx6fE-uQw",
+      "tmdbId": "885243",
+      "rating": 2.89
+    },
+    {
+      "name": "Flow",
+      "directedBy": "Gints Zilbalodis",
+      "releaseDate": "2025-03-21",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/7/3/9/4/5/1/739451-flow-2024-0-230-0-345-crop.jpg?v=32f49339d9",
+      "trailerYoutubeId": "xGLIbjuHptw",
+      "tmdbId": "823219",
+      "rating": 4.07
+    },
+    {
+      "name": "Mickey 17",
+      "directedBy": "Bong Joon Ho",
+      "releaseDate": "2025-03-07",
+      "posterImage": "6rskdwwcd6aikf1js4cc35wemwlz",
+      "trailerYoutubeId": "6D3pcuJQkc4",
+      "tmdbId": null
+    },
+    {
+      "name": "Mickey 17",
+      "directedBy": "Bong Joon Ho",
+      "releaseDate": "2025-03-07",
+      "posterImage": "6rskdwwcd6aikf1js4cc35wemwlz",
+      "trailerYoutubeId": "6D3pcuJQkc4",
+      "tmdbId": null
+    },
+    {
+      "name": "Flow",
+      "directedBy": "Gints Zilbalodis",
+      "releaseDate": "2025-03-21",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/7/3/9/4/5/1/739451-flow-2024-0-230-0-345-crop.jpg?v=32f49339d9",
+      "trailerYoutubeId": "xGLIbjuHptw",
+      "tmdbId": "823219",
+      "rating": 4.07
     }
   ]
 }
