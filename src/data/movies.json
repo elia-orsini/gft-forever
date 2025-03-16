@@ -53749,7 +53749,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/3/5/5/97355-just-another-girl-on-the-i-r-t--0-230-0-345-crop.jpg?v=14531742b2",
       "trailerYoutubeId": "GMoOcC0vlgg?si=tcT-_7S5whyEoFge",
       "tmdbId": "124088",
-      "rating": 3.57
+      "rating": 3.58
     },
     {
       "name": "Mickey 17",
@@ -53825,7 +53825,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/3/5/5/97355-just-another-girl-on-the-i-r-t--0-230-0-345-crop.jpg?v=14531742b2",
       "trailerYoutubeId": "GMoOcC0vlgg?si=tcT-_7S5whyEoFge",
       "tmdbId": "124088",
-      "rating": 3.57
+      "rating": 3.58
     },
     {
       "name": "Hundreds Of Beavers UK Tour 2025 + Q&A",
@@ -53908,7 +53908,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/3/5/5/97355-just-another-girl-on-the-i-r-t--0-230-0-345-crop.jpg?v=14531742b2",
       "trailerYoutubeId": "GMoOcC0vlgg?si=tcT-_7S5whyEoFge",
       "tmdbId": "124088",
-      "rating": 3.57
+      "rating": 3.58
     }
   ],
   "2025-03-24": [
@@ -54128,7 +54128,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/3/5/5/97355-just-another-girl-on-the-i-r-t--0-230-0-345-crop.jpg?v=14531742b2",
       "trailerYoutubeId": "GMoOcC0vlgg?si=tcT-_7S5whyEoFge",
       "tmdbId": "124088",
-      "rating": 3.57
+      "rating": 3.58
     },
     {
       "name": "Opus",
@@ -54169,7 +54169,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/0/9/7/8/6/8/1097868-glimmers-0-230-0-345-crop.jpg?v=310be8a617",
       "trailerYoutubeId": null,
       "tmdbId": "1214107",
-      "rating": 3.5
+      "rating": 3.51
     },
     {
       "name": "Flow",
@@ -54771,5 +54771,99 @@
       "trailerYoutubeId": null,
       "tmdbId": "1430105"
     }
-  ]
+  ],
+  "2025-04-03": [
+    {
+      "name": "Flow",
+      "directedBy": "Gints Zilbalodis",
+      "releaseDate": "2025-03-21",
+      "posterImage": "u0ab6mn5awm4nwi6wgz1erl44acm",
+      "trailerYoutubeId": "shsVQvHUTxw",
+      "tmdbId": null
+    },
+    {
+      "name": "Misericordia",
+      "directedBy": "Alain Guiraudie",
+      "releaseDate": "2024-10-16",
+      "posterImage": "ixul47o03ktifh7akajru432b22d",
+      "trailerYoutubeId": "-zX4YgzfV4o?si=bDFOewqqAlef9pOZ",
+      "tmdbId": null
+    },
+    {
+      "name": "Opus",
+      "directedBy": "Mark Anthony Green",
+      "releaseDate": "2025-03-13",
+      "posterImage": "h1v4q532umkhn60i9yrwlu3ezb4a",
+      "trailerYoutubeId": "dTdHw5Zy0os?si=eqakECZHPI3-PDco",
+      "tmdbId": null
+    },
+    {
+      "name": "Santosh",
+      "directedBy": "Sandhya Suri",
+      "releaseDate": "2024-07-17",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/6/8/1/4/1116814-santosh-2024-0-230-0-345-crop.jpg?v=145ff0260d",
+      "trailerYoutubeId": "C3H0nDYgScY?si=v5kBiThSXgq5QP1q",
+      "tmdbId": "1233208",
+      "rating": 3.52
+    },
+    {
+      "name": "War Paint – Women At War",
+      "directedBy": "Margy Kinmonth",
+      "releaseDate": "2025-03-28",
+      "posterImage": "hmwfmkgbiz1bdgzafxa8fpdxlcmi",
+      "trailerYoutubeId": null,
+      "tmdbId": "1430105"
+    },
+    {
+      "name": "Opus",
+      "directedBy": "Mark Anthony Green",
+      "releaseDate": "2025-03-13",
+      "posterImage": "h1v4q532umkhn60i9yrwlu3ezb4a",
+      "trailerYoutubeId": "dTdHw5Zy0os?si=eqakECZHPI3-PDco",
+      "tmdbId": null
+    },
+    {
+      "name": "Flow",
+      "directedBy": "Gints Zilbalodis",
+      "releaseDate": "2025-03-21",
+      "posterImage": "u0ab6mn5awm4nwi6wgz1erl44acm",
+      "trailerYoutubeId": "shsVQvHUTxw",
+      "tmdbId": null
+    },
+    {
+      "name": "Misericordia",
+      "directedBy": "Alain Guiraudie",
+      "releaseDate": "2024-10-16",
+      "posterImage": "ixul47o03ktifh7akajru432b22d",
+      "trailerYoutubeId": "-zX4YgzfV4o?si=bDFOewqqAlef9pOZ",
+      "tmdbId": null
+    },
+    {
+      "name": "The Brutalist",
+      "directedBy": "Brady Corbet",
+      "releaseDate": "2024-12-20",
+      "posterImage": "io850c52sdkbz1fgjkg5l9jzcc3h",
+      "trailerYoutubeId": "hNiwPU5vjCk?si=AofWg7geJRS2uhO_",
+      "tmdbId": null
+    },
+    {
+      "name": "The End",
+      "directedBy": "Joshua Oppenheimer",
+      "releaseDate": "2025-03-28",
+      "posterImage": "vmkjml146mvbsbnjltj49za1t55h",
+      "trailerYoutubeId": "YXFbQuR7Yyk",
+      "tmdbId": null
+    },
+    {
+      "name": "Santosh",
+      "directedBy": "Sandhya Suri",
+      "releaseDate": "2024-07-17",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/6/8/1/4/1116814-santosh-2024-0-230-0-345-crop.jpg?v=145ff0260d",
+      "trailerYoutubeId": "C3H0nDYgScY?si=v5kBiThSXgq5QP1q",
+      "tmdbId": "1233208",
+      "rating": 3.52
+    }
+  ],
+  "2025-04-04": [],
+  "2025-04-05": []
 }
