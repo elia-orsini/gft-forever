@@ -54259,7 +54259,7 @@
       "tmdbId": null
     },
     {
-      "name": "Youth Screening: Stand By Me",
+      "name": "Stand By Me",
       "directedBy": "Rob Reiner",
       "releaseDate": "1986-08-08",
       "posterImage": "ugng7oabic1suzcosbgq1ef6hc24",
@@ -55521,13 +55521,20 @@
       "tmdbId": null
     },
     {
+      "name": "Flow",
+      "directedBy": "Gints Zilbalodis",
+      "releaseDate": "2025-03-21",
+      "posterImage": "u0ab6mn5awm4nwi6wgz1erl44acm",
+      "trailerYoutubeId": "shsVQvHUTxw",
+      "tmdbId": null
+    },
+    {
       "name": "Last Swim",
       "directedBy": "Sasha Nathwani",
       "releaseDate": "2025-04-04",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/5/5/1/6/1115516-last-swim-0-230-0-345-crop.jpg?v=0f118f23b2",
+      "posterImage": "q3in7c3kdjppw0w38itwl5d1ltxj",
       "trailerYoutubeId": "fueVFsgXJ-s",
-      "tmdbId": "1232364",
-      "rating": 3.42
+      "tmdbId": null
     },
     {
       "name": "Four Mothers",
@@ -55573,10 +55580,9 @@
       "name": "Last Swim",
       "directedBy": "Sasha Nathwani",
       "releaseDate": "2025-04-04",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/5/5/1/6/1115516-last-swim-0-230-0-345-crop.jpg?v=0f118f23b2",
+      "posterImage": "q3in7c3kdjppw0w38itwl5d1ltxj",
       "trailerYoutubeId": "fueVFsgXJ-s",
-      "tmdbId": "1232364",
-      "rating": 3.42
+      "tmdbId": null
     }
   ],
   "2025-04-12": [
@@ -55586,6 +55592,14 @@
       "releaseDate": "2003-10-03",
       "posterImage": "mbfcewidv0f64oua1yaogs2rhdaj",
       "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Flow",
+      "directedBy": "Gints Zilbalodis",
+      "releaseDate": "2025-03-21",
+      "posterImage": "u0ab6mn5awm4nwi6wgz1erl44acm",
+      "trailerYoutubeId": "shsVQvHUTxw",
       "tmdbId": null
     },
     {
@@ -55632,19 +55646,17 @@
       "name": "Record Store Day: Empire Records - 30th Anniversary",
       "directedBy": "Allan Moyle",
       "releaseDate": "1995-09-22",
-      "posterImage": "https://a.ltrbxd.com/resized/sm/upload/td/nt/09/qr/e7ve7rwxBA9Y0mNEo1VcaW44htg-0-230-0-345-crop.jpg?v=25f75c1881",
+      "posterImage": "46arfkwrjq4jxoqgs39xe4f8v3lk",
       "trailerYoutubeId": "c2-LdSfXo14?si=HXUQrp0ThhJkB3-h",
-      "tmdbId": "13531",
-      "rating": 3.55
+      "tmdbId": null
     },
     {
       "name": "Last Swim",
       "directedBy": "Sasha Nathwani",
       "releaseDate": "2025-04-04",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/5/5/1/6/1115516-last-swim-0-230-0-345-crop.jpg?v=0f118f23b2",
+      "posterImage": "q3in7c3kdjppw0w38itwl5d1ltxj",
       "trailerYoutubeId": "fueVFsgXJ-s",
-      "tmdbId": "1232364",
-      "rating": 3.42
+      "tmdbId": null
     },
     {
       "name": "Record Store Day: Almost Famous - 25th Anniversary",
@@ -55672,6 +55684,14 @@
     }
   ],
   "2025-04-13": [
+    {
+      "name": "Flow",
+      "directedBy": "Gints Zilbalodis",
+      "releaseDate": "2025-03-21",
+      "posterImage": "u0ab6mn5awm4nwi6wgz1erl44acm",
+      "trailerYoutubeId": "shsVQvHUTxw",
+      "tmdbId": null
+    },
     {
       "name": "The Return",
       "directedBy": "Uberto Pasolini",
@@ -55724,10 +55744,9 @@
       "name": "Last Swim",
       "directedBy": "Sasha Nathwani",
       "releaseDate": "2025-04-04",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/5/5/1/6/1115516-last-swim-0-230-0-345-crop.jpg?v=0f118f23b2",
+      "posterImage": "q3in7c3kdjppw0w38itwl5d1ltxj",
       "trailerYoutubeId": "fueVFsgXJ-s",
-      "tmdbId": "1232364",
-      "rating": 3.42
+      "tmdbId": null
     },
     {
       "name": "One to One: John & Yoko",
@@ -55741,10 +55760,9 @@
       "name": "Blue + introduction",
       "directedBy": "Derek Jarman",
       "releaseDate": "1993-08-19",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/7/8/6/3/2/78632-blue-0-230-0-345-crop.jpg?v=9f30078ba4",
+      "posterImage": "g3md9quv8no12jzbpi7kgrunwfgr",
       "trailerYoutubeId": null,
-      "tmdbId": "94794",
-      "rating": 4.15
+      "tmdbId": null
     },
     {
       "name": "Holy Cow",
@@ -55776,10 +55794,9 @@
       "name": "Last Swim",
       "directedBy": "Sasha Nathwani",
       "releaseDate": "2025-04-04",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/5/5/1/6/1115516-last-swim-0-230-0-345-crop.jpg?v=0f118f23b2",
+      "posterImage": "q3in7c3kdjppw0w38itwl5d1ltxj",
       "trailerYoutubeId": "fueVFsgXJ-s",
-      "tmdbId": "1232364",
-      "rating": 3.42
+      "tmdbId": null
     },
     {
       "name": "Four Mothers",
@@ -55787,6 +55804,14 @@
       "releaseDate": "2025-03-03",
       "posterImage": "eyywposq5xl34atw5qzlsfbyubux",
       "trailerYoutubeId": "6i1wyJMY-aI",
+      "tmdbId": null
+    },
+    {
+      "name": "Flow",
+      "directedBy": "Gints Zilbalodis",
+      "releaseDate": "2025-03-21",
+      "posterImage": "u0ab6mn5awm4nwi6wgz1erl44acm",
+      "trailerYoutubeId": "shsVQvHUTxw",
       "tmdbId": null
     },
     {
@@ -55841,13 +55866,20 @@
       "name": "Last Swim",
       "directedBy": "Sasha Nathwani",
       "releaseDate": "2025-04-04",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/5/5/1/6/1115516-last-swim-0-230-0-345-crop.jpg?v=0f118f23b2",
+      "posterImage": "q3in7c3kdjppw0w38itwl5d1ltxj",
       "trailerYoutubeId": "fueVFsgXJ-s",
-      "tmdbId": "1232364",
-      "rating": 3.42
+      "tmdbId": null
     }
   ],
   "2025-04-15": [
+    {
+      "name": "Flow",
+      "directedBy": "Gints Zilbalodis",
+      "releaseDate": "2025-03-21",
+      "posterImage": "u0ab6mn5awm4nwi6wgz1erl44acm",
+      "trailerYoutubeId": "shsVQvHUTxw",
+      "tmdbId": null
+    },
     {
       "name": "Four Mothers",
       "directedBy": "Darren Thornton",
@@ -55860,10 +55892,9 @@
       "name": "Last Swim",
       "directedBy": "Sasha Nathwani",
       "releaseDate": "2025-04-04",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/5/5/1/6/1115516-last-swim-0-230-0-345-crop.jpg?v=0f118f23b2",
+      "posterImage": "q3in7c3kdjppw0w38itwl5d1ltxj",
       "trailerYoutubeId": "fueVFsgXJ-s",
-      "tmdbId": "1232364",
-      "rating": 3.42
+      "tmdbId": null
     },
     {
       "name": "The Return",
@@ -55909,10 +55940,9 @@
       "name": "Last Swim",
       "directedBy": "Sasha Nathwani",
       "releaseDate": "2025-04-04",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/5/5/1/6/1115516-last-swim-0-230-0-345-crop.jpg?v=0f118f23b2",
+      "posterImage": "q3in7c3kdjppw0w38itwl5d1ltxj",
       "trailerYoutubeId": "fueVFsgXJ-s",
-      "tmdbId": "1232364",
-      "rating": 3.42
+      "tmdbId": null
     },
     {
       "name": "The Return",
@@ -55976,10 +56006,9 @@
       "name": "Last Swim",
       "directedBy": "Sasha Nathwani",
       "releaseDate": "2025-04-04",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/5/5/1/6/1115516-last-swim-0-230-0-345-crop.jpg?v=0f118f23b2",
+      "posterImage": "q3in7c3kdjppw0w38itwl5d1ltxj",
       "trailerYoutubeId": "fueVFsgXJ-s",
-      "tmdbId": "1232364",
-      "rating": 3.42
+      "tmdbId": null
     },
     {
       "name": "Four Mothers",
@@ -56028,6 +56057,14 @@
       "posterImage": "o8ysb5kzxxq5jmwdqx622a4irpva",
       "trailerYoutubeId": "ZRrM_befeLI?si=jxNyMjGok4FUwVH1",
       "tmdbId": null
+    },
+    {
+      "name": "Flow",
+      "directedBy": "Gints Zilbalodis",
+      "releaseDate": "2025-03-21",
+      "posterImage": "u0ab6mn5awm4nwi6wgz1erl44acm",
+      "trailerYoutubeId": "shsVQvHUTxw",
+      "tmdbId": null
     }
   ],
   "2025-04-17": [
@@ -56045,6 +56082,14 @@
       "releaseDate": "2025-04-11",
       "posterImage": "o8ysb5kzxxq5jmwdqx622a4irpva",
       "trailerYoutubeId": "ZRrM_befeLI?si=jxNyMjGok4FUwVH1",
+      "tmdbId": null
+    },
+    {
+      "name": "Flow",
+      "directedBy": "Gints Zilbalodis",
+      "releaseDate": "2025-03-21",
+      "posterImage": "u0ab6mn5awm4nwi6wgz1erl44acm",
+      "trailerYoutubeId": "shsVQvHUTxw",
       "tmdbId": null
     },
     {
@@ -56067,10 +56112,9 @@
       "name": "Last Swim",
       "directedBy": "Sasha Nathwani",
       "releaseDate": "2025-04-04",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/1/5/5/1/6/1115516-last-swim-0-230-0-345-crop.jpg?v=0f118f23b2",
+      "posterImage": "q3in7c3kdjppw0w38itwl5d1ltxj",
       "trailerYoutubeId": "fueVFsgXJ-s",
-      "tmdbId": "1232364",
-      "rating": 3.42
+      "tmdbId": null
     },
     {
       "name": "The Return",
@@ -56134,10 +56178,9 @@
       "name": "The Penguin Lessons",
       "directedBy": "Peter Cattaneo",
       "releaseDate": "2025-04-18",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/9/6/6/1/979661-the-penguin-lessons-0-230-0-345-crop.jpg?v=7766461fff",
+      "posterImage": "mw98rbeopg9t4egt1vj79sstln0p",
       "trailerYoutubeId": "0A_C3MT3uyA",
-      "tmdbId": "1086497",
-      "rating": 3.42
+      "tmdbId": null
     },
     {
       "name": "No Other Land",
@@ -56151,37 +56194,33 @@
       "name": "Blue Road: The Edna O'Brien Story",
       "directedBy": "Sinéad O'Shea",
       "releaseDate": "2025-01-31",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/2/0/6/2/4/2/1206242-blue-road-the-edna-obrien-story-0-230-0-345-crop.jpg?v=0fcffa0245",
+      "posterImage": "c2g1e1644y5c5j70uyzvjwkqd4mv",
       "trailerYoutubeId": "bEErqpfb3HM",
-      "tmdbId": "1326892",
-      "rating": 3.71
+      "tmdbId": null
     },
     {
       "name": "The Most Precious Of Cargoes",
       "directedBy": "Michel Hazanavicius",
       "releaseDate": "2025-04-04",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/7/5/7/6/0/4/757604-the-most-precious-of-cargoes-0-230-0-345-crop.jpg?v=86dbd5679b",
+      "posterImage": "kicjh9di1j69hw8ywl3sw29w2aez",
       "trailerYoutubeId": "tz-CSLWHO8o",
-      "tmdbId": "842859",
-      "rating": 3.73
+      "tmdbId": null
     },
     {
       "name": "Blue Road: The Edna O'Brien Story",
       "directedBy": "Sinéad O'Shea",
       "releaseDate": "2025-01-31",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/2/0/6/2/4/2/1206242-blue-road-the-edna-obrien-story-0-230-0-345-crop.jpg?v=0fcffa0245",
+      "posterImage": "c2g1e1644y5c5j70uyzvjwkqd4mv",
       "trailerYoutubeId": "bEErqpfb3HM",
-      "tmdbId": "1326892",
-      "rating": 3.71
+      "tmdbId": null
     },
     {
       "name": "The Penguin Lessons",
       "directedBy": "Peter Cattaneo",
       "releaseDate": "2025-04-18",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/9/6/6/1/979661-the-penguin-lessons-0-230-0-345-crop.jpg?v=7766461fff",
+      "posterImage": "mw98rbeopg9t4egt1vj79sstln0p",
       "trailerYoutubeId": "0A_C3MT3uyA",
-      "tmdbId": "1086497",
-      "rating": 3.42
+      "tmdbId": null
     },
     {
       "name": "No Other Land",
@@ -56195,10 +56234,9 @@
       "name": "The Penguin Lessons",
       "directedBy": "Peter Cattaneo",
       "releaseDate": "2025-04-18",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/9/6/6/1/979661-the-penguin-lessons-0-230-0-345-crop.jpg?v=7766461fff",
+      "posterImage": "mw98rbeopg9t4egt1vj79sstln0p",
       "trailerYoutubeId": "0A_C3MT3uyA",
-      "tmdbId": "1086497",
-      "rating": 3.42
+      "tmdbId": null
     },
     {
       "name": "One to One: John & Yoko",
@@ -56212,10 +56250,9 @@
       "name": "The Most Precious Of Cargoes",
       "directedBy": "Michel Hazanavicius",
       "releaseDate": "2025-04-04",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/7/5/7/6/0/4/757604-the-most-precious-of-cargoes-0-230-0-345-crop.jpg?v=86dbd5679b",
+      "posterImage": "kicjh9di1j69hw8ywl3sw29w2aez",
       "trailerYoutubeId": "tz-CSLWHO8o",
-      "tmdbId": "842859",
-      "rating": 3.73
+      "tmdbId": null
     }
   ],
   "2025-04-19": [
@@ -56223,55 +56260,49 @@
       "name": "Take 2: E.T. The Extra-Terrestrial",
       "directedBy": "Steven Spielberg",
       "releaseDate": "2022-09-02",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/5/1/5/2/0/51520-e-t-the-extra-terrestrial-0-230-0-345-crop.jpg?v=abed7069ac",
+      "posterImage": "iirnilywzv8d8pgw0bito3yjt85h",
       "trailerYoutubeId": "DSx8Jobx-Gs",
-      "tmdbId": "601",
-      "rating": 3.84
+      "tmdbId": null
     },
     {
       "name": "The Most Precious Of Cargoes",
       "directedBy": "Michel Hazanavicius",
       "releaseDate": "2025-04-04",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/7/5/7/6/0/4/757604-the-most-precious-of-cargoes-0-230-0-345-crop.jpg?v=86dbd5679b",
+      "posterImage": "kicjh9di1j69hw8ywl3sw29w2aez",
       "trailerYoutubeId": "tz-CSLWHO8o",
-      "tmdbId": "842859",
-      "rating": 3.73
+      "tmdbId": null
     },
     {
       "name": "Blue Road: The Edna O'Brien Story",
       "directedBy": "Sinéad O'Shea",
       "releaseDate": "2025-01-31",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/2/0/6/2/4/2/1206242-blue-road-the-edna-obrien-story-0-230-0-345-crop.jpg?v=0fcffa0245",
+      "posterImage": "c2g1e1644y5c5j70uyzvjwkqd4mv",
       "trailerYoutubeId": "bEErqpfb3HM",
-      "tmdbId": "1326892",
-      "rating": 3.71
+      "tmdbId": null
     },
     {
       "name": "The Penguin Lessons",
       "directedBy": "Peter Cattaneo",
       "releaseDate": "2025-04-18",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/9/6/6/1/979661-the-penguin-lessons-0-230-0-345-crop.jpg?v=7766461fff",
+      "posterImage": "mw98rbeopg9t4egt1vj79sstln0p",
       "trailerYoutubeId": "0A_C3MT3uyA",
-      "tmdbId": "1086497",
-      "rating": 3.42
+      "tmdbId": null
     },
     {
       "name": "Wicked Sing-Along",
       "directedBy": "Jon M. Chu",
       "releaseDate": "2024-12-26",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/3/3/7/0/3/6/337036-wicked-2024-0-230-0-345-crop.jpg?v=c519c37ff7",
+      "posterImage": "801ur1yd8r54zhzaikt8yp0axa2o",
       "trailerYoutubeId": "5omDWGdDmJ8",
-      "tmdbId": "402431",
-      "rating": 3.87
+      "tmdbId": null
     },
     {
       "name": "The Most Precious Of Cargoes",
       "directedBy": "Michel Hazanavicius",
       "releaseDate": "2025-04-04",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/7/5/7/6/0/4/757604-the-most-precious-of-cargoes-0-230-0-345-crop.jpg?v=86dbd5679b",
+      "posterImage": "kicjh9di1j69hw8ywl3sw29w2aez",
       "trailerYoutubeId": "tz-CSLWHO8o",
-      "tmdbId": "842859",
-      "rating": 3.73
+      "tmdbId": null
     },
     {
       "name": "La Captive (The Captive)",
@@ -56285,10 +56316,9 @@
       "name": "Blue Road: The Edna O'Brien Story",
       "directedBy": "Sinéad O'Shea",
       "releaseDate": "2025-01-31",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/2/0/6/2/4/2/1206242-blue-road-the-edna-obrien-story-0-230-0-345-crop.jpg?v=0fcffa0245",
+      "posterImage": "c2g1e1644y5c5j70uyzvjwkqd4mv",
       "trailerYoutubeId": "bEErqpfb3HM",
-      "tmdbId": "1326892",
-      "rating": 3.71
+      "tmdbId": null
     },
     {
       "name": "DIG! XX",
@@ -56302,10 +56332,9 @@
       "name": "The Penguin Lessons",
       "directedBy": "Peter Cattaneo",
       "releaseDate": "2025-04-18",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/9/6/6/1/979661-the-penguin-lessons-0-230-0-345-crop.jpg?v=7766461fff",
+      "posterImage": "mw98rbeopg9t4egt1vj79sstln0p",
       "trailerYoutubeId": "0A_C3MT3uyA",
-      "tmdbId": "1086497",
-      "rating": 3.42
+      "tmdbId": null
     },
     {
       "name": "One to One: John & Yoko",
@@ -56329,19 +56358,17 @@
       "name": "The Penguin Lessons",
       "directedBy": "Peter Cattaneo",
       "releaseDate": "2025-04-18",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/9/6/6/1/979661-the-penguin-lessons-0-230-0-345-crop.jpg?v=7766461fff",
+      "posterImage": "mw98rbeopg9t4egt1vj79sstln0p",
       "trailerYoutubeId": "0A_C3MT3uyA",
-      "tmdbId": "1086497",
-      "rating": 3.42
+      "tmdbId": null
     },
     {
       "name": "Blue Road: The Edna O'Brien Story",
       "directedBy": "Sinéad O'Shea",
       "releaseDate": "2025-01-31",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/2/0/6/2/4/2/1206242-blue-road-the-edna-obrien-story-0-230-0-345-crop.jpg?v=0fcffa0245",
+      "posterImage": "c2g1e1644y5c5j70uyzvjwkqd4mv",
       "trailerYoutubeId": "bEErqpfb3HM",
-      "tmdbId": "1326892",
-      "rating": 3.71
+      "tmdbId": null
     },
     {
       "name": "One to One: John & Yoko",
@@ -56371,28 +56398,25 @@
       "name": "Blue Road: The Edna O'Brien Story",
       "directedBy": "Sinéad O'Shea",
       "releaseDate": "2025-01-31",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/2/0/6/2/4/2/1206242-blue-road-the-edna-obrien-story-0-230-0-345-crop.jpg?v=0fcffa0245",
+      "posterImage": "c2g1e1644y5c5j70uyzvjwkqd4mv",
       "trailerYoutubeId": "bEErqpfb3HM",
-      "tmdbId": "1326892",
-      "rating": 3.71
+      "tmdbId": null
     },
     {
       "name": "The Penguin Lessons",
       "directedBy": "Peter Cattaneo",
       "releaseDate": "2025-04-18",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/9/6/6/1/979661-the-penguin-lessons-0-230-0-345-crop.jpg?v=7766461fff",
+      "posterImage": "mw98rbeopg9t4egt1vj79sstln0p",
       "trailerYoutubeId": "0A_C3MT3uyA",
-      "tmdbId": "1086497",
-      "rating": 3.42
+      "tmdbId": null
     },
     {
       "name": "The Most Precious Of Cargoes",
       "directedBy": "Michel Hazanavicius",
       "releaseDate": "2025-04-04",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/7/5/7/6/0/4/757604-the-most-precious-of-cargoes-0-230-0-345-crop.jpg?v=86dbd5679b",
+      "posterImage": "kicjh9di1j69hw8ywl3sw29w2aez",
       "trailerYoutubeId": "tz-CSLWHO8o",
-      "tmdbId": "842859",
-      "rating": 3.73
+      "tmdbId": null
     }
   ],
   "2025-04-21": [
@@ -56408,19 +56432,17 @@
       "name": "Blue Road: The Edna O'Brien Story",
       "directedBy": "Sinéad O'Shea",
       "releaseDate": "2025-01-31",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/2/0/6/2/4/2/1206242-blue-road-the-edna-obrien-story-0-230-0-345-crop.jpg?v=0fcffa0245",
+      "posterImage": "c2g1e1644y5c5j70uyzvjwkqd4mv",
       "trailerYoutubeId": "bEErqpfb3HM",
-      "tmdbId": "1326892",
-      "rating": 3.71
+      "tmdbId": null
     },
     {
       "name": "The Penguin Lessons",
       "directedBy": "Peter Cattaneo",
       "releaseDate": "2025-04-18",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/9/6/6/1/979661-the-penguin-lessons-0-230-0-345-crop.jpg?v=7766461fff",
+      "posterImage": "mw98rbeopg9t4egt1vj79sstln0p",
       "trailerYoutubeId": "0A_C3MT3uyA",
-      "tmdbId": "1086497",
-      "rating": 3.42
+      "tmdbId": null
     },
     {
       "name": "Harvey - 75th Anniversary",
@@ -56431,13 +56453,20 @@
       "tmdbId": null
     },
     {
+      "name": "Stand By Me",
+      "directedBy": "Rob Reiner",
+      "releaseDate": "1986-08-08",
+      "posterImage": "ugng7oabic1suzcosbgq1ef6hc24",
+      "trailerYoutubeId": "jaiZ6ZQoO-Y",
+      "tmdbId": null
+    },
+    {
       "name": "The Penguin Lessons",
       "directedBy": "Peter Cattaneo",
       "releaseDate": "2025-04-18",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/9/6/6/1/979661-the-penguin-lessons-0-230-0-345-crop.jpg?v=7766461fff",
+      "posterImage": "mw98rbeopg9t4egt1vj79sstln0p",
       "trailerYoutubeId": "0A_C3MT3uyA",
-      "tmdbId": "1086497",
-      "rating": 3.42
+      "tmdbId": null
     },
     {
       "name": "One to One: John & Yoko",
@@ -56451,19 +56480,17 @@
       "name": "The Most Precious Of Cargoes",
       "directedBy": "Michel Hazanavicius",
       "releaseDate": "2025-04-04",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/7/5/7/6/0/4/757604-the-most-precious-of-cargoes-0-230-0-345-crop.jpg?v=86dbd5679b",
+      "posterImage": "kicjh9di1j69hw8ywl3sw29w2aez",
       "trailerYoutubeId": "tz-CSLWHO8o",
-      "tmdbId": "842859",
-      "rating": 3.73
+      "tmdbId": null
     },
     {
       "name": "Blue Road: The Edna O'Brien Story",
       "directedBy": "Sinéad O'Shea",
       "releaseDate": "2025-01-31",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/2/0/6/2/4/2/1206242-blue-road-the-edna-obrien-story-0-230-0-345-crop.jpg?v=0fcffa0245",
+      "posterImage": "c2g1e1644y5c5j70uyzvjwkqd4mv",
       "trailerYoutubeId": "bEErqpfb3HM",
-      "tmdbId": "1326892",
-      "rating": 3.71
+      "tmdbId": null
     },
     {
       "name": "Inside Llewyn Davis + introduction",
@@ -56477,19 +56504,17 @@
       "name": "The Penguin Lessons",
       "directedBy": "Peter Cattaneo",
       "releaseDate": "2025-04-18",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/9/6/6/1/979661-the-penguin-lessons-0-230-0-345-crop.jpg?v=7766461fff",
+      "posterImage": "mw98rbeopg9t4egt1vj79sstln0p",
       "trailerYoutubeId": "0A_C3MT3uyA",
-      "tmdbId": "1086497",
-      "rating": 3.42
+      "tmdbId": null
     },
     {
       "name": "The Most Precious Of Cargoes",
       "directedBy": "Michel Hazanavicius",
       "releaseDate": "2025-04-04",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/7/5/7/6/0/4/757604-the-most-precious-of-cargoes-0-230-0-345-crop.jpg?v=86dbd5679b",
+      "posterImage": "kicjh9di1j69hw8ywl3sw29w2aez",
       "trailerYoutubeId": "tz-CSLWHO8o",
-      "tmdbId": "842859",
-      "rating": 3.73
+      "tmdbId": null
     }
   ],
   "2025-04-22": [
@@ -56505,19 +56530,17 @@
       "name": "The Most Precious Of Cargoes",
       "directedBy": "Michel Hazanavicius",
       "releaseDate": "2025-04-04",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/7/5/7/6/0/4/757604-the-most-precious-of-cargoes-0-230-0-345-crop.jpg?v=86dbd5679b",
+      "posterImage": "kicjh9di1j69hw8ywl3sw29w2aez",
       "trailerYoutubeId": "tz-CSLWHO8o",
-      "tmdbId": "842859",
-      "rating": 3.73
+      "tmdbId": null
     },
     {
       "name": "The Penguin Lessons",
       "directedBy": "Peter Cattaneo",
       "releaseDate": "2025-04-18",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/9/6/6/1/979661-the-penguin-lessons-0-230-0-345-crop.jpg?v=7766461fff",
+      "posterImage": "mw98rbeopg9t4egt1vj79sstln0p",
       "trailerYoutubeId": "0A_C3MT3uyA",
-      "tmdbId": "1086497",
-      "rating": 3.42
+      "tmdbId": null
     },
     {
       "name": "One to One: John & Yoko",
@@ -56531,19 +56554,17 @@
       "name": "Blue Road: The Edna O'Brien Story",
       "directedBy": "Sinéad O'Shea",
       "releaseDate": "2025-01-31",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/2/0/6/2/4/2/1206242-blue-road-the-edna-obrien-story-0-230-0-345-crop.jpg?v=0fcffa0245",
+      "posterImage": "c2g1e1644y5c5j70uyzvjwkqd4mv",
       "trailerYoutubeId": "bEErqpfb3HM",
-      "tmdbId": "1326892",
-      "rating": 3.71
+      "tmdbId": null
     },
     {
       "name": "The Penguin Lessons",
       "directedBy": "Peter Cattaneo",
       "releaseDate": "2025-04-18",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/9/6/6/1/979661-the-penguin-lessons-0-230-0-345-crop.jpg?v=7766461fff",
+      "posterImage": "mw98rbeopg9t4egt1vj79sstln0p",
       "trailerYoutubeId": "0A_C3MT3uyA",
-      "tmdbId": "1086497",
-      "rating": 3.42
+      "tmdbId": null
     },
     {
       "name": "I'm Still Here",
@@ -56559,7 +56580,7 @@
       "releaseDate": "2025-04-22",
       "posterImage": "r92h9wrjm0j2yo01x5t2pxqen5ue",
       "trailerYoutubeId": "rB2nS5tShOY",
-      "tmdbId": "1330306"
+      "tmdbId": null
     },
     {
       "name": "One to One: John & Yoko",
@@ -56573,19 +56594,17 @@
       "name": "Blue Road: The Edna O'Brien Story",
       "directedBy": "Sinéad O'Shea",
       "releaseDate": "2025-01-31",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/2/0/6/2/4/2/1206242-blue-road-the-edna-obrien-story-0-230-0-345-crop.jpg?v=0fcffa0245",
+      "posterImage": "c2g1e1644y5c5j70uyzvjwkqd4mv",
       "trailerYoutubeId": "bEErqpfb3HM",
-      "tmdbId": "1326892",
-      "rating": 3.71
+      "tmdbId": null
     },
     {
       "name": "The Most Precious Of Cargoes",
       "directedBy": "Michel Hazanavicius",
       "releaseDate": "2025-04-04",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/7/5/7/6/0/4/757604-the-most-precious-of-cargoes-0-230-0-345-crop.jpg?v=86dbd5679b",
+      "posterImage": "kicjh9di1j69hw8ywl3sw29w2aez",
       "trailerYoutubeId": "tz-CSLWHO8o",
-      "tmdbId": "842859",
-      "rating": 3.73
+      "tmdbId": null
     }
   ],
   "2025-04-23": [
@@ -56601,10 +56620,9 @@
       "name": "The Most Precious Of Cargoes",
       "directedBy": "Michel Hazanavicius",
       "releaseDate": "2025-04-04",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/7/5/7/6/0/4/757604-the-most-precious-of-cargoes-0-230-0-345-crop.jpg?v=86dbd5679b",
+      "posterImage": "kicjh9di1j69hw8ywl3sw29w2aez",
       "trailerYoutubeId": "tz-CSLWHO8o",
-      "tmdbId": "842859",
-      "rating": 3.73
+      "tmdbId": null
     },
     {
       "name": "Babette's Feast",
@@ -56618,19 +56636,17 @@
       "name": "The Penguin Lessons",
       "directedBy": "Peter Cattaneo",
       "releaseDate": "2025-04-18",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/9/6/6/1/979661-the-penguin-lessons-0-230-0-345-crop.jpg?v=7766461fff",
+      "posterImage": "mw98rbeopg9t4egt1vj79sstln0p",
       "trailerYoutubeId": "0A_C3MT3uyA",
-      "tmdbId": "1086497",
-      "rating": 3.42
+      "tmdbId": null
     },
     {
       "name": "Blue Road: The Edna O'Brien Story",
       "directedBy": "Sinéad O'Shea",
       "releaseDate": "2025-01-31",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/2/0/6/2/4/2/1206242-blue-road-the-edna-obrien-story-0-230-0-345-crop.jpg?v=0fcffa0245",
+      "posterImage": "c2g1e1644y5c5j70uyzvjwkqd4mv",
       "trailerYoutubeId": "bEErqpfb3HM",
-      "tmdbId": "1326892",
-      "rating": 3.71
+      "tmdbId": null
     },
     {
       "name": "One to One: John & Yoko",
@@ -56644,10 +56660,9 @@
       "name": "The Penguin Lessons",
       "directedBy": "Peter Cattaneo",
       "releaseDate": "2025-04-18",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/9/6/6/1/979661-the-penguin-lessons-0-230-0-345-crop.jpg?v=7766461fff",
+      "posterImage": "mw98rbeopg9t4egt1vj79sstln0p",
       "trailerYoutubeId": "0A_C3MT3uyA",
-      "tmdbId": "1086497",
-      "rating": 3.42
+      "tmdbId": null
     },
     {
       "name": "No Other Land",
@@ -56661,10 +56676,9 @@
       "name": "The Penguin Lessons",
       "directedBy": "Peter Cattaneo",
       "releaseDate": "2025-04-18",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/9/6/6/1/979661-the-penguin-lessons-0-230-0-345-crop.jpg?v=7766461fff",
+      "posterImage": "mw98rbeopg9t4egt1vj79sstln0p",
       "trailerYoutubeId": "0A_C3MT3uyA",
-      "tmdbId": "1086497",
-      "rating": 3.42
+      "tmdbId": null
     },
     {
       "name": "La Captive (The Captive)",
@@ -56678,10 +56692,9 @@
       "name": "Blue Road: The Edna O'Brien Story",
       "directedBy": "Sinéad O'Shea",
       "releaseDate": "2025-01-31",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/2/0/6/2/4/2/1206242-blue-road-the-edna-obrien-story-0-230-0-345-crop.jpg?v=0fcffa0245",
+      "posterImage": "c2g1e1644y5c5j70uyzvjwkqd4mv",
       "trailerYoutubeId": "bEErqpfb3HM",
-      "tmdbId": "1326892",
-      "rating": 3.71
+      "tmdbId": null
     }
   ],
   "2025-04-24": [
@@ -56689,10 +56702,9 @@
       "name": "The Penguin Lessons",
       "directedBy": "Peter Cattaneo",
       "releaseDate": "2025-04-18",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/9/6/6/1/979661-the-penguin-lessons-0-230-0-345-crop.jpg?v=7766461fff",
+      "posterImage": "mw98rbeopg9t4egt1vj79sstln0p",
       "trailerYoutubeId": "0A_C3MT3uyA",
-      "tmdbId": "1086497",
-      "rating": 3.42
+      "tmdbId": null
     },
     {
       "name": "Harvey - 75th Anniversary",
@@ -56706,10 +56718,9 @@
       "name": "Blue Road: The Edna O'Brien Story",
       "directedBy": "Sinéad O'Shea",
       "releaseDate": "2025-01-31",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/2/0/6/2/4/2/1206242-blue-road-the-edna-obrien-story-0-230-0-345-crop.jpg?v=0fcffa0245",
+      "posterImage": "c2g1e1644y5c5j70uyzvjwkqd4mv",
       "trailerYoutubeId": "bEErqpfb3HM",
-      "tmdbId": "1326892",
-      "rating": 3.71
+      "tmdbId": null
     },
     {
       "name": "One to One: John & Yoko",
@@ -56723,19 +56734,17 @@
       "name": "The Most Precious Of Cargoes",
       "directedBy": "Michel Hazanavicius",
       "releaseDate": "2025-04-04",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/7/5/7/6/0/4/757604-the-most-precious-of-cargoes-0-230-0-345-crop.jpg?v=86dbd5679b",
+      "posterImage": "kicjh9di1j69hw8ywl3sw29w2aez",
       "trailerYoutubeId": "tz-CSLWHO8o",
-      "tmdbId": "842859",
-      "rating": 3.73
+      "tmdbId": null
     },
     {
       "name": "Blue Road: The Edna O'Brien Story",
       "directedBy": "Sinéad O'Shea",
       "releaseDate": "2025-01-31",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/2/0/6/2/4/2/1206242-blue-road-the-edna-obrien-story-0-230-0-345-crop.jpg?v=0fcffa0245",
+      "posterImage": "c2g1e1644y5c5j70uyzvjwkqd4mv",
       "trailerYoutubeId": "bEErqpfb3HM",
-      "tmdbId": "1326892",
-      "rating": 3.71
+      "tmdbId": null
     },
     {
       "name": "Babette's Feast",
@@ -56749,19 +56758,25 @@
       "name": "The Penguin Lessons",
       "directedBy": "Peter Cattaneo",
       "releaseDate": "2025-04-18",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/9/6/6/1/979661-the-penguin-lessons-0-230-0-345-crop.jpg?v=7766461fff",
+      "posterImage": "mw98rbeopg9t4egt1vj79sstln0p",
       "trailerYoutubeId": "0A_C3MT3uyA",
-      "tmdbId": "1086497",
-      "rating": 3.42
+      "tmdbId": null
+    },
+    {
+      "name": "Stand By Me",
+      "directedBy": "Rob Reiner",
+      "releaseDate": "1986-08-08",
+      "posterImage": "ugng7oabic1suzcosbgq1ef6hc24",
+      "trailerYoutubeId": "jaiZ6ZQoO-Y",
+      "tmdbId": null
     },
     {
       "name": "The Penguin Lessons",
       "directedBy": "Peter Cattaneo",
       "releaseDate": "2025-04-18",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/9/7/9/6/6/1/979661-the-penguin-lessons-0-230-0-345-crop.jpg?v=7766461fff",
+      "posterImage": "mw98rbeopg9t4egt1vj79sstln0p",
       "trailerYoutubeId": "0A_C3MT3uyA",
-      "tmdbId": "1086497",
-      "rating": 3.42
+      "tmdbId": null
     },
     {
       "name": "One to One: John & Yoko",
@@ -56775,10 +56790,9 @@
       "name": "The Most Precious Of Cargoes",
       "directedBy": "Michel Hazanavicius",
       "releaseDate": "2025-04-04",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/7/5/7/6/0/4/757604-the-most-precious-of-cargoes-0-230-0-345-crop.jpg?v=86dbd5679b",
+      "posterImage": "kicjh9di1j69hw8ywl3sw29w2aez",
       "trailerYoutubeId": "tz-CSLWHO8o",
-      "tmdbId": "842859",
-      "rating": 3.73
+      "tmdbId": null
     }
   ],
   "2025-04-25": [
@@ -56786,10 +56800,10 @@
       "name": "Mr. Burton",
       "directedBy": "Marc Evans",
       "releaseDate": "2025-04-04",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/2/5/6/6/5/1125665-mr-burton-0-230-0-345-crop.jpg?v=ac95b65117",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/2/5/6/6/5/1125665-mr-burton-0-230-0-345-crop.jpg?v=631bef4ee2",
       "trailerYoutubeId": "h6Trx84-gy4?si=-d9fo5Qq0eWQNIjy",
       "tmdbId": "1242454",
-      "rating": 3.47
+      "rating": 3.46
     },
     {
       "name": "His Girl Friday",
@@ -56812,10 +56826,10 @@
       "name": "Mr. Burton",
       "directedBy": "Marc Evans",
       "releaseDate": "2025-04-04",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/2/5/6/6/5/1125665-mr-burton-0-230-0-345-crop.jpg?v=ac95b65117",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/2/5/6/6/5/1125665-mr-burton-0-230-0-345-crop.jpg?v=631bef4ee2",
       "trailerYoutubeId": "h6Trx84-gy4?si=-d9fo5Qq0eWQNIjy",
       "tmdbId": "1242454",
-      "rating": 3.47
+      "rating": 3.46
     },
     {
       "name": "Sinners",
@@ -56829,10 +56843,9 @@
       "name": "An Unfinished Film",
       "directedBy": "Lou Ye",
       "releaseDate": "2024-10-23",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/7/9/0/1/6/7/790167-an-unfinished-film-2024-0-230-0-345-crop.jpg?v=f84f3b217d",
+      "posterImage": "efpq9whf8anvzqpyr44vrc0221w6",
       "trailerYoutubeId": "roPBAFFyPz4?si=cJhdROIXGGvlgujI",
-      "tmdbId": "878607",
-      "rating": 3.53
+      "tmdbId": null
     },
     {
       "name": "Sinners",
@@ -56857,7 +56870,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/sm/upload/8d/0l/3t/e7/freaky-0-230-0-345-crop.jpg?v=e887f2fd6b",
       "trailerYoutubeId": "bbTs2jxuusk?si=sRlDUFXF2hhQAMFN",
       "tmdbId": "979660",
-      "rating": 3.68
+      "rating": 3.71
     }
   ],
   "2025-04-26": [
@@ -56881,10 +56894,10 @@
       "name": "Mr. Burton",
       "directedBy": "Marc Evans",
       "releaseDate": "2025-04-04",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/2/5/6/6/5/1125665-mr-burton-0-230-0-345-crop.jpg?v=ac95b65117",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/2/5/6/6/5/1125665-mr-burton-0-230-0-345-crop.jpg?v=631bef4ee2",
       "trailerYoutubeId": "h6Trx84-gy4?si=-d9fo5Qq0eWQNIjy",
       "tmdbId": "1242454",
-      "rating": 3.47
+      "rating": 3.46
     },
     {
       "name": "Freaky Tales",
@@ -56893,7 +56906,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/sm/upload/8d/0l/3t/e7/freaky-0-230-0-345-crop.jpg?v=e887f2fd6b",
       "trailerYoutubeId": "bbTs2jxuusk?si=sRlDUFXF2hhQAMFN",
       "tmdbId": "979660",
-      "rating": 3.68
+      "rating": 3.71
     },
     {
       "name": "No Home Movie",
@@ -56950,10 +56963,9 @@
       "name": "An Unfinished Film",
       "directedBy": "Lou Ye",
       "releaseDate": "2024-10-23",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/7/9/0/1/6/7/790167-an-unfinished-film-2024-0-230-0-345-crop.jpg?v=f84f3b217d",
+      "posterImage": "efpq9whf8anvzqpyr44vrc0221w6",
       "trailerYoutubeId": "roPBAFFyPz4?si=cJhdROIXGGvlgujI",
-      "tmdbId": "878607",
-      "rating": 3.53
+      "tmdbId": null
     },
     {
       "name": "Sinners",
@@ -56967,10 +56979,10 @@
       "name": "Mr. Burton",
       "directedBy": "Marc Evans",
       "releaseDate": "2025-04-04",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/2/5/6/6/5/1125665-mr-burton-0-230-0-345-crop.jpg?v=ac95b65117",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/2/5/6/6/5/1125665-mr-burton-0-230-0-345-crop.jpg?v=631bef4ee2",
       "trailerYoutubeId": "h6Trx84-gy4?si=-d9fo5Qq0eWQNIjy",
       "tmdbId": "1242454",
-      "rating": 3.47
+      "rating": 3.46
     },
     {
       "name": "Freaky Tales",
@@ -56979,7 +56991,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/sm/upload/8d/0l/3t/e7/freaky-0-230-0-345-crop.jpg?v=e887f2fd6b",
       "trailerYoutubeId": "bbTs2jxuusk?si=sRlDUFXF2hhQAMFN",
       "tmdbId": "979660",
-      "rating": 3.68
+      "rating": 3.71
     },
     {
       "name": "In the Shadow of the Sun + Imagining October",
@@ -57011,6 +57023,195 @@
       "releaseDate": "1986-08-29",
       "posterImage": "e1nqjrx1oxujxbdxchz29fh26sne",
       "trailerYoutubeId": null,
+      "tmdbId": null
+    }
+  ],
+  "2025-04-28": [
+    {
+      "name": "Mr. Burton",
+      "directedBy": "Marc Evans",
+      "releaseDate": "2025-04-04",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/2/5/6/6/5/1125665-mr-burton-0-230-0-345-crop.jpg?v=631bef4ee2",
+      "trailerYoutubeId": "h6Trx84-gy4?si=-d9fo5Qq0eWQNIjy",
+      "tmdbId": "1242454",
+      "rating": 3.46
+    },
+    {
+      "name": "Julie Keeps Quiet",
+      "directedBy": "Leonardo Van Dijl",
+      "releaseDate": "2024-10-16",
+      "posterImage": "vr9hc3klaql79yhi9ij0hdgmud73",
+      "trailerYoutubeId": "rMWdEpkxG9M?si=sx-jjGHwWbTBiIEc",
+      "tmdbId": null
+    },
+    {
+      "name": "Sinners",
+      "directedBy": "Ryan Coogler",
+      "releaseDate": "2025-04-18",
+      "posterImage": "b2rhps7z6ki51j39nb0ufkxh1y2u",
+      "trailerYoutubeId": "4oqCwr_bzHI",
+      "tmdbId": null
+    },
+    {
+      "name": "An Unfinished Film",
+      "directedBy": "Lou Ye",
+      "releaseDate": "2024-10-23",
+      "posterImage": "efpq9whf8anvzqpyr44vrc0221w6",
+      "trailerYoutubeId": "roPBAFFyPz4?si=cJhdROIXGGvlgujI",
+      "tmdbId": null
+    },
+    {
+      "name": "Where Dragons Live + Q&A",
+      "directedBy": "Suzanne Raes",
+      "releaseDate": "2024-11-28",
+      "posterImage": "g5i7xk7ztcwh2kpy2d86061tu1nb",
+      "trailerYoutubeId": "_IZTadENWr8?",
+      "tmdbId": null
+    },
+    {
+      "name": "Sinners",
+      "directedBy": "Ryan Coogler",
+      "releaseDate": "2025-04-18",
+      "posterImage": "b2rhps7z6ki51j39nb0ufkxh1y2u",
+      "trailerYoutubeId": "4oqCwr_bzHI",
+      "tmdbId": null
+    },
+    {
+      "name": "Mr. Burton",
+      "directedBy": "Marc Evans",
+      "releaseDate": "2025-04-04",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/2/5/6/6/5/1125665-mr-burton-0-230-0-345-crop.jpg?v=631bef4ee2",
+      "trailerYoutubeId": "h6Trx84-gy4?si=-d9fo5Qq0eWQNIjy",
+      "tmdbId": "1242454",
+      "rating": 3.46
+    }
+  ],
+  "2025-04-29": [
+    {
+      "name": "Julie Keeps Quiet",
+      "directedBy": "Leonardo Van Dijl",
+      "releaseDate": "2024-10-16",
+      "posterImage": "vr9hc3klaql79yhi9ij0hdgmud73",
+      "trailerYoutubeId": "rMWdEpkxG9M?si=sx-jjGHwWbTBiIEc",
+      "tmdbId": null
+    },
+    {
+      "name": "Mr. Burton",
+      "directedBy": "Marc Evans",
+      "releaseDate": "2025-04-04",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/2/5/6/6/5/1125665-mr-burton-0-230-0-345-crop.jpg?v=631bef4ee2",
+      "trailerYoutubeId": "h6Trx84-gy4?si=-d9fo5Qq0eWQNIjy",
+      "tmdbId": "1242454",
+      "rating": 3.46
+    },
+    {
+      "name": "His Girl Friday",
+      "directedBy": "Howard Hawks",
+      "releaseDate": "1940-01-18",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/4/9/8/8/6/49886-his-girl-friday-0-230-0-345-crop.jpg?v=a31152c98c",
+      "trailerYoutubeId": null,
+      "tmdbId": "3085",
+      "rating": 4.04
+    },
+    {
+      "name": "Sinners",
+      "directedBy": "Ryan Coogler",
+      "releaseDate": "2025-04-18",
+      "posterImage": "b2rhps7z6ki51j39nb0ufkxh1y2u",
+      "trailerYoutubeId": "4oqCwr_bzHI",
+      "tmdbId": null
+    },
+    {
+      "name": "Youth Screening: Millennium Actress",
+      "directedBy": "Satoshi Kon",
+      "releaseDate": "2002-09-14",
+      "posterImage": "bxtpvwfvfpg8p2fz7oidpw7sqmqe",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Julie Keeps Quiet",
+      "directedBy": "Leonardo Van Dijl",
+      "releaseDate": "2024-10-16",
+      "posterImage": "vr9hc3klaql79yhi9ij0hdgmud73",
+      "trailerYoutubeId": "rMWdEpkxG9M?si=sx-jjGHwWbTBiIEc",
+      "tmdbId": null
+    },
+    {
+      "name": "Sinners",
+      "directedBy": "Ryan Coogler",
+      "releaseDate": "2025-04-18",
+      "posterImage": "b2rhps7z6ki51j39nb0ufkxh1y2u",
+      "trailerYoutubeId": "4oqCwr_bzHI",
+      "tmdbId": null
+    }
+  ],
+  "2025-04-30": [
+    {
+      "name": "Mr. Burton",
+      "directedBy": "Marc Evans",
+      "releaseDate": "2025-04-04",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/2/5/6/6/5/1125665-mr-burton-0-230-0-345-crop.jpg?v=631bef4ee2",
+      "trailerYoutubeId": "h6Trx84-gy4?si=-d9fo5Qq0eWQNIjy",
+      "tmdbId": "1242454",
+      "rating": 3.46
+    },
+    {
+      "name": "His Girl Friday",
+      "directedBy": "Howard Hawks",
+      "releaseDate": "1940-01-18",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/4/9/8/8/6/49886-his-girl-friday-0-230-0-345-crop.jpg?v=a31152c98c",
+      "trailerYoutubeId": null,
+      "tmdbId": "3085",
+      "rating": 4.04
+    },
+    {
+      "name": "Julie Keeps Quiet",
+      "directedBy": "Leonardo Van Dijl",
+      "releaseDate": "2024-10-16",
+      "posterImage": "vr9hc3klaql79yhi9ij0hdgmud73",
+      "trailerYoutubeId": "rMWdEpkxG9M?si=sx-jjGHwWbTBiIEc",
+      "tmdbId": null
+    },
+    {
+      "name": "Sinners",
+      "directedBy": "Ryan Coogler",
+      "releaseDate": "2025-04-18",
+      "posterImage": "b2rhps7z6ki51j39nb0ufkxh1y2u",
+      "trailerYoutubeId": "4oqCwr_bzHI",
+      "tmdbId": null
+    },
+    {
+      "name": "Mr. Burton",
+      "directedBy": "Marc Evans",
+      "releaseDate": "2025-04-04",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/1/2/5/6/6/5/1125665-mr-burton-0-230-0-345-crop.jpg?v=631bef4ee2",
+      "trailerYoutubeId": "h6Trx84-gy4?si=-d9fo5Qq0eWQNIjy",
+      "tmdbId": "1242454",
+      "rating": 3.46
+    },
+    {
+      "name": "Sinners",
+      "directedBy": "Ryan Coogler",
+      "releaseDate": "2025-04-18",
+      "posterImage": "b2rhps7z6ki51j39nb0ufkxh1y2u",
+      "trailerYoutubeId": "4oqCwr_bzHI",
+      "tmdbId": null
+    },
+    {
+      "name": "No Home Movie",
+      "directedBy": "Chantal Akerman",
+      "releaseDate": "2016-02-24",
+      "posterImage": "k9ke7whexqps7h8f0te9dbp39p6n",
+      "trailerYoutubeId": null,
+      "tmdbId": null
+    },
+    {
+      "name": "Julie Keeps Quiet",
+      "directedBy": "Leonardo Van Dijl",
+      "releaseDate": "2024-10-16",
+      "posterImage": "vr9hc3klaql79yhi9ij0hdgmud73",
+      "trailerYoutubeId": "rMWdEpkxG9M?si=sx-jjGHwWbTBiIEc",
       "tmdbId": null
     }
   ]
