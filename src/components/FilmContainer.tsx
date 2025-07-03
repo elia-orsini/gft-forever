@@ -21,7 +21,7 @@ const FilmContainer: React.FC<{
             img={
               film.posterImage.includes("http")
                 ? film.posterImage
-                : `https://indy-systems.imgix.net/${film.posterImage}`
+                : `https://indy-systems.imgix.net/${film.posterImage}?format=webp`
             }
           />
         );
