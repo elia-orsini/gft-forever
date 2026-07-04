@@ -1,28 +1,51 @@
 import { Dayjs } from "dayjs";
 import { PickersDay, PickersDayProps } from "@mui/x-date-pickers/PickersDay";
-import Badge from "@mui/material/Badge";
 
-import moviesData from "../../data/movies.json";
+import { useDatesWithFilms } from "./DatesWithFilmsContext";
 
 function DayLogo(props: PickersDayProps<Dayjs>) {
-  const { day, outsideCurrentMonth, ...other } = props;
+  const { day, outsideCurrentMonth, selected, sx, className, ...other } = props;
+  const datesWithFilms = useDatesWithFilms();
 
-  const films = moviesData[props.day.format("YYYY-MM-DD")];
-  const hasFilms = films && films.length > 0;
-  const isSelected = !props.outsideCurrentMonth && hasFilms;
+  const hasFilms = datesWithFilms.has(day.format("YYYY-MM-DD"));
+  const isFilmDay = hasFilms && !outsideCurrentMonth;
 
   return (
-    <Badge
-      key={props.day.toString()}
-      overlap="circular"
-      badgeContent={isSelected ? "📽️" : undefined}
-    >
-      <PickersDay
-        {...other}
-        outsideCurrentMonth={outsideCurrentMonth}
-        day={day}
-      />
-    </Badge>
+    <PickersDay
+      {...other}
+      outsideCurrentMonth={outsideCurrentMonth}
+      day={day}
+      selected={selected}
+      className={[className, isFilmDay && "has-films"].filter(Boolean).join(" ")}
+      disableRipple={isFilmDay}
+      sx={[
+        {
+          width: 40,
+          height: 40,
+          margin: 0,
+          transition: "none",
+        },
+        isFilmDay && {
+          overflow: "visible",
+          "&:hover, &:focus": {
+            backgroundColor: selected ? "black" : "transparent",
+          },
+          "&::before": {
+            content: '""',
+            position: "absolute",
+            inset: 4,
+            backgroundImage: "url(/circle.png)",
+            backgroundSize: "contain",
+            backgroundPosition: "center",
+            backgroundRepeat: "no-repeat",
+            pointerEvents: "none",
+            opacity: selected ? 0 : 1,
+            transition: "none",
+          },
+        },
+        ...(Array.isArray(sx) ? sx : sx ? [sx] : []),
+      ]}
+    />
   );
 }
 

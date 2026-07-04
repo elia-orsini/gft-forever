@@ -1,11 +1,16 @@
 import { IFilm } from "@/types/IFilm";
 
 import Film from "./Film";
+import NoFilmsFound from "./film/NoFilmsFound";
 import parseFilmName from "@/utils/parseFilmName";
 
 const FilmContainer: React.FC<{
   films: IFilm[];
 }> = ({ films }) => {
+  if (!films.length) {
+    return <NoFilmsFound />;
+  }
+
   return (
     <div className="grid w-full mx-auto grid-cols-3 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 sm:gap-8">
       {films.map((film, i) => {

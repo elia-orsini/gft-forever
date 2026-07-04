@@ -7,9 +7,6 @@ module.exports = {
   ],
   theme: {
     extend: {
-      fontFamily: {
-        sans: ['MunicipalGrotesque', "sans-serif"],
-      },
       fontSize: {
         "2xs": ".6rem",
         "2xl": "1.5rem",

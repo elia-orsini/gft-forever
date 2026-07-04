@@ -6,7 +6,6 @@ import MetaHead from "@/components/header/MetaHead";
 import FilmContainer from "@/components/FilmContainer";
 import Header from "@/components/header/Header";
 
-import moviesData from "../data/movies.json";
 import Footer from "@/components/footer/Footer";
 import Calendar from "@/components/DatePicker/Calendar";
 
@@ -18,26 +17,26 @@ const Add: React.FC = () => {
     if (!selectedDate) return;
 
     const formattedDate = selectedDate.format("YYYY-MM-DD");
+    const controller = new AbortController();
 
-    const newFilms = moviesData[formattedDate] || [];
+    fetch(`/api/films/${formattedDate}`, { signal: controller.signal })
+      .then((response) => {
+        if (!response.ok) throw new Error("Failed to fetch films");
+        return response.json();
+      })
+      .then((data: IFilm[]) => setFilms(data))
+      .catch((error) => {
+        if (error.name !== "AbortError") setFilms([]);
+      });
 
-    const noDuplicates = newFilms.filter(
-      (film: IFilm, index: number, self: IFilm[]) =>
-        index ===
-        self.findIndex(
-          (m: IFilm) =>
-            m.name === film.name || m.posterImage === film.posterImage
-        )
-    );
-
-    setFilms(noDuplicates);
+    return () => controller.abort();
   }, [selectedDate]);
 
   return (
     <div className="flex min-h-screen w-screen flex-col">
       <MetaHead />
 
-      <div className="flex flex-col w-full mx-auto">
+      <div className="flex flex-col w-full min-h-screen mx-auto">
         <Header />
 
         <div className="flex flex-col sm:flex-row mx-4 lg:mx-10 lg:space-x-10">
@@ -48,11 +47,9 @@ const Add: React.FC = () => {
             />
           </div>
 
-          {films.length ? (
+          <div className="flex w-full flex-col">
             <FilmContainer films={films} />
-          ) : (
-            <p className="my-4 text-sm min-h-screen">no films found</p>
-          )}
+          </div>
         </div>
       </div>
 
