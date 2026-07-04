@@ -14,6 +14,8 @@ export type FilmListItem = {
   title: string;
   year: string | null;
   releaseDate: string | null;
+  rating: number | null;
+  letterboxdUrl: string | null;
   firstScreeningDate: string;
   lastScreeningDate: string;
 };
@@ -49,50 +51,41 @@ export function getCalendarMeta(): CalendarMeta {
 }
 
 export function getAllFilms(): FilmListItem[] {
-  const films: (FilmListItem & { posterImage: string; rawName: string })[] =
-    [];
+  const films: FilmListItem[] = [];
 
   for (const date of Object.keys(movies).sort()) {
     for (const film of movies[date]) {
+      const title = parseFilmName(film.name);
+      const year = film.releaseDate
+        ? `${dayjs(film.releaseDate).year()}`
+        : null;
+      const letterboxdUrl =
+        film.letterboxdUrl ||
+        (film.tmdbId ? `https://letterboxd.com/tmdb/${film.tmdbId}` : null);
+
       const existing = films.find(
-        (entry) =>
-          entry.rawName === film.name ||
-          entry.posterImage === film.posterImage
+        (entry) => entry.title === title && entry.year === year
       );
 
       if (existing) {
         existing.lastScreeningDate = date;
+        existing.rating = existing.rating ?? film.rating ?? null;
+        existing.letterboxdUrl = existing.letterboxdUrl ?? letterboxdUrl;
         continue;
       }
 
       films.push({
-        rawName: film.name,
-        posterImage: film.posterImage,
-        id: `${film.posterImage}_${date}`,
-        title: parseFilmName(film.name),
-        year: film.releaseDate ? `${dayjs(film.releaseDate).year()}` : null,
+        id: `${title}_${year ?? "unknown"}_${date}`,
+        title,
+        year,
         releaseDate: film.releaseDate || null,
+        rating: film.rating || null,
+        letterboxdUrl,
         firstScreeningDate: date,
         lastScreeningDate: date,
       });
     }
   }
 
-  return films.map(
-    ({
-      id,
-      title,
-      year,
-      releaseDate,
-      firstScreeningDate,
-      lastScreeningDate,
-    }) => ({
-      id,
-      title,
-      year,
-      releaseDate,
-      firstScreeningDate,
-      lastScreeningDate,
-    })
-  );
+  return films;
 }

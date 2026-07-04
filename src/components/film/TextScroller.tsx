@@ -7,7 +7,31 @@ const TextScroller: React.FC<{
   className: string;
   text: string;
   uid: string;
-}> = ({ className, text, uid }) => {
+  href?: string | null;
+}> = ({ className, text, uid, href }) => {
+  const renderText = (key: string) => {
+    if (!text) return null;
+
+    if (href) {
+      return (
+        <a
+          key={key}
+          href={href}
+          target="_blank"
+          rel="noopener noreferrer"
+          className={`${className} w-max whitespace-nowrap underline`}
+        >
+          {text}
+        </a>
+      );
+    }
+
+    return (
+      <p key={key} className={`${className} w-max whitespace-nowrap`}>
+        {text}
+      </p>
+    );
+  };
   const [toScroll, setToScroll] = useState(false);
 
   const first = useRef<HTMLDivElement>(null);
@@ -55,23 +79,9 @@ const TextScroller: React.FC<{
         id={`roastersInnerContainer-${uid}`}
         className="flex py-1 gap-x-1 w-max"
       >
-        {text && (
-          <p
-            key={`roaster_A_${uid}`}
-            className={`${className} w-max whitespace-nowrap`}
-          >
-            {text}
-          </p>
-        )}
+        {renderText(`roaster_A_${uid}`)}
 
-        {text && toScroll && (
-          <p
-            key={`roaster_B_${uid}`}
-            className={`${className} w-max whitespace-nowrap`}
-          >
-            {text}
-          </p>
-        )}
+        {text && toScroll && renderText(`roaster_B_${uid}`)}
       </div>
     </div>
   );

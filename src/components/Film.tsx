@@ -12,8 +12,21 @@ const Film: React.FC<{
   trailerYoutubeId: string;
   rating: number;
   tmdb: string;
-}> = ({ img, title, director, release, trailerYoutubeId, rating, tmdb }) => {
+  letterboxdUrl?: string | null;
+}> = ({
+  img,
+  title,
+  director,
+  release,
+  trailerYoutubeId,
+  rating,
+  tmdb,
+  letterboxdUrl,
+}) => {
   const [reveal, setReveal] = useState<boolean>(false);
+  const letterboxdHref =
+    letterboxdUrl || (tmdb ? `https://letterboxd.com/tmdb/${tmdb}` : null);
+
   return (
     <div className="flex-1 bg-white">
       <div className="relative aspect-6/9 mx-auto">
@@ -38,6 +51,7 @@ const Film: React.FC<{
         className="font-bold uppercase tracking-tight text-xs"
         text={`${title}`}
         uid={`${title}`}
+        href={letterboxdHref}
       />
 
       <div className="flex flex-row justify-between text-xs">
@@ -52,20 +66,8 @@ const Film: React.FC<{
         uid={`director_${title}`}
       />
 
-      <div className="flex flex-row justify-between text-2xs">
-        {tmdb ? (
-          <a
-            href={`https://letterboxd.com/tmdb/${tmdb}`}
-            target="_blank"
-            className="underline"
-          >
-            LETTERBOXD
-          </a>
-        ) : (
-          <span>-</span>
-        )}
-
-        {trailerYoutubeId && (
+      {trailerYoutubeId && (
+        <div className="flex flex-row justify-end text-2xs">
           <a
             href={`https://www.youtube.com/watch?v=${trailerYoutubeId}`}
             target="_blank"
@@ -73,8 +75,8 @@ const Film: React.FC<{
           >
             YOUTUBE
           </a>
-        )}
-      </div>
+        </div>
+      )}
     </div>
   );
 };

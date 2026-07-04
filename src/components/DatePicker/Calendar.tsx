@@ -35,12 +35,19 @@ const Calendar = ({ selectedDate, setSelectedDate }) => {
           value={selectedDate}
           onChange={(newValue) => setSelectedDate(newValue)}
           views={["day"]}
+          disableHighlightToday
           minDate={dayjs(calendarMeta.minDate)}
           maxDate={dayjs(calendarMeta.maxDate)}
           slots={{
             day: DayLogo,
           }}
           sx={{
+            height: "auto",
+            maxHeight: "none",
+            overflowX: "hidden",
+            "& .MuiDayCalendar-slideTransition": {
+              minHeight: 264,
+            },
             "& .MuiPickersDay-root": {
               width: 40,
               height: 40,

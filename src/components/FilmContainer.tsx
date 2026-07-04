@@ -33,6 +33,7 @@ const FilmContainer: React.FC<{
             trailerYoutubeId={film.trailerYoutubeId}
             tmdb={film.tmdbId}
             rating={film.rating}
+            letterboxdUrl={film.letterboxdUrl}
             img={
               film.posterImage.includes("http")
                 ? film.posterImage

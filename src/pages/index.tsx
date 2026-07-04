@@ -39,14 +39,14 @@ const Add: React.FC = () => {
   }, [selectedDate]);
 
   return (
-    <div className="flex min-h-screen w-screen flex-col">
+    <div className="flex min-h-screen w-full flex-col">
       <MetaHead />
 
-      <div className="flex flex-col w-full min-h-screen px-4 mx-auto">
+      <div className="flex flex-1 flex-col w-full px-4 mx-auto">
         <Header />
 
         <div className="flex flex-col sm:flex-row lg:mx-10 lg:space-x-10">
-          <div className="w-max">
+          <div className="w-max shrink-0">
             <Calendar
               selectedDate={selectedDate}
               setSelectedDate={setSelectedDate}

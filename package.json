@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "scrape-films": "node src/lib/gft-screenings-request.js",
+    "enrich-letterboxd": "node scripts/enrich-letterboxd-ids.js",
+    "create-letterboxd-list": "node scripts/create-letterboxd-list.js"
   },
   "dependencies": {
     "@emotion/react": "^11.11.4",

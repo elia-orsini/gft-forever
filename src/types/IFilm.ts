@@ -6,4 +6,8 @@ export interface IFilm {
   trailerYoutubeId: string;
   tmdbId: string;
   rating: number;
+  letterboxdSlug?: string | null;
+  letterboxdId?: string | null;
+  letterboxdLid?: string | null;
+  letterboxdUrl?: string | null;
 }

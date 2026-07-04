@@ -27,6 +27,12 @@ yarn-error.log*
 
 # local env files
 .env*.local
+.env
+
+# generated letterboxd data
+/src/data/letterboxd-cache.json
+/src/data/letterboxd-list-export.txt
+/src/data/gft-screenings-letterboxd-list.csv
 
 # vercel
 .vercel

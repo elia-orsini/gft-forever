@@ -1,6 +1,10 @@
 const axios = require("axios");
 const fs = require("fs");
 const cheerio = require("cheerio");
+const {
+  extractLetterboxdIdFromPoster,
+  extractNumericIdFromHtml,
+} = require("./letterboxd-lookup");
 
 const startDate = new Date(new Date().setDate(new Date().getDate() - 20));
 const endDay = new Date().setDate(new Date().getDate() + 20);
@@ -59,13 +63,16 @@ const fetchMoviesForDate = async (date) => {
           showing.movie.tmdbId && (await getFilmStats(showing.movie.tmdbId));
 
         return {
-          name: stats?.name || showing.movie.name,
+          name: stats?.title || showing.movie.name,
           directedBy: showing.movie.directedBy,
           releaseDate: showing.movie.releaseDate,
           posterImage: stats?.image || showing.movie.posterImage,
           trailerYoutubeId: showing.movie.trailerYoutubeId,
           tmdbId: showing.movie.tmdbId,
           rating: stats?.rating,
+          letterboxdSlug: stats?.letterboxdSlug || null,
+          letterboxdId: stats?.letterboxdId || null,
+          letterboxdUrl: stats?.letterboxdUrl || null,
         };
       })
     );
@@ -81,21 +88,42 @@ const getFilmStats = async (tmdbId) => {
   try {
     const url = `https://letterboxd.com/tmdb/${tmdbId}/`;
 
-    const { data } = await axios.get(url);
+    const response = await axios.get(url, {
+      maxRedirects: 5,
+      headers: {
+        "User-Agent":
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+      },
+    });
 
-    const $ = cheerio.load(data);
+    const finalUrl =
+      response.request?.res?.responseUrl ||
+      response.request?.responseURL ||
+      response.config.url;
+    const slugMatch = finalUrl.match(/\/film\/([^/]+)\/?$/);
+    const letterboxdSlug = slugMatch ? slugMatch[1] : null;
+
+    const $ = cheerio.load(response.data);
 
     const jsonLdScript = $('script[type="application/ld+json"]').html();
 
     if (!jsonLdScript) return {};
 
     const jsonData = JSON.parse(jsonLdScript.split(/\n/g)[2]);
+    const posterId =
+      extractLetterboxdIdFromPoster(jsonData.image) ||
+      extractNumericIdFromHtml(response.data, tmdbId);
 
     const stats = {
       title: jsonData.name,
       rating: jsonData.aggregateRating.ratingValue,
       genre: jsonData.genre,
       image: jsonData.image,
+      letterboxdSlug,
+      letterboxdId: posterId,
+      letterboxdUrl: letterboxdSlug
+        ? `https://letterboxd.com/film/${letterboxdSlug}/`
+        : null,
     };
 
     return stats;
