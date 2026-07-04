@@ -2,11 +2,21 @@ import { IFilm } from "@/types/IFilm";
 
 import Film from "./Film";
 import NoFilmsFound from "./film/NoFilmsFound";
+import Spinner from "./Spinner";
 import parseFilmName from "@/utils/parseFilmName";
 
 const FilmContainer: React.FC<{
   films: IFilm[];
-}> = ({ films }) => {
+  isLoading?: boolean;
+}> = ({ films, isLoading = false }) => {
+  if (isLoading) {
+    return (
+      <div className="flex w-full justify-center my-auto">
+        <Spinner className="h-6 w-6 animate-spin text-black" />
+      </div>
+    );
+  }
+
   if (!films.length) {
     return <NoFilmsFound />;
   }

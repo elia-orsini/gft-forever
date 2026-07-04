@@ -40,32 +40,34 @@ export function sortFilms(
   films: FilmListItem[],
   order: FilmSortOrder
 ): FilmListItem[] {
+  const list = [...films];
+
   switch (order) {
     case "newest":
-      return films.toSorted(
+      return list.sort(
         (a, b) =>
           compareByReleaseDate(a, b, "desc") || a.title.localeCompare(b.title)
       );
     case "oldest":
-      return films.toSorted(
+      return list.sort(
         (a, b) =>
           compareByReleaseDate(a, b, "asc") || a.title.localeCompare(b.title)
       );
     case "last-screened":
-      return films.toSorted(
+      return list.sort(
         (a, b) =>
           b.lastScreeningDate.localeCompare(a.lastScreeningDate) ||
           a.title.localeCompare(b.title)
       );
     case "first-screened":
-      return films.toSorted(
+      return list.sort(
         (a, b) =>
           a.firstScreeningDate.localeCompare(b.firstScreeningDate) ||
           a.title.localeCompare(b.title)
       );
     case "a-z":
-      return films.toSorted((a, b) => a.title.localeCompare(b.title));
+      return list.sort((a, b) => a.title.localeCompare(b.title));
     case "z-a":
-      return films.toSorted((a, b) => b.title.localeCompare(a.title));
+      return list.sort((a, b) => b.title.localeCompare(a.title));
   }
 }

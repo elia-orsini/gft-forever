@@ -10,3 +10,19 @@ html {
   background: black;
   color: white;
 }
+
+/* Custom scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+  border-left: 0.1rem solid #000000;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #000000;
+  border-radius: 0;
+}

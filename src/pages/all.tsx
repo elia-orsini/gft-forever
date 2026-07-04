@@ -1,4 +1,4 @@
-import { useMemo, useRef, useState } from "react";
+import { useMemo, useState } from "react";
 import { GetStaticProps } from "next";
 
 import Footer from "@/components/footer/Footer";
@@ -7,34 +7,29 @@ import MetaHead from "@/components/header/MetaHead";
 import { FilmListItem, getAllFilms } from "@/lib/movies";
 import { FILM_SORT_OPTIONS, FilmSortOrder, sortFilms } from "@/utils/sortFilms";
 
-type FilmsPageProps = {
+type AllFilmsPageProps = {
   films: FilmListItem[];
 };
 
-const FilmsPage: React.FC<FilmsPageProps> = ({ films }) => {
+const AllFilmsPage: React.FC<AllFilmsPageProps> = ({ films }) => {
   const [sortOrder, setSortOrder] = useState<FilmSortOrder>("oldest");
-  const filmListRef = useRef<FilmListItem[]>();
-
-  if (!filmListRef.current) {
-    filmListRef.current = films.map((film) => ({ ...film }));
-  }
 
   const sortedFilms = useMemo(
-    () => sortFilms(filmListRef.current!, sortOrder),
-    [sortOrder]
+    () => sortFilms(films, sortOrder),
+    [films, sortOrder]
   );
 
   return (
     <div className="flex min-h-screen w-screen flex-col">
       <MetaHead />
 
-      <div className="flex flex-col w-full min-h-screen mx-auto">
+      <div className="flex flex-col w-full min-h-screen px-4 mx-auto">
         <Header />
 
-        <div className="mx-4 md:mx-auto md:w-11/12 mb-8">
+        <div className="md:mx-10 mb-8">
           <div className="mb-4 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
             <p className="text-xs uppercase tracking-widest">
-              all films ({filmListRef.current!.length})
+              all films ({films.length})
             </p>
 
             <label className="flex items-center gap-2 text-xs uppercase tracking-widest">
@@ -74,7 +69,7 @@ const FilmsPage: React.FC<FilmsPageProps> = ({ films }) => {
   );
 };
 
-export const getStaticProps: GetStaticProps<FilmsPageProps> = async () => {
+export const getStaticProps: GetStaticProps<AllFilmsPageProps> = async () => {
   return {
     props: {
       films: getAllFilms(),
@@ -82,4 +77,4 @@ export const getStaticProps: GetStaticProps<FilmsPageProps> = async () => {
   };
 };
 
-export default FilmsPage;
+export default AllFilmsPage;

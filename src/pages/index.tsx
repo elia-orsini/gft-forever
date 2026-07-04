@@ -12,12 +12,15 @@ import Calendar from "@/components/DatePicker/Calendar";
 const Add: React.FC = () => {
   const [selectedDate, setSelectedDate] = useState<Dayjs>(dayjs(new Date()));
   const [films, setFilms] = useState<IFilm[]>([]);
+  const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
     if (!selectedDate) return;
 
     const formattedDate = selectedDate.format("YYYY-MM-DD");
     const controller = new AbortController();
+
+    setIsLoading(true);
 
     fetch(`/api/films/${formattedDate}`, { signal: controller.signal })
       .then((response) => {
@@ -27,6 +30,9 @@ const Add: React.FC = () => {
       .then((data: IFilm[]) => setFilms(data))
       .catch((error) => {
         if (error.name !== "AbortError") setFilms([]);
+      })
+      .finally(() => {
+        if (!controller.signal.aborted) setIsLoading(false);
       });
 
     return () => controller.abort();
@@ -36,11 +42,11 @@ const Add: React.FC = () => {
     <div className="flex min-h-screen w-screen flex-col">
       <MetaHead />
 
-      <div className="flex flex-col w-full min-h-screen mx-auto">
+      <div className="flex flex-col w-full min-h-screen px-4 mx-auto">
         <Header />
 
-        <div className="flex flex-col sm:flex-row mx-4 lg:mx-10 lg:space-x-10">
-          <div className="w-max mx-auto">
+        <div className="flex flex-col sm:flex-row lg:mx-10 lg:space-x-10">
+          <div className="w-max">
             <Calendar
               selectedDate={selectedDate}
               setSelectedDate={setSelectedDate}
@@ -48,7 +54,7 @@ const Add: React.FC = () => {
           </div>
 
           <div className="flex w-full flex-col">
-            <FilmContainer films={films} />
+            <FilmContainer films={films} isLoading={isLoading} />
           </div>
         </div>
       </div>
