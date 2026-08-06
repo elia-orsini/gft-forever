@@ -140235,17 +140235,6 @@
       "letterboxdUrl": null
     },
     {
-      "name": "The Odyssey",
-      "directedBy": "Christopher Nolan",
-      "releaseDate": "2026-07-15",
-      "posterImage": "u14dpgzbxy5lldfhylqgim8n8ndh",
-      "trailerYoutubeId": "f_bKjZeJBBI",
-      "tmdbId": null,
-      "letterboxdSlug": null,
-      "letterboxdId": null,
-      "letterboxdUrl": null
-    },
-    {
       "name": "Obsession",
       "directedBy": "Curry Barker",
       "releaseDate": "2026-05-13",
@@ -141147,6 +141136,544 @@
       "releaseDate": "2026-06-12",
       "posterImage": "f86xhll489htdip3miocbzs17kd5",
       "trailerYoutubeId": "np6vsy7Rz8I",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
+  ],
+  "2026-08-22": [
+    {
+      "name": "Take 2: Megamind",
+      "directedBy": "Tom McGrath",
+      "releaseDate": "2010-10-28",
+      "posterImage": "47ec0weratwcw3p5rv6f3atzgoyz",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Stop! That! Train!",
+      "directedBy": "Adam Shankman",
+      "releaseDate": "2026-06-12",
+      "posterImage": "f86xhll489htdip3miocbzs17kd5",
+      "trailerYoutubeId": "np6vsy7Rz8I",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The End of Oak Street",
+      "directedBy": "David Robert Mitchell",
+      "releaseDate": "2026-08-12",
+      "posterImage": "evfy69ihio3jzvbphy3f2da97myy",
+      "trailerYoutubeId": "G6rEQ9OiI3M",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Teenage Sex and Death at Camp Miasma",
+      "directedBy": "Jane Schoenbrun",
+      "releaseDate": "2026-08-06",
+      "posterImage": "d4y8trc9f7fycqs4sidrj6s04mb2",
+      "trailerYoutubeId": "dimCiC_hdoA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Tony",
+      "directedBy": "Matt Johnson",
+      "releaseDate": "2026-08-06",
+      "posterImage": "t4rptmkbndemqjla3v99qjh7aaps",
+      "trailerYoutubeId": "k1MVnzd2aVc",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Sunny Dancer",
+      "directedBy": "George Jaques",
+      "releaseDate": "2026-08-13",
+      "posterImage": "0cjqpp27mohuoufvm6x0wg32qxh2",
+      "trailerYoutubeId": "UQxRhHK_Bmw",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Teenage Sex and Death at Camp Miasma",
+      "directedBy": "Jane Schoenbrun",
+      "releaseDate": "2026-08-06",
+      "posterImage": "d4y8trc9f7fycqs4sidrj6s04mb2",
+      "trailerYoutubeId": "dimCiC_hdoA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Modesty Blaise - 60th Anniversary - 4K + Recorded Introduction",
+      "directedBy": "Joseph Losey",
+      "releaseDate": "1966-05-01",
+      "posterImage": "850vdtley1ytfdnvs5jvdv6mvscz",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The End of Oak Street",
+      "directedBy": "David Robert Mitchell",
+      "releaseDate": "2026-08-12",
+      "posterImage": "evfy69ihio3jzvbphy3f2da97myy",
+      "trailerYoutubeId": "G6rEQ9OiI3M",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Teenage Sex and Death at Camp Miasma",
+      "directedBy": "Jane Schoenbrun",
+      "releaseDate": "2026-08-06",
+      "posterImage": "d4y8trc9f7fycqs4sidrj6s04mb2",
+      "trailerYoutubeId": "dimCiC_hdoA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Tony",
+      "directedBy": "Matt Johnson",
+      "releaseDate": "2026-08-06",
+      "posterImage": "t4rptmkbndemqjla3v99qjh7aaps",
+      "trailerYoutubeId": "k1MVnzd2aVc",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Stop! That! Train!",
+      "directedBy": "Adam Shankman",
+      "releaseDate": "2026-06-12",
+      "posterImage": "f86xhll489htdip3miocbzs17kd5",
+      "trailerYoutubeId": "np6vsy7Rz8I",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
+  ],
+  "2026-08-23": [
+    {
+      "name": "Her + Discussion",
+      "directedBy": "Spike Jonze",
+      "releaseDate": "2013-12-18",
+      "posterImage": "mikx0x51mmzlyy8sdbis39r1jr6j",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Tony",
+      "directedBy": "Matt Johnson",
+      "releaseDate": "2026-08-06",
+      "posterImage": "t4rptmkbndemqjla3v99qjh7aaps",
+      "trailerYoutubeId": "k1MVnzd2aVc",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Sunny Dancer",
+      "directedBy": "George Jaques",
+      "releaseDate": "2026-08-13",
+      "posterImage": "0cjqpp27mohuoufvm6x0wg32qxh2",
+      "trailerYoutubeId": "UQxRhHK_Bmw",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Teenage Sex and Death at Camp Miasma",
+      "directedBy": "Jane Schoenbrun",
+      "releaseDate": "2026-08-06",
+      "posterImage": "d4y8trc9f7fycqs4sidrj6s04mb2",
+      "trailerYoutubeId": "dimCiC_hdoA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Sunny Dancer",
+      "directedBy": "George Jaques",
+      "releaseDate": "2026-08-13",
+      "posterImage": "0cjqpp27mohuoufvm6x0wg32qxh2",
+      "trailerYoutubeId": "UQxRhHK_Bmw",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The End of Oak Street",
+      "directedBy": "David Robert Mitchell",
+      "releaseDate": "2026-08-12",
+      "posterImage": "evfy69ihio3jzvbphy3f2da97myy",
+      "trailerYoutubeId": "G6rEQ9OiI3M",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Teenage Sex and Death at Camp Miasma",
+      "directedBy": "Jane Schoenbrun",
+      "releaseDate": "2026-08-06",
+      "posterImage": "d4y8trc9f7fycqs4sidrj6s04mb2",
+      "trailerYoutubeId": "dimCiC_hdoA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Tony",
+      "directedBy": "Matt Johnson",
+      "releaseDate": "2026-08-06",
+      "posterImage": "t4rptmkbndemqjla3v99qjh7aaps",
+      "trailerYoutubeId": "k1MVnzd2aVc",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Stop! That! Train!",
+      "directedBy": "Adam Shankman",
+      "releaseDate": "2026-06-12",
+      "posterImage": "f86xhll489htdip3miocbzs17kd5",
+      "trailerYoutubeId": "np6vsy7Rz8I",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
+  ],
+  "2026-08-24": [
+    {
+      "name": "Teenage Sex and Death at Camp Miasma",
+      "directedBy": "Jane Schoenbrun",
+      "releaseDate": "2026-08-06",
+      "posterImage": "d4y8trc9f7fycqs4sidrj6s04mb2",
+      "trailerYoutubeId": "dimCiC_hdoA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Sunny Dancer",
+      "directedBy": "George Jaques",
+      "releaseDate": "2026-08-13",
+      "posterImage": "0cjqpp27mohuoufvm6x0wg32qxh2",
+      "trailerYoutubeId": "UQxRhHK_Bmw",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Tony",
+      "directedBy": "Matt Johnson",
+      "releaseDate": "2026-08-06",
+      "posterImage": "t4rptmkbndemqjla3v99qjh7aaps",
+      "trailerYoutubeId": "k1MVnzd2aVc",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Teenage Sex and Death at Camp Miasma",
+      "directedBy": "Jane Schoenbrun",
+      "releaseDate": "2026-08-06",
+      "posterImage": "d4y8trc9f7fycqs4sidrj6s04mb2",
+      "trailerYoutubeId": "dimCiC_hdoA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Stop! That! Train!",
+      "directedBy": "Adam Shankman",
+      "releaseDate": "2026-06-12",
+      "posterImage": "f86xhll489htdip3miocbzs17kd5",
+      "trailerYoutubeId": "np6vsy7Rz8I",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Tony",
+      "directedBy": "Matt Johnson",
+      "releaseDate": "2026-08-06",
+      "posterImage": "t4rptmkbndemqjla3v99qjh7aaps",
+      "trailerYoutubeId": "k1MVnzd2aVc",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The End of Oak Street",
+      "directedBy": "David Robert Mitchell",
+      "releaseDate": "2026-08-12",
+      "posterImage": "evfy69ihio3jzvbphy3f2da97myy",
+      "trailerYoutubeId": "G6rEQ9OiI3M",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Teenage Sex and Death at Camp Miasma",
+      "directedBy": "Jane Schoenbrun",
+      "releaseDate": "2026-08-06",
+      "posterImage": "d4y8trc9f7fycqs4sidrj6s04mb2",
+      "trailerYoutubeId": "dimCiC_hdoA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Stop! That! Train!",
+      "directedBy": "Adam Shankman",
+      "releaseDate": "2026-06-12",
+      "posterImage": "f86xhll489htdip3miocbzs17kd5",
+      "trailerYoutubeId": "np6vsy7Rz8I",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
+  ],
+  "2026-08-25": [
+    {
+      "name": "Tony",
+      "directedBy": "Matt Johnson",
+      "releaseDate": "2026-08-06",
+      "posterImage": "t4rptmkbndemqjla3v99qjh7aaps",
+      "trailerYoutubeId": "k1MVnzd2aVc",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Teenage Sex and Death at Camp Miasma",
+      "directedBy": "Jane Schoenbrun",
+      "releaseDate": "2026-08-06",
+      "posterImage": "d4y8trc9f7fycqs4sidrj6s04mb2",
+      "trailerYoutubeId": "dimCiC_hdoA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Sunny Dancer",
+      "directedBy": "George Jaques",
+      "releaseDate": "2026-08-13",
+      "posterImage": "0cjqpp27mohuoufvm6x0wg32qxh2",
+      "trailerYoutubeId": "UQxRhHK_Bmw",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Tony",
+      "directedBy": "Matt Johnson",
+      "releaseDate": "2026-08-06",
+      "posterImage": "t4rptmkbndemqjla3v99qjh7aaps",
+      "trailerYoutubeId": "k1MVnzd2aVc",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Teenage Sex and Death at Camp Miasma",
+      "directedBy": "Jane Schoenbrun",
+      "releaseDate": "2026-08-06",
+      "posterImage": "d4y8trc9f7fycqs4sidrj6s04mb2",
+      "trailerYoutubeId": "dimCiC_hdoA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Youth Screening: Godzilla (1954)",
+      "directedBy": "Ishirō Honda",
+      "releaseDate": "1954-11-03",
+      "posterImage": "ildypsxiwp2qx5saqk386olly5oh",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Midsommar",
+      "directedBy": "Ari Aster",
+      "releaseDate": "2019-07-03",
+      "posterImage": "3skch6fra3lg78j115z4mr5anujk",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Teenage Sex and Death at Camp Miasma",
+      "directedBy": "Jane Schoenbrun",
+      "releaseDate": "2026-08-06",
+      "posterImage": "d4y8trc9f7fycqs4sidrj6s04mb2",
+      "trailerYoutubeId": "dimCiC_hdoA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Stop! That! Train!",
+      "directedBy": "Adam Shankman",
+      "releaseDate": "2026-06-12",
+      "posterImage": "f86xhll489htdip3miocbzs17kd5",
+      "trailerYoutubeId": "np6vsy7Rz8I",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
+  ],
+  "2026-08-26": [
+    {
+      "name": "Teenage Sex and Death at Camp Miasma",
+      "directedBy": "Jane Schoenbrun",
+      "releaseDate": "2026-08-06",
+      "posterImage": "d4y8trc9f7fycqs4sidrj6s04mb2",
+      "trailerYoutubeId": "dimCiC_hdoA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The End of Oak Street",
+      "directedBy": "David Robert Mitchell",
+      "releaseDate": "2026-08-12",
+      "posterImage": "evfy69ihio3jzvbphy3f2da97myy",
+      "trailerYoutubeId": "G6rEQ9OiI3M",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Tony",
+      "directedBy": "Matt Johnson",
+      "releaseDate": "2026-08-06",
+      "posterImage": "t4rptmkbndemqjla3v99qjh7aaps",
+      "trailerYoutubeId": "k1MVnzd2aVc",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Teenage Sex and Death at Camp Miasma",
+      "directedBy": "Jane Schoenbrun",
+      "releaseDate": "2026-08-06",
+      "posterImage": "d4y8trc9f7fycqs4sidrj6s04mb2",
+      "trailerYoutubeId": "dimCiC_hdoA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The End of Oak Street",
+      "directedBy": "David Robert Mitchell",
+      "releaseDate": "2026-08-12",
+      "posterImage": "evfy69ihio3jzvbphy3f2da97myy",
+      "trailerYoutubeId": "G6rEQ9OiI3M",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Stop! That! Train!",
+      "directedBy": "Adam Shankman",
+      "releaseDate": "2026-06-12",
+      "posterImage": "f86xhll489htdip3miocbzs17kd5",
+      "trailerYoutubeId": "np6vsy7Rz8I",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Teenage Sex and Death at Camp Miasma",
+      "directedBy": "Jane Schoenbrun",
+      "releaseDate": "2026-08-06",
+      "posterImage": "d4y8trc9f7fycqs4sidrj6s04mb2",
+      "trailerYoutubeId": "dimCiC_hdoA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Sunny Dancer",
+      "directedBy": "George Jaques",
+      "releaseDate": "2026-08-13",
+      "posterImage": "0cjqpp27mohuoufvm6x0wg32qxh2",
+      "trailerYoutubeId": "UQxRhHK_Bmw",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Tony",
+      "directedBy": "Matt Johnson",
+      "releaseDate": "2026-08-06",
+      "posterImage": "t4rptmkbndemqjla3v99qjh7aaps",
+      "trailerYoutubeId": "k1MVnzd2aVc",
       "tmdbId": null,
       "letterboxdSlug": null,
       "letterboxdId": null,
