@@ -139427,17 +139427,6 @@
       "letterboxdUrl": null
     },
     {
-      "name": "David Byrne's American Utopia",
-      "directedBy": "Spike Lee",
-      "releaseDate": "2020-09-10",
-      "posterImage": "fqkrrqav59tuehy51ubzx7goon5u",
-      "trailerYoutubeId": "WZ2I-A4kNfM",
-      "tmdbId": null,
-      "letterboxdSlug": null,
-      "letterboxdId": null,
-      "letterboxdUrl": null
-    },
-    {
       "name": "Blue Heron",
       "directedBy": "Sophy Romvari",
       "releaseDate": "2026-03-21",
@@ -140582,11 +140571,11 @@
       "letterboxdUrl": null
     },
     {
-      "name": "Sunny Dancer",
-      "directedBy": "George Jaques",
-      "releaseDate": "2026-08-13",
-      "posterImage": "0cjqpp27mohuoufvm6x0wg32qxh2",
-      "trailerYoutubeId": "UQxRhHK_Bmw",
+      "name": "Love Me Tender",
+      "directedBy": "Anna Casanave Cambet",
+      "releaseDate": null,
+      "posterImage": "shtq65ddofrwmqttlzkzw1rve1l5",
+      "trailerYoutubeId": "3FzA5KO0M_I",
       "tmdbId": null,
       "letterboxdSlug": null,
       "letterboxdId": null,
@@ -141344,11 +141333,11 @@
       "letterboxdUrl": null
     },
     {
-      "name": "Sunny Dancer",
-      "directedBy": "George Jaques",
-      "releaseDate": "2026-08-13",
-      "posterImage": "0cjqpp27mohuoufvm6x0wg32qxh2",
-      "trailerYoutubeId": "UQxRhHK_Bmw",
+      "name": "Love Me Tender",
+      "directedBy": "Anna Casanave Cambet",
+      "releaseDate": null,
+      "posterImage": "shtq65ddofrwmqttlzkzw1rve1l5",
+      "trailerYoutubeId": "3FzA5KO0M_I",
       "tmdbId": null,
       "letterboxdSlug": null,
       "letterboxdId": null,
@@ -141467,11 +141456,11 @@
       "letterboxdUrl": null
     },
     {
-      "name": "The End of Oak Street",
-      "directedBy": "David Robert Mitchell",
-      "releaseDate": "2026-08-12",
-      "posterImage": "evfy69ihio3jzvbphy3f2da97myy",
-      "trailerYoutubeId": "G6rEQ9OiI3M",
+      "name": "Love Me Tender",
+      "directedBy": "Anna Casanave Cambet",
+      "releaseDate": null,
+      "posterImage": "shtq65ddofrwmqttlzkzw1rve1l5",
+      "trailerYoutubeId": "3FzA5KO0M_I",
       "tmdbId": null,
       "letterboxdSlug": null,
       "letterboxdId": null,
@@ -141614,22 +141603,22 @@
       "letterboxdUrl": null
     },
     {
-      "name": "The End of Oak Street",
-      "directedBy": "David Robert Mitchell",
-      "releaseDate": "2026-08-12",
-      "posterImage": "evfy69ihio3jzvbphy3f2da97myy",
-      "trailerYoutubeId": "G6rEQ9OiI3M",
+      "name": "Tony",
+      "directedBy": "Matt Johnson",
+      "releaseDate": "2026-08-06",
+      "posterImage": "t4rptmkbndemqjla3v99qjh7aaps",
+      "trailerYoutubeId": "k1MVnzd2aVc",
       "tmdbId": null,
       "letterboxdSlug": null,
       "letterboxdId": null,
       "letterboxdUrl": null
     },
     {
-      "name": "Tony",
-      "directedBy": "Matt Johnson",
-      "releaseDate": "2026-08-06",
-      "posterImage": "t4rptmkbndemqjla3v99qjh7aaps",
-      "trailerYoutubeId": "k1MVnzd2aVc",
+      "name": "Love Me Tender",
+      "directedBy": "Anna Casanave Cambet",
+      "releaseDate": null,
+      "posterImage": "shtq65ddofrwmqttlzkzw1rve1l5",
+      "trailerYoutubeId": "3FzA5KO0M_I",
       "tmdbId": null,
       "letterboxdSlug": null,
       "letterboxdId": null,
@@ -141752,7 +141741,7 @@
       "directedBy": null,
       "releaseDate": null,
       "posterImage": "a22c94ehr0yi7af4b5asem1vq3xo",
-      "trailerYoutubeId": "rgSXZF5KLq0",
+      "trailerYoutubeId": "5QE8iXQstyU",
       "tmdbId": null,
       "letterboxdSlug": null,
       "letterboxdId": null,
@@ -142261,5 +142250,299 @@
       "letterboxdId": null,
       "letterboxdUrl": null
     }
-  ]
+  ],
+  "2026-09-01": [
+    {
+      "name": "Bitter Christmas",
+      "directedBy": "Pedro Almodóvar",
+      "releaseDate": "2026-03-20",
+      "posterImage": "q4t4ejff2o18ujzknrtb1668jddf",
+      "trailerYoutubeId": "NUvdMKtFXBw",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Teenage Sex and Death at Camp Miasma",
+      "directedBy": "Jane Schoenbrun",
+      "releaseDate": "2026-08-06",
+      "posterImage": "d4y8trc9f7fycqs4sidrj6s04mb2",
+      "trailerYoutubeId": "dimCiC_hdoA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "I Want Your Sex",
+      "directedBy": "Gregg Araki",
+      "releaseDate": "2026-07-29",
+      "posterImage": "09vwbfxji417wpauytr8234ln50f",
+      "trailerYoutubeId": "T8Gb6OedWB4",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Colony",
+      "directedBy": "Yeon Sang-ho",
+      "releaseDate": "2026-05-21",
+      "posterImage": "qqlunpv6608fq25w43wyfz953hfc",
+      "trailerYoutubeId": "lSwRHqnxA4o",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Teenage Sex and Death at Camp Miasma",
+      "directedBy": "Jane Schoenbrun",
+      "releaseDate": "2026-08-06",
+      "posterImage": "d4y8trc9f7fycqs4sidrj6s04mb2",
+      "trailerYoutubeId": "dimCiC_hdoA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Bitter Christmas",
+      "directedBy": "Pedro Almodóvar",
+      "releaseDate": "2026-03-20",
+      "posterImage": "q4t4ejff2o18ujzknrtb1668jddf",
+      "trailerYoutubeId": "NUvdMKtFXBw",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "It Follows",
+      "directedBy": "David Robert Mitchell",
+      "releaseDate": "2015-02-04",
+      "posterImage": "68adu4auko6czx3cf1cansfcz2zy",
+      "trailerYoutubeId": "imwAmjTUOk4",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "I Want Your Sex",
+      "directedBy": "Gregg Araki",
+      "releaseDate": "2026-07-29",
+      "posterImage": "09vwbfxji417wpauytr8234ln50f",
+      "trailerYoutubeId": "T8Gb6OedWB4",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
+  ],
+  "2026-09-02": [
+    {
+      "name": "Bitter Christmas",
+      "directedBy": "Pedro Almodóvar",
+      "releaseDate": "2026-03-20",
+      "posterImage": "q4t4ejff2o18ujzknrtb1668jddf",
+      "trailerYoutubeId": "NUvdMKtFXBw",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Teenage Sex and Death at Camp Miasma",
+      "directedBy": "Jane Schoenbrun",
+      "releaseDate": "2026-08-06",
+      "posterImage": "d4y8trc9f7fycqs4sidrj6s04mb2",
+      "trailerYoutubeId": "dimCiC_hdoA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Colony",
+      "directedBy": "Yeon Sang-ho",
+      "releaseDate": "2026-05-21",
+      "posterImage": "qqlunpv6608fq25w43wyfz953hfc",
+      "trailerYoutubeId": "lSwRHqnxA4o",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Kiki's Delivery Service - 4K",
+      "directedBy": "Hayao Miyazaki",
+      "releaseDate": "1989-07-29",
+      "posterImage": "73gsbxc8je7qaoj0jvlayzfyozd9",
+      "trailerYoutubeId": "nu4OX6RKeLY",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Ivan's Childhood",
+      "directedBy": "Andrei Tarkovsky",
+      "releaseDate": "1962-05-09",
+      "posterImage": "h289tosgcp0uoqydistof7l1ibvg",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Bitter Christmas",
+      "directedBy": "Pedro Almodóvar",
+      "releaseDate": "2026-03-20",
+      "posterImage": "q4t4ejff2o18ujzknrtb1668jddf",
+      "trailerYoutubeId": "NUvdMKtFXBw",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Beautiful Thing: 30th Anniversary - 35mm + Introduction",
+      "directedBy": "Hettie Macdonald",
+      "releaseDate": "1996-06-21",
+      "posterImage": "8gkk1q5168d1hq48nplk897dm4yu",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Teenage Sex and Death at Camp Miasma",
+      "directedBy": "Jane Schoenbrun",
+      "releaseDate": "2026-08-06",
+      "posterImage": "d4y8trc9f7fycqs4sidrj6s04mb2",
+      "trailerYoutubeId": "dimCiC_hdoA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "I Want Your Sex",
+      "directedBy": "Gregg Araki",
+      "releaseDate": "2026-07-29",
+      "posterImage": "09vwbfxji417wpauytr8234ln50f",
+      "trailerYoutubeId": "T8Gb6OedWB4",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
+  ],
+  "2026-09-03": [
+    {
+      "name": "I Want Your Sex",
+      "directedBy": "Gregg Araki",
+      "releaseDate": "2026-07-29",
+      "posterImage": "09vwbfxji417wpauytr8234ln50f",
+      "trailerYoutubeId": "T8Gb6OedWB4",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Bitter Christmas",
+      "directedBy": "Pedro Almodóvar",
+      "releaseDate": "2026-03-20",
+      "posterImage": "q4t4ejff2o18ujzknrtb1668jddf",
+      "trailerYoutubeId": "NUvdMKtFXBw",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Teenage Sex and Death at Camp Miasma",
+      "directedBy": "Jane Schoenbrun",
+      "releaseDate": "2026-08-06",
+      "posterImage": "d4y8trc9f7fycqs4sidrj6s04mb2",
+      "trailerYoutubeId": "dimCiC_hdoA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "I Want Your Sex",
+      "directedBy": "Gregg Araki",
+      "releaseDate": "2026-07-29",
+      "posterImage": "09vwbfxji417wpauytr8234ln50f",
+      "trailerYoutubeId": "T8Gb6OedWB4",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Trainspotting - 30th Anniversary - 4K",
+      "directedBy": "Danny Boyle",
+      "releaseDate": "2026-08-21",
+      "posterImage": "q3dd4hz2si6yieuftmmfy7ej970d",
+      "trailerYoutubeId": "HXTDCS4FHrM",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Teenage Sex and Death at Camp Miasma",
+      "directedBy": "Jane Schoenbrun",
+      "releaseDate": "2026-08-06",
+      "posterImage": "d4y8trc9f7fycqs4sidrj6s04mb2",
+      "trailerYoutubeId": "dimCiC_hdoA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Colony",
+      "directedBy": "Yeon Sang-ho",
+      "releaseDate": "2026-05-21",
+      "posterImage": "qqlunpv6608fq25w43wyfz953hfc",
+      "trailerYoutubeId": "lSwRHqnxA4o",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Bitter Christmas",
+      "directedBy": "Pedro Almodóvar",
+      "releaseDate": "2026-03-20",
+      "posterImage": "q4t4ejff2o18ujzknrtb1668jddf",
+      "trailerYoutubeId": "NUvdMKtFXBw",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Ivan's Childhood",
+      "directedBy": "Andrei Tarkovsky",
+      "releaseDate": "1962-05-09",
+      "posterImage": "h289tosgcp0uoqydistof7l1ibvg",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
+  ],
+  "2026-09-04": [],
+  "2026-09-05": []
 }
