@@ -142016,11 +142016,11 @@
       "letterboxdUrl": null
     },
     {
-      "name": "I Want Your Sex",
-      "directedBy": "Gregg Araki",
-      "releaseDate": "2026-07-29",
-      "posterImage": "09vwbfxji417wpauytr8234ln50f",
-      "trailerYoutubeId": "T8Gb6OedWB4",
+      "name": "Lady",
+      "directedBy": "Samuel Abrahams",
+      "releaseDate": "2025-10-16",
+      "posterImage": "3bhag6jje2wyb7u2wizjvt3szoa9",
+      "trailerYoutubeId": "MuJHJTK0Pmg",
       "tmdbId": null,
       "letterboxdSlug": null,
       "letterboxdId": null,
@@ -142084,11 +142084,11 @@
       "letterboxdUrl": null
     },
     {
-      "name": "I Want Your Sex",
-      "directedBy": "Gregg Araki",
-      "releaseDate": "2026-07-29",
-      "posterImage": "09vwbfxji417wpauytr8234ln50f",
-      "trailerYoutubeId": "T8Gb6OedWB4",
+      "name": "Lady",
+      "directedBy": "Samuel Abrahams",
+      "releaseDate": "2025-10-16",
+      "posterImage": "3bhag6jje2wyb7u2wizjvt3szoa9",
+      "trailerYoutubeId": "MuJHJTK0Pmg",
       "tmdbId": null,
       "letterboxdSlug": null,
       "letterboxdId": null,
@@ -142613,6 +142613,117 @@
       "directedBy": "Louise Lockwood",
       "releaseDate": null,
       "posterImage": "halk1p98yj0vyispi9ar11cuzo2x",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
+  ],
+  "2026-09-11": [
+    {
+      "name": "Oasis: Don't Look Back in Anger",
+      "directedBy": "Dylan Southern, Will Lovelace",
+      "releaseDate": "2026-09-10",
+      "posterImage": "ceyy9rsvkzheg41fwaotlv8m1eo1",
+      "trailerYoutubeId": "6z_0B_lyRTo",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
+  ],
+  "2026-09-12": [
+    {
+      "name": "The Odyssey - 70mm",
+      "directedBy": "Christopher Nolan",
+      "releaseDate": "2026-07-15",
+      "posterImage": "u14dpgzbxy5lldfhylqgim8n8ndh",
+      "trailerYoutubeId": "f_bKjZeJBBI",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Oasis: Don't Look Back in Anger",
+      "directedBy": "Dylan Southern, Will Lovelace",
+      "releaseDate": "2026-09-10",
+      "posterImage": "ceyy9rsvkzheg41fwaotlv8m1eo1",
+      "trailerYoutubeId": "6z_0B_lyRTo",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
+  ],
+  "2026-09-13": [
+    {
+      "name": "Solaris",
+      "directedBy": "Andrei Tarkovsky",
+      "releaseDate": "1972-03-20",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/5/1/5/2/8/51528-solaris-0-600-0-900-crop.jpg?v=75bb558a90",
+      "trailerYoutubeId": null,
+      "tmdbId": "593",
+      "rating": 4.22,
+      "letterboxdSlug": "solaris",
+      "letterboxdId": "51528",
+      "letterboxdUrl": "https://letterboxd.com/film/solaris/"
+    }
+  ],
+  "2026-09-14": [
+    {
+      "name": "The Odyssey - 70mm",
+      "directedBy": "Christopher Nolan",
+      "releaseDate": "2026-07-15",
+      "posterImage": "u14dpgzbxy5lldfhylqgim8n8ndh",
+      "trailerYoutubeId": "f_bKjZeJBBI",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Access Film Club: Objectified",
+      "directedBy": "Gary Hustwit",
+      "releaseDate": "2009-05-22",
+      "posterImage": "swf7uc71s4c7xg31k1sb7c89fqzx",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Solaris",
+      "directedBy": "Andrei Tarkovsky",
+      "releaseDate": "1972-03-20",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/5/1/5/2/8/51528-solaris-0-600-0-900-crop.jpg?v=75bb558a90",
+      "trailerYoutubeId": null,
+      "tmdbId": "593",
+      "rating": 4.22,
+      "letterboxdSlug": "solaris",
+      "letterboxdId": "51528",
+      "letterboxdUrl": "https://letterboxd.com/film/solaris/"
+    }
+  ],
+  "2026-09-15": [
+    {
+      "name": "The Odyssey - 70mm",
+      "directedBy": "Christopher Nolan",
+      "releaseDate": "2026-07-15",
+      "posterImage": "u14dpgzbxy5lldfhylqgim8n8ndh",
+      "trailerYoutubeId": "f_bKjZeJBBI",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Hardcore",
+      "directedBy": "Paul Schrader",
+      "releaseDate": "1979-02-09",
+      "posterImage": "9bmedgora1p4j8ertu8uff3pk985",
       "trailerYoutubeId": null,
       "tmdbId": null,
       "letterboxdSlug": null,
