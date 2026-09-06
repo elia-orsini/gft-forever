@@ -142710,105 +142710,6 @@
       "letterboxdSlug": null,
       "letterboxdId": null,
       "letterboxdUrl": null
-    },
-    {
-      "name": "The Incomer",
-      "directedBy": "Louis Paxton",
-      "releaseDate": "2026-09-04",
-      "posterImage": "vr5yuu6e60oe4nqdsqpqft42xcpl",
-      "trailerYoutubeId": "vJ6TSvmnUEE",
-      "tmdbId": null,
-      "letterboxdSlug": null,
-      "letterboxdId": null,
-      "letterboxdUrl": null
-    },
-    {
-      "name": "Bitter Christmas",
-      "directedBy": "Pedro Almodóvar",
-      "releaseDate": "2026-03-20",
-      "posterImage": "q4t4ejff2o18ujzknrtb1668jddf",
-      "trailerYoutubeId": "NUvdMKtFXBw",
-      "tmdbId": null,
-      "letterboxdSlug": null,
-      "letterboxdId": null,
-      "letterboxdUrl": null
-    },
-    {
-      "name": "Lady",
-      "directedBy": "Samuel Abrahams",
-      "releaseDate": "2025-10-16",
-      "posterImage": "3bhag6jje2wyb7u2wizjvt3szoa9",
-      "trailerYoutubeId": "MuJHJTK0Pmg",
-      "tmdbId": null,
-      "letterboxdSlug": null,
-      "letterboxdId": null,
-      "letterboxdUrl": null
-    },
-    {
-      "name": "Teenage Sex and Death at Camp Miasma",
-      "directedBy": "Jane Schoenbrun",
-      "releaseDate": "2026-08-06",
-      "posterImage": "d4y8trc9f7fycqs4sidrj6s04mb2",
-      "trailerYoutubeId": "dimCiC_hdoA",
-      "tmdbId": null,
-      "letterboxdSlug": null,
-      "letterboxdId": null,
-      "letterboxdUrl": null
-    },
-    {
-      "name": "The Incomer",
-      "directedBy": "Louis Paxton",
-      "releaseDate": "2026-09-04",
-      "posterImage": "vr5yuu6e60oe4nqdsqpqft42xcpl",
-      "trailerYoutubeId": "vJ6TSvmnUEE",
-      "tmdbId": null,
-      "letterboxdSlug": null,
-      "letterboxdId": null,
-      "letterboxdUrl": null
-    },
-    {
-      "name": "Super Nature",
-      "directedBy": "Ed Sayers",
-      "releaseDate": "2025-10-12",
-      "posterImage": "pcidl531wf2a5mvopm5di8cemftk",
-      "trailerYoutubeId": "ZiNuMPDYbvQ",
-      "tmdbId": null,
-      "letterboxdSlug": null,
-      "letterboxdId": null,
-      "letterboxdUrl": null
-    },
-    {
-      "name": "Terminator 2: Judgment Day - 35th Anniversary - 4K",
-      "directedBy": "James Cameron",
-      "releaseDate": "1991-07-03",
-      "posterImage": "l885zavsnh062mv2it9ztegoe805",
-      "trailerYoutubeId": "1S___gntWDA",
-      "tmdbId": null,
-      "letterboxdSlug": null,
-      "letterboxdId": null,
-      "letterboxdUrl": null
-    },
-    {
-      "name": "Preview: Bad Apples",
-      "directedBy": "Jonatan Etzler",
-      "releaseDate": "2026-09-04",
-      "posterImage": "4qzyzx0q44d8ayp35kdyz5tdg6t9",
-      "trailerYoutubeId": "4nhu80EmVQE",
-      "tmdbId": null,
-      "letterboxdSlug": null,
-      "letterboxdId": null,
-      "letterboxdUrl": null
-    },
-    {
-      "name": "Late Fame",
-      "directedBy": "Kent Jones",
-      "releaseDate": "2025-08-29",
-      "posterImage": "vgacl20rhluwil04eh7k5jig4v87",
-      "trailerYoutubeId": "FI_7PobKjt0",
-      "tmdbId": null,
-      "letterboxdSlug": null,
-      "letterboxdId": null,
-      "letterboxdUrl": null
     }
   ],
   "2026-09-06": [
@@ -143699,13 +143600,12 @@
       "name": "Solaris",
       "directedBy": "Andrei Tarkovsky",
       "releaseDate": "1972-03-20",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/5/1/5/2/8/51528-solaris-0-600-0-900-crop.jpg?v=75bb558a90",
+      "posterImage": "8ic0586alsneguodey9i07i33w3s",
       "trailerYoutubeId": null,
-      "tmdbId": "593",
-      "rating": 4.22,
-      "letterboxdSlug": "solaris",
-      "letterboxdId": "51528",
-      "letterboxdUrl": "https://letterboxd.com/film/solaris/"
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
     },
     {
       "name": "Everybody Digs Bill Evans",
@@ -143856,13 +143756,12 @@
       "name": "Solaris",
       "directedBy": "Andrei Tarkovsky",
       "releaseDate": "1972-03-20",
-      "posterImage": "https://a.ltrbxd.com/resized/film-poster/5/1/5/2/8/51528-solaris-0-600-0-900-crop.jpg?v=75bb558a90",
+      "posterImage": "8ic0586alsneguodey9i07i33w3s",
       "trailerYoutubeId": null,
-      "tmdbId": "593",
-      "rating": 4.22,
-      "letterboxdSlug": "solaris",
-      "letterboxdId": "51528",
-      "letterboxdUrl": "https://letterboxd.com/film/solaris/"
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
     },
     {
       "name": "The Incomer",
@@ -144601,6 +144500,514 @@
       "releaseDate": "1975-12-25",
       "posterImage": "5te3m7s43e43s9yd0l6n0268ub2h",
       "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
+  ],
+  "2026-09-22": [
+    {
+      "name": "Amores Perros - 25th Anniversary - 4K",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2000-06-16",
+      "posterImage": "cy79nlq39f6solixgdfotxpabsp6",
+      "trailerYoutubeId": "_P29GF_NbDc",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Bad Apples",
+      "directedBy": "Jonatan Etzler",
+      "releaseDate": "2026-09-04",
+      "posterImage": "f784lecft55h5o8s2h9tddw8vccq",
+      "trailerYoutubeId": "4nhu80EmVQE",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Queen at Sea",
+      "directedBy": "Lance Hammer",
+      "releaseDate": "2026-09-03",
+      "posterImage": "p8j63cm9ph4ahfv8vaz8di5suoao",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Cycle of Love",
+      "directedBy": "Orlando von Einsiedel",
+      "releaseDate": "2025-08-29",
+      "posterImage": "r9hp4n26nzg9yd6jj5n176v3s9cf",
+      "trailerYoutubeId": "biXpA5aJPug",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Bad Apples",
+      "directedBy": "Jonatan Etzler",
+      "releaseDate": "2026-09-04",
+      "posterImage": "f784lecft55h5o8s2h9tddw8vccq",
+      "trailerYoutubeId": "4nhu80EmVQE",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Queen at Sea",
+      "directedBy": "Lance Hammer",
+      "releaseDate": "2026-09-03",
+      "posterImage": "p8j63cm9ph4ahfv8vaz8di5suoao",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "All Rivers Spill Their Stories to the Sea + Q&A",
+      "directedBy": "Jeanie Finlay",
+      "releaseDate": "2026-03-11",
+      "posterImage": "9bd446qturfuw914unl5tynhhu66",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Nostalghia - 4K",
+      "directedBy": "Andrei Tarkovsky",
+      "releaseDate": "1983-05-01",
+      "posterImage": "hflwp186qpj7s9kxk90u80m83w9g",
+      "trailerYoutubeId": "uqi4XvkVMs0",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Pressure",
+      "directedBy": "Anthony Maras",
+      "releaseDate": "2026-05-25",
+      "posterImage": "xtfh0wimz8f8rufmi33g9fkrzuq4",
+      "trailerYoutubeId": "_gQwG9Xi13g",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
+  ],
+  "2026-09-23": [
+    {
+      "name": "Pressure",
+      "directedBy": "Anthony Maras",
+      "releaseDate": "2026-05-25",
+      "posterImage": "xtfh0wimz8f8rufmi33g9fkrzuq4",
+      "trailerYoutubeId": "_gQwG9Xi13g",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Cycle of Love",
+      "directedBy": "Orlando von Einsiedel",
+      "releaseDate": "2025-08-29",
+      "posterImage": "r9hp4n26nzg9yd6jj5n176v3s9cf",
+      "trailerYoutubeId": "biXpA5aJPug",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Queen at Sea",
+      "directedBy": "Lance Hammer",
+      "releaseDate": "2026-09-03",
+      "posterImage": "p8j63cm9ph4ahfv8vaz8di5suoao",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Queen at Sea",
+      "directedBy": "Lance Hammer",
+      "releaseDate": "2026-09-03",
+      "posterImage": "p8j63cm9ph4ahfv8vaz8di5suoao",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Incomer",
+      "directedBy": "Louis Paxton",
+      "releaseDate": "2026-09-04",
+      "posterImage": "vr5yuu6e60oe4nqdsqpqft42xcpl",
+      "trailerYoutubeId": "vJ6TSvmnUEE",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Bad Apples",
+      "directedBy": "Jonatan Etzler",
+      "releaseDate": "2026-09-04",
+      "posterImage": "f784lecft55h5o8s2h9tddw8vccq",
+      "trailerYoutubeId": "4nhu80EmVQE",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Amores Perros - 25th Anniversary - 4K",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2000-06-16",
+      "posterImage": "cy79nlq39f6solixgdfotxpabsp6",
+      "trailerYoutubeId": "_P29GF_NbDc",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "NT Live: The Misanthrope",
+      "directedBy": "Indhu Rubasingham",
+      "releaseDate": null,
+      "posterImage": "sse19syeh7m3sadppkevx1mll6o2",
+      "trailerYoutubeId": "QSCjWh4CAWQ",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Bad Apples",
+      "directedBy": "Jonatan Etzler",
+      "releaseDate": "2026-09-04",
+      "posterImage": "f784lecft55h5o8s2h9tddw8vccq",
+      "trailerYoutubeId": "4nhu80EmVQE",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
+  ],
+  "2026-09-24": [
+    {
+      "name": "Amores Perros - 25th Anniversary - 4K",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2000-06-16",
+      "posterImage": "cy79nlq39f6solixgdfotxpabsp6",
+      "trailerYoutubeId": "_P29GF_NbDc",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Queen at Sea",
+      "directedBy": "Lance Hammer",
+      "releaseDate": "2026-09-03",
+      "posterImage": "p8j63cm9ph4ahfv8vaz8di5suoao",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Bad Apples",
+      "directedBy": "Jonatan Etzler",
+      "releaseDate": "2026-09-04",
+      "posterImage": "f784lecft55h5o8s2h9tddw8vccq",
+      "trailerYoutubeId": "4nhu80EmVQE",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Pressure",
+      "directedBy": "Anthony Maras",
+      "releaseDate": "2026-05-25",
+      "posterImage": "xtfh0wimz8f8rufmi33g9fkrzuq4",
+      "trailerYoutubeId": "_gQwG9Xi13g",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Borscht Film Club: Polish Comedy Shorts + Q&A",
+      "directedBy": null,
+      "releaseDate": null,
+      "posterImage": "x8816vwavz2duqr08ss9dewskjue",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Nostalghia - 4K",
+      "directedBy": "Andrei Tarkovsky",
+      "releaseDate": "1983-05-01",
+      "posterImage": "hflwp186qpj7s9kxk90u80m83w9g",
+      "trailerYoutubeId": "uqi4XvkVMs0",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Bad Apples",
+      "directedBy": "Jonatan Etzler",
+      "releaseDate": "2026-09-04",
+      "posterImage": "f784lecft55h5o8s2h9tddw8vccq",
+      "trailerYoutubeId": "4nhu80EmVQE",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Cycle of Love",
+      "directedBy": "Orlando von Einsiedel",
+      "releaseDate": "2025-08-29",
+      "posterImage": "r9hp4n26nzg9yd6jj5n176v3s9cf",
+      "trailerYoutubeId": "biXpA5aJPug",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
+  ],
+  "2026-09-25": [
+    {
+      "name": "The Butcher",
+      "directedBy": "Claude Chabrol",
+      "releaseDate": "1970-02-27",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/5/0/0/1/3/50013-the-butcher-0-600-0-900-crop.jpg?v=50c410b3b1",
+      "trailerYoutubeId": null,
+      "tmdbId": "2912",
+      "rating": 3.77,
+      "letterboxdSlug": "the-butcher-1970",
+      "letterboxdId": "50013",
+      "letterboxdUrl": "https://letterboxd.com/film/the-butcher-1970/"
+    },
+    {
+      "name": "Amores Perros - 25th Anniversary - 4K",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2000-06-16",
+      "posterImage": "cy79nlq39f6solixgdfotxpabsp6",
+      "trailerYoutubeId": "_P29GF_NbDc",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Bad Apples",
+      "directedBy": "Jonatan Etzler",
+      "releaseDate": "2026-09-04",
+      "posterImage": "f784lecft55h5o8s2h9tddw8vccq",
+      "trailerYoutubeId": "4nhu80EmVQE",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Manhunter: The Final Cut - 40th Anniversary - 4K Restoration",
+      "directedBy": "Michael Mann",
+      "releaseDate": "1986-08-14",
+      "posterImage": "hgokdqaxolxhawu57qe4cptpmvin",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "GYFF Opening Gala: Sense and Sensibility + live music",
+      "directedBy": "Georgia Oakley",
+      "releaseDate": "2026-09-23",
+      "posterImage": "ylos8nud6k349zggndwuk0iqs4rj",
+      "trailerYoutubeId": "mcrwcvad84U",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Babystar",
+      "directedBy": "Joscha Bongard",
+      "releaseDate": "2025-09-06",
+      "posterImage": "kvtuni116dayy69mtczhvkpktbc5",
+      "trailerYoutubeId": "aM1dCiWZhzU",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "GYFF: Falcon Lake",
+      "directedBy": "Charlotte Le Bon",
+      "releaseDate": "2022-10-14",
+      "posterImage": "ogcdchecutjbsdxjqyywvv48eg0s",
+      "trailerYoutubeId": "s9O5E3twoas",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Bad Apples",
+      "directedBy": "Jonatan Etzler",
+      "releaseDate": "2026-09-04",
+      "posterImage": "f784lecft55h5o8s2h9tddw8vccq",
+      "trailerYoutubeId": "4nhu80EmVQE",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
+  ],
+  "2026-09-26": [
+    {
+      "name": "Barbie",
+      "directedBy": "Greta Gerwig",
+      "releaseDate": "2023-07-21",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/2/7/7/0/6/4/277064-barbie-0-600-0-900-crop.jpg?v=1b83dc7a71",
+      "trailerYoutubeId": "oRzCR5YKWUk",
+      "tmdbId": "346698",
+      "rating": 3.67,
+      "letterboxdSlug": "barbie",
+      "letterboxdId": "277064",
+      "letterboxdUrl": "https://letterboxd.com/film/barbie/"
+    },
+    {
+      "name": "Bad Apples",
+      "directedBy": "Jonatan Etzler",
+      "releaseDate": "2026-09-04",
+      "posterImage": "f784lecft55h5o8s2h9tddw8vccq",
+      "trailerYoutubeId": "4nhu80EmVQE",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "GYFF: Derek vs Derek + Q&A",
+      "directedBy": "James Dawson",
+      "releaseDate": "2027-03-08",
+      "posterImage": "hpaftpavcn0krfk3wpwh4mwgk4us",
+      "trailerYoutubeId": "HeZbO-t3rlA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Sense and Sensibility",
+      "directedBy": "Georgia Oakley",
+      "releaseDate": "2026-09-23",
+      "posterImage": "ylos8nud6k349zggndwuk0iqs4rj",
+      "trailerYoutubeId": "mcrwcvad84U",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Butcher",
+      "directedBy": "Claude Chabrol",
+      "releaseDate": "1970-02-27",
+      "posterImage": "https://a.ltrbxd.com/resized/film-poster/5/0/0/1/3/50013-the-butcher-0-600-0-900-crop.jpg?v=50c410b3b1",
+      "trailerYoutubeId": null,
+      "tmdbId": "2912",
+      "rating": 3.77,
+      "letterboxdSlug": "the-butcher-1970",
+      "letterboxdId": "50013",
+      "letterboxdUrl": "https://letterboxd.com/film/the-butcher-1970/"
+    },
+    {
+      "name": "Sense and Sensibility",
+      "directedBy": "Georgia Oakley",
+      "releaseDate": "2026-09-23",
+      "posterImage": "ylos8nud6k349zggndwuk0iqs4rj",
+      "trailerYoutubeId": "mcrwcvad84U",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "GYFF: Do the Right Thing",
+      "directedBy": "Spike Lee",
+      "releaseDate": "1989-06-14",
+      "posterImage": "0gmiykazjnrbkb4e517e6tpdpm5b",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Bad Apples",
+      "directedBy": "Jonatan Etzler",
+      "releaseDate": "2026-09-04",
+      "posterImage": "f784lecft55h5o8s2h9tddw8vccq",
+      "trailerYoutubeId": "4nhu80EmVQE",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "GYFF: Extra Geography + Q&A",
+      "directedBy": "Molly Manners",
+      "releaseDate": "2026-01-23",
+      "posterImage": "f47umodz2p2jgfjyrn74vloqrty1",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Sense and Sensibility",
+      "directedBy": "Georgia Oakley",
+      "releaseDate": "2026-09-23",
+      "posterImage": "ylos8nud6k349zggndwuk0iqs4rj",
+      "trailerYoutubeId": "mcrwcvad84U",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Babystar",
+      "directedBy": "Joscha Bongard",
+      "releaseDate": "2025-09-06",
+      "posterImage": "kvtuni116dayy69mtczhvkpktbc5",
+      "trailerYoutubeId": "aM1dCiWZhzU",
       "tmdbId": null,
       "letterboxdSlug": null,
       "letterboxdId": null,
