@@ -144651,11 +144651,11 @@
       "letterboxdUrl": null
     },
     {
-      "name": "Pressure",
-      "directedBy": "Anthony Maras",
-      "releaseDate": "2026-05-25",
-      "posterImage": "xtfh0wimz8f8rufmi33g9fkrzuq4",
-      "trailerYoutubeId": "_gQwG9Xi13g",
+      "name": "Everybody Digs Bill Evans",
+      "directedBy": null,
+      "releaseDate": null,
+      "posterImage": "kppx8319e83fvjeeqpzfbs11lrua",
+      "trailerYoutubeId": "IkAy4_sqsKA",
       "tmdbId": null,
       "letterboxdSlug": null,
       "letterboxdId": null,
@@ -144809,11 +144809,11 @@
       "letterboxdUrl": null
     },
     {
-      "name": "Pressure",
-      "directedBy": "Anthony Maras",
-      "releaseDate": "2026-05-25",
-      "posterImage": "xtfh0wimz8f8rufmi33g9fkrzuq4",
-      "trailerYoutubeId": "_gQwG9Xi13g",
+      "name": "Everybody Digs Bill Evans",
+      "directedBy": null,
+      "releaseDate": null,
+      "posterImage": "kppx8319e83fvjeeqpzfbs11lrua",
+      "trailerYoutubeId": "IkAy4_sqsKA",
       "tmdbId": null,
       "letterboxdSlug": null,
       "letterboxdId": null,
@@ -144872,7 +144872,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/5/0/0/1/3/50013-the-butcher-0-600-0-900-crop.jpg?v=50c410b3b1",
       "trailerYoutubeId": null,
       "tmdbId": "2912",
-      "rating": 3.78,
+      "rating": 3.77,
       "letterboxdSlug": "the-butcher-1970",
       "letterboxdId": "50013",
       "letterboxdUrl": "https://letterboxd.com/film/the-butcher-1970/"
@@ -144937,7 +144937,7 @@
       "directedBy": "Charlotte Le Bon",
       "releaseDate": "2022-10-14",
       "posterImage": "ogcdchecutjbsdxjqyywvv48eg0s",
-      "trailerYoutubeId": "s9O5E3twoas",
+      "trailerYoutubeId": "A_YDt31KFks",
       "tmdbId": null,
       "letterboxdSlug": null,
       "letterboxdId": null,
@@ -145019,7 +145019,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/5/0/0/1/3/50013-the-butcher-0-600-0-900-crop.jpg?v=50c410b3b1",
       "trailerYoutubeId": null,
       "tmdbId": "2912",
-      "rating": 3.78,
+      "rating": 3.77,
       "letterboxdSlug": "the-butcher-1970",
       "letterboxdId": "50013",
       "letterboxdUrl": "https://letterboxd.com/film/the-butcher-1970/"
@@ -145176,7 +145176,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/5/0/0/1/3/50013-the-butcher-0-600-0-900-crop.jpg?v=50c410b3b1",
       "trailerYoutubeId": null,
       "tmdbId": "2912",
-      "rating": 3.78,
+      "rating": 3.77,
       "letterboxdSlug": "the-butcher-1970",
       "letterboxdId": "50013",
       "letterboxdUrl": "https://letterboxd.com/film/the-butcher-1970/"
@@ -145447,7 +145447,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/5/0/0/1/3/50013-the-butcher-0-600-0-900-crop.jpg?v=50c410b3b1",
       "trailerYoutubeId": null,
       "tmdbId": "2912",
-      "rating": 3.78,
+      "rating": 3.77,
       "letterboxdSlug": "the-butcher-1970",
       "letterboxdId": "50013",
       "letterboxdUrl": "https://letterboxd.com/film/the-butcher-1970/"
@@ -145582,7 +145582,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/5/0/0/1/3/50013-the-butcher-0-600-0-900-crop.jpg?v=50c410b3b1",
       "trailerYoutubeId": null,
       "tmdbId": "2912",
-      "rating": 3.78,
+      "rating": 3.77,
       "letterboxdSlug": "the-butcher-1970",
       "letterboxdId": "50013",
       "letterboxdUrl": "https://letterboxd.com/film/the-butcher-1970/"
@@ -145626,6 +145626,35 @@
       "releaseDate": "2026-09-04",
       "posterImage": "f784lecft55h5o8s2h9tddw8vccq",
       "trailerYoutubeId": "4nhu80EmVQE",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
+  ],
+  "2026-10-02": [],
+  "2026-10-03": [],
+  "2026-10-04": [
+    {
+      "name": "Band Together + Introduction",
+      "directedBy": "Daniel Sánchez Arévalo",
+      "releaseDate": "2025-12-16",
+      "posterImage": "kfn6h2l45vnwedap6phe8qeqwl8b",
+      "trailerYoutubeId": "PaBKSLOCXrg",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
+  ],
+  "2026-10-05": [],
+  "2026-10-06": [
+    {
+      "name": "Politics of the Imagination: Animations of the Eastern Bloc (1958-1992)",
+      "directedBy": null,
+      "releaseDate": null,
+      "posterImage": "7yzqpgltz7xzlfqgdeaa9q4w6un0",
+      "trailerYoutubeId": null,
       "tmdbId": null,
       "letterboxdSlug": null,
       "letterboxdId": null,
