@@ -145660,5 +145660,125 @@
       "letterboxdId": null,
       "letterboxdUrl": null
     }
+  ],
+  "2026-10-07": [
+    {
+      "name": "LFF: Elsinore",
+      "directedBy": "Simon Stone",
+      "releaseDate": "2026-11-20",
+      "posterImage": "6kg240a1ev0rt7rzvnjuhc96zt66",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
+  ],
+  "2026-10-08": [
+    {
+      "name": "24 Hour Party People - 4K + Q&A",
+      "directedBy": "Michael Winterbottom",
+      "releaseDate": "2002-02-13",
+      "posterImage": "k930vza6u7fwvnng0f7m9d1mxz8f",
+      "trailerYoutubeId": "yGLF5g7pYsc",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Gaua (The Night) + Introduction",
+      "directedBy": "Paul Urkijo Alijo",
+      "releaseDate": "2025-11-13",
+      "posterImage": "enhyl2lyfhxnidemeepfa9jsq8yb",
+      "trailerYoutubeId": "VjzTbI6q6w8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
+  ],
+  "2026-10-09": [
+    {
+      "name": "Love Is Not an Orange + director in conversation",
+      "directedBy": "Otilia Babara",
+      "releaseDate": "2022-10-19",
+      "posterImage": "iz9jghg09sgseqhtclylnkb1yseh",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "LFF: Wild Horse Nine",
+      "directedBy": "Martin McDonagh",
+      "releaseDate": "2026-11-04",
+      "posterImage": "2hx5x0t360atezjih7j885afuejp",
+      "trailerYoutubeId": "Haw_sznA5aQ",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
+  ],
+  "2026-10-10": [
+    {
+      "name": "Werckmeister Harmonies– 35mm + Introduction",
+      "directedBy": "Béla Tarr",
+      "releaseDate": "2001-02-01",
+      "posterImage": "xtcoa6j14iljci04cc3gqbg0sc6y",
+      "trailerYoutubeId": "-tJVdq_G_Go?si=WMwLHFpkGfxs_EAu",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "LFF: I Love Boosters",
+      "directedBy": "Boots Riley",
+      "releaseDate": "2026-05-21",
+      "posterImage": "j271m01701p7zoqzxkbljrl51set",
+      "trailerYoutubeId": "I1xZegSgN8w",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
+  ],
+  "2026-10-11": [
+    {
+      "name": "LFF: Ray Gunn",
+      "directedBy": "Brad Bird",
+      "releaseDate": "2026-12-18",
+      "posterImage": "wp3am68saej1h64iw416vf5z0ahw",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "And Then We Danced + Introduction",
+      "directedBy": "Levan Akin",
+      "releaseDate": "2019-09-13",
+      "posterImage": "qki6qmik46tz7xtcxw9glaxruqf4",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "LFF: Possible Love",
+      "directedBy": "Lee Chang-dong",
+      "releaseDate": "2026-09-23",
+      "posterImage": "golpic7wliqxx67muzhb7cq5zsic",
+      "trailerYoutubeId": "zd3qXH9qN70",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
   ]
 }
