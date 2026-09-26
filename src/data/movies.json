@@ -144889,11 +144889,33 @@
       "letterboxdUrl": null
     },
     {
+      "name": "The Incomer",
+      "directedBy": "Louis Paxton",
+      "releaseDate": "2026-09-04",
+      "posterImage": "vr5yuu6e60oe4nqdsqpqft42xcpl",
+      "trailerYoutubeId": "vJ6TSvmnUEE",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
       "name": "Bad Apples",
       "directedBy": "Jonatan Etzler",
       "releaseDate": "2026-09-04",
       "posterImage": "f784lecft55h5o8s2h9tddw8vccq",
       "trailerYoutubeId": "4nhu80EmVQE",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Incomer",
+      "directedBy": "Louis Paxton",
+      "releaseDate": "2026-09-04",
+      "posterImage": "vr5yuu6e60oe4nqdsqpqft42xcpl",
+      "trailerYoutubeId": "vJ6TSvmnUEE",
       "tmdbId": null,
       "letterboxdSlug": null,
       "letterboxdId": null,
@@ -145126,7 +145148,7 @@
       "letterboxdUrl": null
     },
     {
-      "name": "GYFF: Second Nature: Gender and Sexuality in the Animal World + Q&A",
+      "name": "GYFF: Second Nature: Gender and Sexuality in the Animal World",
       "directedBy": "Drew Denny",
       "releaseDate": "2026-06-20",
       "posterImage": "pet9hjfloegiajya23vz52wzoaj0",
@@ -145334,6 +145356,17 @@
       "releaseDate": "2026-09-04",
       "posterImage": "f784lecft55h5o8s2h9tddw8vccq",
       "trailerYoutubeId": "4nhu80EmVQE",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Incomer",
+      "directedBy": "Louis Paxton",
+      "releaseDate": "2026-09-04",
+      "posterImage": "vr5yuu6e60oe4nqdsqpqft42xcpl",
+      "trailerYoutubeId": "vJ6TSvmnUEE",
       "tmdbId": null,
       "letterboxdSlug": null,
       "letterboxdId": null,
@@ -145632,9 +145665,286 @@
       "letterboxdUrl": null
     }
   ],
-  "2026-10-02": [],
-  "2026-10-03": [],
+  "2026-10-02": [
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Derek vs Derek",
+      "directedBy": "James Dawson",
+      "releaseDate": "2027-03-08",
+      "posterImage": "dnt9oii1db2r1f04c2rgjzi1c6hw",
+      "trailerYoutubeId": "HeZbO-t3rlA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Sense and Sensibility",
+      "directedBy": "Georgia Oakley",
+      "releaseDate": "2026-09-23",
+      "posterImage": "ylos8nud6k349zggndwuk0iqs4rj",
+      "trailerYoutubeId": "mcrwcvad84U",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Extra Geography",
+      "directedBy": "Molly Manners",
+      "releaseDate": "2026-01-23",
+      "posterImage": "f47umodz2p2jgfjyrn74vloqrty1",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Sense and Sensibility",
+      "directedBy": "Georgia Oakley",
+      "releaseDate": "2026-09-23",
+      "posterImage": "ylos8nud6k349zggndwuk0iqs4rj",
+      "trailerYoutubeId": "mcrwcvad84U",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Derek vs Derek",
+      "directedBy": "James Dawson",
+      "releaseDate": "2027-03-08",
+      "posterImage": "dnt9oii1db2r1f04c2rgjzi1c6hw",
+      "trailerYoutubeId": "HeZbO-t3rlA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Sense and Sensibility",
+      "directedBy": "Georgia Oakley",
+      "releaseDate": "2026-09-23",
+      "posterImage": "ylos8nud6k349zggndwuk0iqs4rj",
+      "trailerYoutubeId": "mcrwcvad84U",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Extra Geography",
+      "directedBy": "Molly Manners",
+      "releaseDate": "2026-01-23",
+      "posterImage": "f47umodz2p2jgfjyrn74vloqrty1",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
+  ],
+  "2026-10-03": [
+    {
+      "name": "Take 2: Flushed Away",
+      "directedBy": "David Bowers, Sam Fell",
+      "releaseDate": "2006-10-22",
+      "posterImage": "p3jf2u9b3mn7chi9wqm0ogzp6zkm",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Derek vs Derek",
+      "directedBy": "James Dawson",
+      "releaseDate": "2027-03-08",
+      "posterImage": "dnt9oii1db2r1f04c2rgjzi1c6hw",
+      "trailerYoutubeId": "HeZbO-t3rlA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Sense and Sensibility",
+      "directedBy": "Georgia Oakley",
+      "releaseDate": "2026-09-23",
+      "posterImage": "ylos8nud6k349zggndwuk0iqs4rj",
+      "trailerYoutubeId": "mcrwcvad84U",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Personal Problems + Introduction",
+      "directedBy": "Bill Gunn",
+      "releaseDate": "1980-08-10",
+      "posterImage": "0nz9n4fviufhw7k30bg9aoegssul",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Sense and Sensibility",
+      "directedBy": "Georgia Oakley",
+      "releaseDate": "2026-09-23",
+      "posterImage": "ylos8nud6k349zggndwuk0iqs4rj",
+      "trailerYoutubeId": "mcrwcvad84U",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Extra Geography",
+      "directedBy": "Molly Manners",
+      "releaseDate": "2026-01-23",
+      "posterImage": "f47umodz2p2jgfjyrn74vloqrty1",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Sense and Sensibility",
+      "directedBy": "Georgia Oakley",
+      "releaseDate": "2026-09-23",
+      "posterImage": "ylos8nud6k349zggndwuk0iqs4rj",
+      "trailerYoutubeId": "mcrwcvad84U",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Extra Geography",
+      "directedBy": "Molly Manners",
+      "releaseDate": "2026-01-23",
+      "posterImage": "f47umodz2p2jgfjyrn74vloqrty1",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
+  ],
   "2026-10-04": [
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Sense and Sensibility",
+      "directedBy": "Georgia Oakley",
+      "releaseDate": "2026-09-23",
+      "posterImage": "ylos8nud6k349zggndwuk0iqs4rj",
+      "trailerYoutubeId": "mcrwcvad84U",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Derek vs Derek",
+      "directedBy": "James Dawson",
+      "releaseDate": "2027-03-08",
+      "posterImage": "dnt9oii1db2r1f04c2rgjzi1c6hw",
+      "trailerYoutubeId": "HeZbO-t3rlA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
     {
       "name": "Band Together + Introduction",
       "directedBy": "Daniel Sánchez Arévalo",
@@ -145645,10 +145955,231 @@
       "letterboxdSlug": null,
       "letterboxdId": null,
       "letterboxdUrl": null
+    },
+    {
+      "name": "Madness Take It or Leave It - 4K",
+      "directedBy": "Dave Robinson",
+      "releaseDate": "1981-10-08",
+      "posterImage": "69gd0jrf8y8nf6w3wzinfutmhj96",
+      "trailerYoutubeId": "vNYRpLksOK0",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Sense and Sensibility",
+      "directedBy": "Georgia Oakley",
+      "releaseDate": "2026-09-23",
+      "posterImage": "ylos8nud6k349zggndwuk0iqs4rj",
+      "trailerYoutubeId": "mcrwcvad84U",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Extra Geography",
+      "directedBy": "Molly Manners",
+      "releaseDate": "2026-01-23",
+      "posterImage": "f47umodz2p2jgfjyrn74vloqrty1",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
     }
   ],
-  "2026-10-05": [],
+  "2026-10-05": [
+    {
+      "name": "Extra Geography",
+      "directedBy": "Molly Manners",
+      "releaseDate": "2026-01-23",
+      "posterImage": "f47umodz2p2jgfjyrn74vloqrty1",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Sense and Sensibility",
+      "directedBy": "Georgia Oakley",
+      "releaseDate": "2026-09-23",
+      "posterImage": "ylos8nud6k349zggndwuk0iqs4rj",
+      "trailerYoutubeId": "mcrwcvad84U",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Madness Take It or Leave It - 4K",
+      "directedBy": "Dave Robinson",
+      "releaseDate": "1981-10-08",
+      "posterImage": "69gd0jrf8y8nf6w3wzinfutmhj96",
+      "trailerYoutubeId": "vNYRpLksOK0",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Sense and Sensibility",
+      "directedBy": "Georgia Oakley",
+      "releaseDate": "2026-09-23",
+      "posterImage": "ylos8nud6k349zggndwuk0iqs4rj",
+      "trailerYoutubeId": "mcrwcvad84U",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Extra Geography",
+      "directedBy": "Molly Manners",
+      "releaseDate": "2026-01-23",
+      "posterImage": "f47umodz2p2jgfjyrn74vloqrty1",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Sense and Sensibility",
+      "directedBy": "Georgia Oakley",
+      "releaseDate": "2026-09-23",
+      "posterImage": "ylos8nud6k349zggndwuk0iqs4rj",
+      "trailerYoutubeId": "mcrwcvad84U",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Derek vs Derek",
+      "directedBy": "James Dawson",
+      "releaseDate": "2027-03-08",
+      "posterImage": "dnt9oii1db2r1f04c2rgjzi1c6hw",
+      "trailerYoutubeId": "HeZbO-t3rlA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
+  ],
   "2026-10-06": [
+    {
+      "name": "Extra Geography",
+      "directedBy": "Molly Manners",
+      "releaseDate": "2026-01-23",
+      "posterImage": "f47umodz2p2jgfjyrn74vloqrty1",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Sense and Sensibility",
+      "directedBy": "Georgia Oakley",
+      "releaseDate": "2026-09-23",
+      "posterImage": "ylos8nud6k349zggndwuk0iqs4rj",
+      "trailerYoutubeId": "mcrwcvad84U",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Derek vs Derek",
+      "directedBy": "James Dawson",
+      "releaseDate": "2027-03-08",
+      "posterImage": "dnt9oii1db2r1f04c2rgjzi1c6hw",
+      "trailerYoutubeId": "HeZbO-t3rlA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Sense and Sensibility",
+      "directedBy": "Georgia Oakley",
+      "releaseDate": "2026-09-23",
+      "posterImage": "ylos8nud6k349zggndwuk0iqs4rj",
+      "trailerYoutubeId": "mcrwcvad84U",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
     {
       "name": "Politics of the Imagination: Animations of the Eastern Bloc (1958-1992)",
       "directedBy": null,
@@ -145659,9 +146190,130 @@
       "letterboxdSlug": null,
       "letterboxdId": null,
       "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Extra Geography",
+      "directedBy": "Molly Manners",
+      "releaseDate": "2026-01-23",
+      "posterImage": "f47umodz2p2jgfjyrn74vloqrty1",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
     }
   ],
   "2026-10-07": [
+    {
+      "name": "Madness Take It or Leave It - 4K",
+      "directedBy": "Dave Robinson",
+      "releaseDate": "1981-10-08",
+      "posterImage": "69gd0jrf8y8nf6w3wzinfutmhj96",
+      "trailerYoutubeId": "vNYRpLksOK0",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Sense and Sensibility",
+      "directedBy": "Georgia Oakley",
+      "releaseDate": "2026-09-23",
+      "posterImage": "ylos8nud6k349zggndwuk0iqs4rj",
+      "trailerYoutubeId": "mcrwcvad84U",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Extra Geography",
+      "directedBy": "Molly Manners",
+      "releaseDate": "2026-01-23",
+      "posterImage": "f47umodz2p2jgfjyrn74vloqrty1",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Sense and Sensibility",
+      "directedBy": "Georgia Oakley",
+      "releaseDate": "2026-09-23",
+      "posterImage": "ylos8nud6k349zggndwuk0iqs4rj",
+      "trailerYoutubeId": "mcrwcvad84U",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Derek vs Derek",
+      "directedBy": "James Dawson",
+      "releaseDate": "2027-03-08",
+      "posterImage": "dnt9oii1db2r1f04c2rgjzi1c6hw",
+      "trailerYoutubeId": "HeZbO-t3rlA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Extra Geography",
+      "directedBy": "Molly Manners",
+      "releaseDate": "2026-01-23",
+      "posterImage": "f47umodz2p2jgfjyrn74vloqrty1",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
     {
       "name": "LFF: Elsinore",
       "directedBy": "Simon Stone",
@@ -145676,11 +146328,110 @@
   ],
   "2026-10-08": [
     {
+      "name": "Sense and Sensibility",
+      "directedBy": "Georgia Oakley",
+      "releaseDate": "2026-09-23",
+      "posterImage": "ylos8nud6k349zggndwuk0iqs4rj",
+      "trailerYoutubeId": "mcrwcvad84U",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Derek vs Derek",
+      "directedBy": "James Dawson",
+      "releaseDate": "2027-03-08",
+      "posterImage": "dnt9oii1db2r1f04c2rgjzi1c6hw",
+      "trailerYoutubeId": "HeZbO-t3rlA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Sense and Sensibility",
+      "directedBy": "Georgia Oakley",
+      "releaseDate": "2026-09-23",
+      "posterImage": "ylos8nud6k349zggndwuk0iqs4rj",
+      "trailerYoutubeId": "mcrwcvad84U",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Extra Geography",
+      "directedBy": "Molly Manners",
+      "releaseDate": "2026-01-23",
+      "posterImage": "f47umodz2p2jgfjyrn74vloqrty1",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Sense and Sensibility",
+      "directedBy": "Georgia Oakley",
+      "releaseDate": "2026-09-23",
+      "posterImage": "ylos8nud6k349zggndwuk0iqs4rj",
+      "trailerYoutubeId": "mcrwcvad84U",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Extra Geography",
+      "directedBy": "Molly Manners",
+      "releaseDate": "2026-01-23",
+      "posterImage": "f47umodz2p2jgfjyrn74vloqrty1",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
       "name": "24 Hour Party People - 4K + Q&A",
       "directedBy": "Michael Winterbottom",
       "releaseDate": "2002-02-13",
       "posterImage": "k930vza6u7fwvnng0f7m9d1mxz8f",
       "trailerYoutubeId": "yGLF5g7pYsc",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
       "tmdbId": null,
       "letterboxdSlug": null,
       "letterboxdId": null,
@@ -145700,11 +146451,110 @@
   ],
   "2026-10-09": [
     {
+      "name": "The Lost Children of Tuam",
+      "directedBy": "Frank Berry",
+      "releaseDate": "2026-09-25",
+      "posterImage": "lowqg7z6y9apyzuu7e4hww4jfbbg",
+      "trailerYoutubeId": "l6A7hHXcO0k",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "24 Hour Party People",
+      "directedBy": "Michael Winterbottom",
+      "releaseDate": "2002-02-13",
+      "posterImage": "vtewm5i6rb7bk2uo0lqras1qp0r0",
+      "trailerYoutubeId": "yGLF5g7pYsc",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Uprising",
+      "directedBy": "Paul Greengrass",
+      "releaseDate": "2026-09-10",
+      "posterImage": "kuzdikh7go910k8yhkmnnraxo8dd",
+      "trailerYoutubeId": "ZVkrhHebz1Q",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Lost Children of Tuam",
+      "directedBy": "Frank Berry",
+      "releaseDate": "2026-09-25",
+      "posterImage": "lowqg7z6y9apyzuu7e4hww4jfbbg",
+      "trailerYoutubeId": "l6A7hHXcO0k",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Knife: The Attempted Murder of Salman Rushdie",
+      "directedBy": "Alex Gibney",
+      "releaseDate": "2026-10-02",
+      "posterImage": "6ctamufcrrbuomzu8xswhx2mki5j",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Lost Children of Tuam",
+      "directedBy": "Frank Berry",
+      "releaseDate": "2026-09-25",
+      "posterImage": "lowqg7z6y9apyzuu7e4hww4jfbbg",
+      "trailerYoutubeId": "l6A7hHXcO0k",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
       "name": "Love Is Not an Orange + director in conversation",
       "directedBy": "Otilia Babara",
       "releaseDate": "2022-10-19",
       "posterImage": "iz9jghg09sgseqhtclylnkb1yseh",
       "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Uprising",
+      "directedBy": "Paul Greengrass",
+      "releaseDate": "2026-09-10",
+      "posterImage": "kuzdikh7go910k8yhkmnnraxo8dd",
+      "trailerYoutubeId": "ZVkrhHebz1Q",
       "tmdbId": null,
       "letterboxdSlug": null,
       "letterboxdId": null,
@@ -145720,9 +146570,86 @@
       "letterboxdSlug": null,
       "letterboxdId": null,
       "letterboxdUrl": null
+    },
+    {
+      "name": "How Deep is Your Love?",
+      "directedBy": null,
+      "releaseDate": null,
+      "posterImage": "d4dltro360z58pn1w4vhku1r0mv6",
+      "trailerYoutubeId": "DmE0lFGgXsg",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
     }
   ],
   "2026-10-10": [
+    {
+      "name": "Take 2 Access: Kiki's Delivery Service [Dubbed]",
+      "directedBy": "Hayao Miyazaki",
+      "releaseDate": "1989-07-29",
+      "posterImage": "73gsbxc8je7qaoj0jvlayzfyozd9",
+      "trailerYoutubeId": "nu4OX6RKeLY",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "How Deep is Your Love?",
+      "directedBy": null,
+      "releaseDate": null,
+      "posterImage": "d4dltro360z58pn1w4vhku1r0mv6",
+      "trailerYoutubeId": "DmE0lFGgXsg",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Uprising",
+      "directedBy": "Paul Greengrass",
+      "releaseDate": "2026-09-10",
+      "posterImage": "kuzdikh7go910k8yhkmnnraxo8dd",
+      "trailerYoutubeId": "ZVkrhHebz1Q",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Lost Children of Tuam",
+      "directedBy": "Frank Berry",
+      "releaseDate": "2026-09-25",
+      "posterImage": "lowqg7z6y9apyzuu7e4hww4jfbbg",
+      "trailerYoutubeId": "l6A7hHXcO0k",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Knife: The Attempted Murder of Salman Rushdie",
+      "directedBy": "Alex Gibney",
+      "releaseDate": "2026-10-02",
+      "posterImage": "6ctamufcrrbuomzu8xswhx2mki5j",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
     {
       "name": "Werckmeister Harmonies– 35mm + Introduction",
       "directedBy": "Béla Tarr",
@@ -145744,9 +146671,97 @@
       "letterboxdSlug": null,
       "letterboxdId": null,
       "letterboxdUrl": null
+    },
+    {
+      "name": "The Lost Children of Tuam",
+      "directedBy": "Frank Berry",
+      "releaseDate": "2026-09-25",
+      "posterImage": "lowqg7z6y9apyzuu7e4hww4jfbbg",
+      "trailerYoutubeId": "l6A7hHXcO0k",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Uprising",
+      "directedBy": "Paul Greengrass",
+      "releaseDate": "2026-09-10",
+      "posterImage": "kuzdikh7go910k8yhkmnnraxo8dd",
+      "trailerYoutubeId": "ZVkrhHebz1Q",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Lost Children of Tuam",
+      "directedBy": "Frank Berry",
+      "releaseDate": "2026-09-25",
+      "posterImage": "lowqg7z6y9apyzuu7e4hww4jfbbg",
+      "trailerYoutubeId": "l6A7hHXcO0k",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
     }
   ],
   "2026-10-11": [
+    {
+      "name": "The Lost Children of Tuam",
+      "directedBy": "Frank Berry",
+      "releaseDate": "2026-09-25",
+      "posterImage": "lowqg7z6y9apyzuu7e4hww4jfbbg",
+      "trailerYoutubeId": "l6A7hHXcO0k",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Uprising",
+      "directedBy": "Paul Greengrass",
+      "releaseDate": "2026-09-10",
+      "posterImage": "kuzdikh7go910k8yhkmnnraxo8dd",
+      "trailerYoutubeId": "ZVkrhHebz1Q",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "How Deep is Your Love?",
+      "directedBy": null,
+      "releaseDate": null,
+      "posterImage": "d4dltro360z58pn1w4vhku1r0mv6",
+      "trailerYoutubeId": "DmE0lFGgXsg",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
     {
       "name": "LFF: Ray Gunn",
       "directedBy": "Brad Bird",
@@ -145770,11 +146785,648 @@
       "letterboxdUrl": null
     },
     {
+      "name": "The Uprising",
+      "directedBy": "Paul Greengrass",
+      "releaseDate": "2026-09-10",
+      "posterImage": "kuzdikh7go910k8yhkmnnraxo8dd",
+      "trailerYoutubeId": "ZVkrhHebz1Q",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
       "name": "LFF: Possible Love",
       "directedBy": "Lee Chang-dong",
       "releaseDate": "2026-09-23",
       "posterImage": "golpic7wliqxx67muzhb7cq5zsic",
       "trailerYoutubeId": "zd3qXH9qN70",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "As an Eilean (From the Island) + Q&A",
+      "directedBy": "Mike Alexander",
+      "releaseDate": "1993-10-14",
+      "posterImage": "xasrvkmyzz5zhacjk7xrnodnplek",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Lost Children of Tuam",
+      "directedBy": "Frank Berry",
+      "releaseDate": "2026-09-25",
+      "posterImage": "lowqg7z6y9apyzuu7e4hww4jfbbg",
+      "trailerYoutubeId": "l6A7hHXcO0k",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
+  ],
+  "2026-10-12": [
+    {
+      "name": "The Lost Children of Tuam",
+      "directedBy": "Frank Berry",
+      "releaseDate": "2026-09-25",
+      "posterImage": "lowqg7z6y9apyzuu7e4hww4jfbbg",
+      "trailerYoutubeId": "l6A7hHXcO0k",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "How Deep is Your Love?",
+      "directedBy": null,
+      "releaseDate": null,
+      "posterImage": "d4dltro360z58pn1w4vhku1r0mv6",
+      "trailerYoutubeId": "DmE0lFGgXsg",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Uprising",
+      "directedBy": "Paul Greengrass",
+      "releaseDate": "2026-09-10",
+      "posterImage": "kuzdikh7go910k8yhkmnnraxo8dd",
+      "trailerYoutubeId": "ZVkrhHebz1Q",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Knife: The Attempted Murder of Salman Rushdie",
+      "directedBy": "Alex Gibney",
+      "releaseDate": "2026-10-02",
+      "posterImage": "6ctamufcrrbuomzu8xswhx2mki5j",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Lost Children of Tuam",
+      "directedBy": "Frank Berry",
+      "releaseDate": "2026-09-25",
+      "posterImage": "lowqg7z6y9apyzuu7e4hww4jfbbg",
+      "trailerYoutubeId": "l6A7hHXcO0k",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Access Film Club: Little Shop of Horrors",
+      "directedBy": "Frank Oz",
+      "releaseDate": "1986-12-19",
+      "posterImage": "vy4ymzmqe0daa00rqv3p4aoz8088",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "LFF: La Bola Negra",
+      "directedBy": "Javier Calvo, Javier Ambrossi",
+      "releaseDate": "2026-09-25",
+      "posterImage": "ahbeik2220vu2zziwxoo8fajwrjw",
+      "trailerYoutubeId": "Yn-UxPIwTsU",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Uprising",
+      "directedBy": "Paul Greengrass",
+      "releaseDate": "2026-09-10",
+      "posterImage": "kuzdikh7go910k8yhkmnnraxo8dd",
+      "trailerYoutubeId": "ZVkrhHebz1Q",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "24 Hour Party People",
+      "directedBy": "Michael Winterbottom",
+      "releaseDate": "2002-02-13",
+      "posterImage": "vtewm5i6rb7bk2uo0lqras1qp0r0",
+      "trailerYoutubeId": "yGLF5g7pYsc",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
+  ],
+  "2026-10-13": [
+    {
+      "name": "The Lost Children of Tuam",
+      "directedBy": "Frank Berry",
+      "releaseDate": "2026-09-25",
+      "posterImage": "lowqg7z6y9apyzuu7e4hww4jfbbg",
+      "trailerYoutubeId": "l6A7hHXcO0k",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "How Deep is Your Love?",
+      "directedBy": null,
+      "releaseDate": null,
+      "posterImage": "d4dltro360z58pn1w4vhku1r0mv6",
+      "trailerYoutubeId": "DmE0lFGgXsg",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Uprising",
+      "directedBy": "Paul Greengrass",
+      "releaseDate": "2026-09-10",
+      "posterImage": "kuzdikh7go910k8yhkmnnraxo8dd",
+      "trailerYoutubeId": "ZVkrhHebz1Q",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Knife: The Attempted Murder of Salman Rushdie",
+      "directedBy": "Alex Gibney",
+      "releaseDate": "2026-10-02",
+      "posterImage": "6ctamufcrrbuomzu8xswhx2mki5j",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Sailm nan Daoine (Psalms of the People) + Q&A",
+      "directedBy": "Jack Archer",
+      "releaseDate": "2026-03-01",
+      "posterImage": "xb49gl5e2mkiszfjm3uujl0glxqa",
+      "trailerYoutubeId": "qnO6hK3DCEo",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Lost Children of Tuam",
+      "directedBy": "Frank Berry",
+      "releaseDate": "2026-09-25",
+      "posterImage": "lowqg7z6y9apyzuu7e4hww4jfbbg",
+      "trailerYoutubeId": "l6A7hHXcO0k",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Uprising",
+      "directedBy": "Paul Greengrass",
+      "releaseDate": "2026-09-10",
+      "posterImage": "kuzdikh7go910k8yhkmnnraxo8dd",
+      "trailerYoutubeId": "ZVkrhHebz1Q",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "That Sinking Feeling + Introduction",
+      "directedBy": "Bill Forsyth",
+      "releaseDate": "1980-10-01",
+      "posterImage": "vbmx5us1vwujwhed9vkrszukuh8h",
+      "trailerYoutubeId": "Vo0trI_lYeY",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
+  ],
+  "2026-10-14": [
+    {
+      "name": "The Lost Children of Tuam",
+      "directedBy": "Frank Berry",
+      "releaseDate": "2026-09-25",
+      "posterImage": "lowqg7z6y9apyzuu7e4hww4jfbbg",
+      "trailerYoutubeId": "l6A7hHXcO0k",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Knife: The Attempted Murder of Salman Rushdie",
+      "directedBy": "Alex Gibney",
+      "releaseDate": "2026-10-02",
+      "posterImage": "6ctamufcrrbuomzu8xswhx2mki5j",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Lost Children of Tuam",
+      "directedBy": "Frank Berry",
+      "releaseDate": "2026-09-25",
+      "posterImage": "lowqg7z6y9apyzuu7e4hww4jfbbg",
+      "trailerYoutubeId": "l6A7hHXcO0k",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Uprising",
+      "directedBy": "Paul Greengrass",
+      "releaseDate": "2026-09-10",
+      "posterImage": "kuzdikh7go910k8yhkmnnraxo8dd",
+      "trailerYoutubeId": "ZVkrhHebz1Q",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Short Films at Craic Mòd + Q&A",
+      "directedBy": null,
+      "releaseDate": null,
+      "posterImage": "hhnvgrv3124u00u1hbegg8ci5utq",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Lost Children of Tuam",
+      "directedBy": "Frank Berry",
+      "releaseDate": "2026-09-25",
+      "posterImage": "lowqg7z6y9apyzuu7e4hww4jfbbg",
+      "trailerYoutubeId": "l6A7hHXcO0k",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Uprising",
+      "directedBy": "Paul Greengrass",
+      "releaseDate": "2026-09-10",
+      "posterImage": "kuzdikh7go910k8yhkmnnraxo8dd",
+      "trailerYoutubeId": "ZVkrhHebz1Q",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "LFF: Josephine",
+      "directedBy": "Beth de Araújo",
+      "releaseDate": "2026-10-22",
+      "posterImage": "wxsp4bjyfpvfiiifax7sahhc8osa",
+      "trailerYoutubeId": "K32NPBLpqZI",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "How Deep is Your Love?",
+      "directedBy": null,
+      "releaseDate": null,
+      "posterImage": "d4dltro360z58pn1w4vhku1r0mv6",
+      "trailerYoutubeId": "DmE0lFGgXsg",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
+  ],
+  "2026-10-15": [
+    {
+      "name": "Movie Memories: Rope",
+      "directedBy": "Alfred Hitchcock",
+      "releaseDate": "1948-02-01",
+      "posterImage": "f4uyzm3zzlz93oksq3h316i1ktqm",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Lost Children of Tuam",
+      "directedBy": "Frank Berry",
+      "releaseDate": "2026-09-25",
+      "posterImage": "lowqg7z6y9apyzuu7e4hww4jfbbg",
+      "trailerYoutubeId": "l6A7hHXcO0k",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "How Deep is Your Love?",
+      "directedBy": null,
+      "releaseDate": null,
+      "posterImage": "d4dltro360z58pn1w4vhku1r0mv6",
+      "trailerYoutubeId": "DmE0lFGgXsg",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Uprising",
+      "directedBy": "Paul Greengrass",
+      "releaseDate": "2026-09-10",
+      "posterImage": "kuzdikh7go910k8yhkmnnraxo8dd",
+      "trailerYoutubeId": "ZVkrhHebz1Q",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Lost Children of Tuam",
+      "directedBy": "Frank Berry",
+      "releaseDate": "2026-09-25",
+      "posterImage": "lowqg7z6y9apyzuu7e4hww4jfbbg",
+      "trailerYoutubeId": "l6A7hHXcO0k",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "24 Hour Party People",
+      "directedBy": "Michael Winterbottom",
+      "releaseDate": "2002-02-13",
+      "posterImage": "vtewm5i6rb7bk2uo0lqras1qp0r0",
+      "trailerYoutubeId": "yGLF5g7pYsc",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Uprising",
+      "directedBy": "Paul Greengrass",
+      "releaseDate": "2026-09-10",
+      "posterImage": "kuzdikh7go910k8yhkmnnraxo8dd",
+      "trailerYoutubeId": "ZVkrhHebz1Q",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "LFF: Fatherland",
+      "directedBy": "Paweł Pawlikowski",
+      "releaseDate": "2026-06-19",
+      "posterImage": "g8vk2ml2nqtfmo48hxjz5nz7m7ad",
+      "trailerYoutubeId": "-I2-X9v-ogs",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Pressure + Short + Q&A",
+      "directedBy": "Horace Ové",
+      "releaseDate": "2023-11-03",
+      "posterImage": "a49j60zn7fs7307egzpsgd9mjjl5",
+      "trailerYoutubeId": "Y6n8055O878",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Digger",
+      "directedBy": "Alejandro G. Iñárritu",
+      "releaseDate": "2026-09-30",
+      "posterImage": "c9gym78lx4suc97cne5js96cfjax",
+      "trailerYoutubeId": "SdaTRvmndu8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Lost Children of Tuam",
+      "directedBy": "Frank Berry",
+      "releaseDate": "2026-09-25",
+      "posterImage": "lowqg7z6y9apyzuu7e4hww4jfbbg",
+      "trailerYoutubeId": "l6A7hHXcO0k",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
+  ],
+  "2026-10-16": [
+    {
+      "name": "The Social Reckoning",
+      "directedBy": "Aaron Sorkin",
+      "releaseDate": "2026-10-07",
+      "posterImage": "83qz3piqxs1teqgtpjsas384rbl5",
+      "trailerYoutubeId": "gM4LkaXwGuY",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Case 137",
+      "directedBy": "Dominik Moll",
+      "releaseDate": "2025-11-19",
+      "posterImage": "bqwm5e96tqulnckooq9bmi4dmwn6",
+      "trailerYoutubeId": "pK_AIuCQ4qk",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Lost Children of Tuam",
+      "directedBy": "Frank Berry",
+      "releaseDate": "2026-09-25",
+      "posterImage": "lowqg7z6y9apyzuu7e4hww4jfbbg",
+      "trailerYoutubeId": "l6A7hHXcO0k",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Arrietty",
+      "directedBy": "Hiromasa Yonebayashi",
+      "releaseDate": "2010-07-16",
+      "posterImage": "ga8a3vnjr9m8116d8ip12cy8qgq6",
+      "trailerYoutubeId": "S75QfDA3rDA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Steal This Story, Please!",
+      "directedBy": "Tia Lessin, Carl Deal",
+      "releaseDate": "2026-04-10",
+      "posterImage": "2olgd2v1gy6lu2m50fijj5o94lkn",
+      "trailerYoutubeId": "pw_exz_Jjxw",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Social Reckoning",
+      "directedBy": "Aaron Sorkin",
+      "releaseDate": "2026-10-07",
+      "posterImage": "83qz3piqxs1teqgtpjsas384rbl5",
+      "trailerYoutubeId": "gM4LkaXwGuY",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Case 137",
+      "directedBy": "Dominik Moll",
+      "releaseDate": "2025-11-19",
+      "posterImage": "bqwm5e96tqulnckooq9bmi4dmwn6",
+      "trailerYoutubeId": "pK_AIuCQ4qk",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "LFF: Ink",
+      "directedBy": "Danny Boyle",
+      "releaseDate": "2026-12-11",
+      "posterImage": "nl0oxefjvxd5hg1u6q3ekofloeqg",
+      "trailerYoutubeId": "BROAzK8oP9U",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Social Reckoning",
+      "directedBy": "Aaron Sorkin",
+      "releaseDate": "2026-10-07",
+      "posterImage": "83qz3piqxs1teqgtpjsas384rbl5",
+      "trailerYoutubeId": "gM4LkaXwGuY",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Lost Children of Tuam",
+      "directedBy": "Frank Berry",
+      "releaseDate": "2026-09-25",
+      "posterImage": "lowqg7z6y9apyzuu7e4hww4jfbbg",
+      "trailerYoutubeId": "l6A7hHXcO0k",
       "tmdbId": null,
       "letterboxdSlug": null,
       "letterboxdId": null,
