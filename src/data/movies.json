@@ -151508,5 +151508,117 @@
       "letterboxdId": null,
       "letterboxdUrl": null
     }
+  ],
+  "2026-11-21": [
+    {
+      "name": "Take 2: Nina and the Hedgehog's Secret",
+      "directedBy": "Alain Gagnol, Jean-Loup Felicioli",
+      "releaseDate": "2023-10-11",
+      "posterImage": "fx729ep2768bkm8f85ivzi87dodc",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Fjord",
+      "directedBy": "Cristian Mungiu",
+      "releaseDate": "2026-06-13",
+      "posterImage": "fkflgm69n7fzvabjpvq9azsvh051",
+      "trailerYoutubeId": "frg59VOungA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "You Can See Everything",
+      "directedBy": "Lance Oppenheim, Nathan Fielder",
+      "releaseDate": "2026-10-16",
+      "posterImage": "xxr7vraqdnoaw0ggxj6tl57gxcy8",
+      "trailerYoutubeId": "HvW_N5p1q44",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Short Cuts - 35mm",
+      "directedBy": "Robert Altman",
+      "releaseDate": "1993-10-01",
+      "posterImage": "uccz294w0latf35fltq2qkuil0ep",
+      "trailerYoutubeId": "HLfYHPSBCto",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "American Doctor",
+      "directedBy": "Poh Si Teng",
+      "releaseDate": "2026-08-14",
+      "posterImage": "8bxc8t3n20wefmbz1ecme7d5tpw6",
+      "trailerYoutubeId": "iHepAlk0r2M",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "FFF: The Money Maker + Q&A",
+      "directedBy": "Jean-Paul Salomé",
+      "releaseDate": "2026-01-12",
+      "posterImage": "f6mw8t51xqjpmyqg9na512jcw1yq",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Fjord",
+      "directedBy": "Cristian Mungiu",
+      "releaseDate": "2026-06-13",
+      "posterImage": "fkflgm69n7fzvabjpvq9azsvh051",
+      "trailerYoutubeId": "frg59VOungA",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "You Can See Everything",
+      "directedBy": "Lance Oppenheim, Nathan Fielder",
+      "releaseDate": "2026-10-16",
+      "posterImage": "xxr7vraqdnoaw0ggxj6tl57gxcy8",
+      "trailerYoutubeId": "HvW_N5p1q44",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "Josephine",
+      "directedBy": "Beth de Araújo",
+      "releaseDate": "2026-10-22",
+      "posterImage": "wxsp4bjyfpvfiiifax7sahhc8osa",
+      "trailerYoutubeId": "K32NPBLpqZI",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "American Doctor",
+      "directedBy": "Poh Si Teng",
+      "releaseDate": "2026-08-14",
+      "posterImage": "8bxc8t3n20wefmbz1ecme7d5tpw6",
+      "trailerYoutubeId": "iHepAlk0r2M",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    }
   ]
 }
