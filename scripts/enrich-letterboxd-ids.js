@@ -117,7 +117,11 @@ Environment:
     const key = filmKey(film);
     const existing = cache.films[key];
 
-    if (existing && isResolved(existing)) {
+    if (
+      (existing && isResolved(existing)) ||
+      film.letterboxdUrl ||
+      film.letterboxdSlug
+    ) {
       skipped += 1;
       continue;
     }

@@ -62,11 +62,11 @@ const Calendar = ({ selectedDate, setSelectedDate }) => {
                 backgroundColor: "transparent",
               },
             "& .MuiPickersDay-root.Mui-selected": {
-              backgroundColor: "black !important",
+              backgroundColor: "transparent !important",
               color: "white",
               transition: "none",
               "&:hover, &:focus": {
-                backgroundColor: "black !important",
+                backgroundColor: "transparent !important",
               },
             },
           }}

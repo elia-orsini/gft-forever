@@ -10,35 +10,44 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           ref: main
 
-      - name: yarn
-        working-directory: ./
-        run: |
-          yarn --no-package-lock
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: yarn
 
-      - name: scrape films
-        working-directory: ./
-        run: |
-          npx ts-node src/lib/gft-screenings-request.js
+      - name: Install dependencies
+        run: yarn --frozen-lockfile || yarn --no-package-lock
+
+      - name: Scrape films
+        run: yarn scrape-films
+
+      - name: Enrich Letterboxd IDs
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: yarn enrich-letterboxd --apply --delay=400
+
+      - name: Enrich Letterboxd ratings
+        run: yarn enrich-letterboxd-stats --apply --delay=400
 
       - name: Check for changes
         id: check_changes
         run: |
-          changes=$(git status --porcelain)
-          if [ -n "$changes" ]; then
-            echo "::set-output name=changed::true"
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           else
-            echo "::set-output name=changed::false"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: commit changes if any
+      - name: Commit changes if any
         if: steps.check_changes.outputs.changed == 'true'
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add .
-          git commit -m 'github-bot: scrape films'
+          git add src/data/movies.json
+          git commit -m "github-bot: scrape films and enrich letterboxd"
           git push

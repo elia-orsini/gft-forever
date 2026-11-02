@@ -16,8 +16,10 @@ function DayLogo(props: PickersDayProps<Dayjs>) {
       outsideCurrentMonth={outsideCurrentMonth}
       day={day}
       selected={selected}
-      className={[className, isFilmDay && "has-films"].filter(Boolean).join(" ")}
-      disableRipple={isFilmDay}
+      className={[className, isFilmDay && "has-films"]
+        .filter(Boolean)
+        .join(" ")}
+      disableRipple={isFilmDay || selected}
       sx={[
         {
           width: 40,
@@ -25,27 +27,36 @@ function DayLogo(props: PickersDayProps<Dayjs>) {
           margin: 0,
           transition: "none",
         },
-        isFilmDay && {
-          overflow: "visible",
+        selected && {
+          color: "#fff !important",
+          backgroundColor: "transparent !important",
+          backgroundImage:
+            "radial-gradient(circle 16px at center, #000 99%, transparent 100%) !important",
           "&:hover, &:focus": {
-            backgroundColor: selected ? "black" : "transparent",
-          },
-          "&::before": {
-            content: '""',
-            position: "absolute",
-            inset: 4,
-            backgroundImage: "url(/circle.png)",
-            backgroundSize: "contain",
-            backgroundPosition: "center",
-            backgroundRepeat: "no-repeat",
-            pointerEvents: "none",
-            opacity: selected ? 0 : 1,
-            transition: "none",
+            backgroundColor: "transparent !important",
+            backgroundImage:
+              "radial-gradient(circle 16px at center, #000 99%, transparent 100%) !important",
           },
         },
+        isFilmDay &&
+          !selected && {
+            overflow: "visible",
+            backgroundColor: "transparent !important",
+            backgroundImage: "url(/circle.png)",
+            backgroundSize: "32px 32px",
+            backgroundPosition: "center",
+            backgroundRepeat: "no-repeat",
+            "&:hover, &:focus": {
+              backgroundColor: "transparent !important",
+            },
+          },
         ...(Array.isArray(sx) ? sx : sx ? [sx] : []),
       ]}
-    />
+    >
+      <span style={{ position: "relative", zIndex: 1, color: "inherit" }}>
+        {day.date()}
+      </span>
+    </PickersDay>
   );
 }
 

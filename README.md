@@ -48,30 +48,37 @@ Open [http://localhost:3000](http://localhost:3000).
 
 Create a `.env` file in the project root (gitignored). Scripts load it automatically.
 
-| Variable | Required for | Description |
-|---|---|---|
-| `TMDB_API_KEY` | `enrich-letterboxd` | [TMDB API key](https://www.themoviedb.org/settings/api). Improves matching for films missing `tmdbId`. |
-| `TMDB_API_IP` | `enrich-letterboxd` | Force `api.themoviedb.org` to a known CloudFront IP when DNS is poisoned. |
-| `TMDB_API_BASE_URL` | `enrich-letterboxd` | Alternate TMDB API base URL (e.g. a reverse proxy). |
+| Variable            | Required for        | Description                                                                                            |
+| ------------------- | ------------------- | ------------------------------------------------------------------------------------------------------ |
+| `TMDB_API_KEY`      | `enrich-letterboxd` | [TMDB API key](https://www.themoviedb.org/settings/api). Improves matching for films missing `tmdbId`. |
+| `TMDB_API_IP`       | `enrich-letterboxd` | Force `api.themoviedb.org` to a known CloudFront IP when DNS is poisoned.                              |
+| `TMDB_API_BASE_URL` | `enrich-letterboxd` | Alternate TMDB API base URL (e.g. a reverse proxy).                                                    |
 
 ## Scripts
 
 ### App
 
-| Command | Description |
-|---|---|
-| `yarn dev` | Start the development server. |
-| `yarn build` | Production build. |
-| `yarn start` | Serve the production build. |
-| `yarn lint` | Run ESLint. |
+| Command      | Description                   |
+| ------------ | ----------------------------- |
+| `yarn dev`   | Start the development server. |
+| `yarn build` | Production build.             |
+| `yarn start` | Serve the production build.   |
+| `yarn lint`  | Run ESLint.                   |
 
 ### Data pipeline
 
-| Command | Description |
-|---|---|
+| Command             | Description                                                                                                                                        |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `yarn scrape-films` | Fetch screenings from GFT for a rolling ±20 day window and merge into `movies.json`. Also pulls Letterboxd ratings/URLs for films with a `tmdbId`. |
 
-The scrape runs automatically every 5 days via GitHub Actions (`.github/workflows/scrape-films.yml`).
+The scrape runs automatically every 5 days via GitHub Actions (`.github/workflows/scrape-films.yml`). Each run:
+
+1. Scrapes GFT listings (±20 days)
+2. Resolves Letterboxd IDs/URLs (`enrich-letterboxd --apply`)
+3. Fills missing Letterboxd ratings (`enrich-letterboxd-stats --apply`)
+4. Commits `movies.json` if anything changed
+
+Optional repo secret: `TMDB_API_KEY` — improves matching for films missing `tmdbId`.
 
 ### Letterboxd enrichment
 
@@ -87,12 +94,12 @@ Resolves Letterboxd metadata for each unique film and writes results to `src/dat
 
 **Options:**
 
-| Flag | Description |
-|---|---|
-| `--apply` | Merge resolved IDs into `src/data/movies.json` (adds `letterboxdSlug`, `letterboxdId`, `letterboxdUrl` fields). |
-| `--dry-run` | Resolve films but don't write any files. |
-| `--limit=N` | Process only the first N unresolved films (useful for testing). |
-| `--delay=MS` | Delay between network requests in milliseconds (default: 500). |
+| Flag         | Description                                                                                                     |
+| ------------ | --------------------------------------------------------------------------------------------------------------- |
+| `--apply`    | Merge resolved IDs into `src/data/movies.json` (adds `letterboxdSlug`, `letterboxdId`, `letterboxdUrl` fields). |
+| `--dry-run`  | Resolve films but don't write any files.                                                                        |
+| `--limit=N`  | Process only the first N unresolved films (useful for testing).                                                 |
+| `--delay=MS` | Delay between network requests in milliseconds (default: 500).                                                  |
 
 **Examples:**
 
@@ -125,10 +132,10 @@ Generates a Letterboxd-importable CSV ordered by **first GFT screening date** (o
 
 **Output files** (gitignored):
 
-| File | Description |
-|---|---|
-| `src/data/gft-screenings-letterboxd-list.csv` | Import this into Letterboxd. |
-| `src/data/letterboxd-list-export.txt` | Human-readable list with dates and URLs. |
+| File                                          | Description                              |
+| --------------------------------------------- | ---------------------------------------- |
+| `src/data/gft-screenings-letterboxd-list.csv` | Import this into Letterboxd.             |
+| `src/data/letterboxd-list-export.txt`         | Human-readable list with dates and URLs. |
 
 **CSV columns:** `LetterboxdURI`, `tmdbID`, `Title`, `Year`, `Directors`, `Review` (screening date notes).
 
@@ -140,8 +147,8 @@ Generates a Letterboxd-importable CSV ordered by **first GFT screening date** (o
 
 **Options:**
 
-| Flag | Description |
-|---|---|
+| Flag        | Description                         |
+| ----------- | ----------------------------------- |
 | `--dry-run` | Print counts without writing files. |
 
 **Examples:**

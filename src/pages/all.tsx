@@ -32,37 +32,30 @@ const AllFilmsPage: React.FC<AllFilmsPageProps> = ({ films }) => {
       <MetaHead />
 
       <div className="flex flex-1 flex-col w-full px-4 mx-auto">
-        <Header />
-
         <div className="md:mx-10 mb-8">
-          <div className="mb-4 flex flex-col gap-3">
-            <p className="text-xs uppercase tracking-widest">
-              all films ({visibleFilms.length}
-              {visibleFilms.length !== films.length ? ` / ${films.length}` : ""})
-            </p>
+          <Header />
 
-            <div className="flex flex-col gap-3 sm:flex-row sm:flex-wrap sm:items-center sm:justify-end">
-              <Dropdown
-                label="sort by"
-                value={sortOrder}
-                options={FILM_SORT_OPTIONS}
-                onChange={setSortOrder}
-              />
+          <div className="mb-4 flex flex-col gap-3 sm:flex-row sm:flex-wrap sm:items-center sm:justify-end">
+            <Dropdown
+              label="sort by"
+              value={sortOrder}
+              options={FILM_SORT_OPTIONS}
+              onChange={setSortOrder}
+            />
 
-              <Dropdown
-                label="minimum stars"
-                value={minStars}
-                options={STAR_FILTER_OPTIONS}
-                onChange={setMinStars}
-              />
+            <Dropdown
+              label="minimum stars"
+              value={minStars}
+              options={STAR_FILTER_OPTIONS}
+              onChange={setMinStars}
+            />
 
-              <Dropdown
-                label="maximum stars"
-                value={maxStars}
-                options={STAR_FILTER_OPTIONS}
-                onChange={setMaxStars}
-              />
-            </div>
+            <Dropdown
+              label="maximum stars"
+              value={maxStars}
+              options={STAR_FILTER_OPTIONS}
+              onChange={setMaxStars}
+            />
           </div>
 
           <ul>
@@ -88,7 +81,9 @@ const AllFilmsPage: React.FC<AllFilmsPageProps> = ({ films }) => {
                 <span className="w-10 shrink-0 text-right tabular-nums">
                   {film.rating ?? "-"}
                 </span>
-                <span className="w-10 shrink-0 text-right">{film.year ?? "-"}</span>
+                <span className="w-10 shrink-0 text-right">
+                  {film.year ?? "-"}
+                </span>
               </li>
             ))}
           </ul>

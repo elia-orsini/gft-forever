@@ -1,4 +1,5 @@
 const axios = require("axios");
+const cheerio = require("cheerio");
 const dns = require("dns");
 const https = require("https");
 
@@ -32,9 +33,14 @@ function isTmdbNetworkError(error) {
   const message = error?.message || "";
 
   return (
-    ["ETIMEDOUT", "ECONNREFUSED", "ECONNRESET", "ENOTFOUND", "EAI_AGAIN", "ECONNABORTED"].includes(
-      error?.code
-    ) ||
+    [
+      "ETIMEDOUT",
+      "ECONNREFUSED",
+      "ECONNRESET",
+      "ENOTFOUND",
+      "EAI_AGAIN",
+      "ECONNABORTED",
+    ].includes(error?.code) ||
     message.includes("certificate") ||
     message.includes("altnames") ||
     message.includes("TLS connection was established")
@@ -45,7 +51,11 @@ function createTmdbHttpsAgent(ip) {
   return new https.Agent({
     lookup: (hostname, options, callback) => {
       if (hostname === TMDB_HOST && ip) {
-        callback(null, ip, 4);
+        if (options && options.all) {
+          callback(null, [{ address: ip, family: 4 }]);
+        } else {
+          callback(null, ip, 4);
+        }
         return;
       }
 
@@ -91,7 +101,9 @@ async function ensureTmdbConnectivity() {
   } catch (error) {
     if (!isTmdbNetworkError(error)) throw error;
     console.warn(
-      `TMDB DNS lookup failed (${error.code || error.message}), trying fallback IPs...`
+      `TMDB DNS lookup failed (${
+        error.code || error.message
+      }), trying fallback IPs...`
     );
   }
 
@@ -267,8 +279,7 @@ async function searchTmdb(title, year, director, apiKey) {
     if (
       directors.some(
         (name) =>
-          name.includes(normalizedDirector) ||
-          normalizedDirector.includes(name)
+          name.includes(normalizedDirector) || normalizedDirector.includes(name)
       )
     ) {
       return result;
@@ -359,6 +370,58 @@ function isResolved(resolvedFilm) {
   );
 }
 
+function extractYearFromLetterboxdPage(html, letterboxdUrl) {
+  const $ = cheerio.load(html);
+  const ogTitle = $('meta[property="og:title"]').attr("content");
+  const titleYearMatch = ogTitle?.match(/\((\d{4})\)/);
+  if (titleYearMatch) return titleYearMatch[1];
+
+  const releasedMatch = html.match(/Released[^0-9]*(\d{4})/i);
+  if (releasedMatch) return releasedMatch[1];
+
+  const slugMatch = letterboxdUrl.match(/\/film\/([^/]+)\/?$/);
+  const slugYearMatch = slugMatch?.[1]?.match(/-(\d{4})$/);
+  if (slugYearMatch) return slugYearMatch[1];
+
+  return null;
+}
+
+function parseLetterboxdFilmPage(html, letterboxdUrl) {
+  const $ = cheerio.load(html);
+  const jsonLdScript = $('script[type="application/ld+json"]').html();
+  if (!jsonLdScript) return null;
+
+  const jsonData = JSON.parse(jsonLdScript.split(/\n/g)[2]);
+  const year = extractYearFromLetterboxdPage(html, letterboxdUrl);
+
+  return {
+    title: jsonData.name || null,
+    rating: jsonData.aggregateRating?.ratingValue ?? null,
+    releaseDate: year ? `${year}-01-01` : null,
+  };
+}
+
+async function fetchLetterboxdStats(letterboxdUrl) {
+  const response = await axios.get(letterboxdUrl, {
+    maxRedirects: 5,
+    timeout: REQUEST_TIMEOUT_MS,
+    headers: { "User-Agent": USER_AGENT },
+  });
+
+  const finalUrl =
+    response.request?.res?.responseUrl ||
+    response.request?.responseURL ||
+    letterboxdUrl;
+
+  return parseLetterboxdFilmPage(response.data, finalUrl);
+}
+
+function needsLetterboxdStats(film) {
+  if (!film.letterboxdUrl) return false;
+
+  return !film.releaseDate || film.rating === undefined || film.rating === null;
+}
+
 module.exports = {
   parseFilmName,
   filmKey,
@@ -370,6 +433,10 @@ module.exports = {
   resolveLetterboxdLidFromSlug,
   resolveFilm,
   isResolved,
+  extractYearFromLetterboxdPage,
+  parseLetterboxdFilmPage,
+  fetchLetterboxdStats,
+  needsLetterboxdStats,
   ensureTmdbConnectivity,
   checkTmdbConnectivity,
   wait,

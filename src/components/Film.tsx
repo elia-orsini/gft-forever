@@ -9,7 +9,6 @@ const Film: React.FC<{
   title: string;
   director: string;
   release: string;
-  trailerYoutubeId: string;
   rating: number;
   tmdb: string;
   letterboxdUrl?: string | null;
@@ -18,7 +17,6 @@ const Film: React.FC<{
   title,
   director,
   release,
-  trailerYoutubeId,
   rating,
   tmdb,
   letterboxdUrl,
@@ -65,18 +63,6 @@ const Film: React.FC<{
         text={`${director}`}
         uid={`director_${title}`}
       />
-
-      {trailerYoutubeId && (
-        <div className="flex flex-row justify-end text-2xs">
-          <a
-            href={`https://www.youtube.com/watch?v=${trailerYoutubeId}`}
-            target="_blank"
-            className="underline"
-          >
-            YOUTUBE
-          </a>
-        </div>
-      )}
     </div>
   );
 };

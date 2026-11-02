@@ -30,7 +30,6 @@ const FilmContainer: React.FC<{
             title={parseFilmName(film.name)}
             director={film.directedBy}
             release={film.releaseDate}
-            trailerYoutubeId={film.trailerYoutubeId}
             tmdb={film.tmdbId}
             rating={film.rating}
             letterboxdUrl={film.letterboxdUrl}

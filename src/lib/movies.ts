@@ -50,6 +50,10 @@ export function getCalendarMeta(): CalendarMeta {
   };
 }
 
+export function getTotalFilmCount(): number {
+  return getAllFilms().length;
+}
+
 export function getAllFilms(): FilmListItem[] {
   const films: FilmListItem[] = [];
 
