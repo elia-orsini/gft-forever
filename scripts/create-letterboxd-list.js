@@ -20,6 +20,10 @@ const EXPORT_CSV_PATH = path.join(
   __dirname,
   "../src/data/gft-screenings-letterboxd-list.csv"
 );
+const IMPORT_CSV_PATH = path.join(
+  __dirname,
+  "../src/data/letterboxd-list-import.csv"
+);
 
 function parseArgs(argv) {
   return {
@@ -90,7 +94,7 @@ function csvEscape(value) {
 
   const str = String(value);
   if (/[",\n]/.test(str)) {
-    return `"${str.replace(/"/g, '\\"')}"`;
+    return `"${str.replace(/"/g, '""')}"`;
   }
 
   return str;
@@ -130,6 +134,21 @@ function dedupeFilmsForExport(films) {
   return deduped;
 }
 
+function filmYear(film) {
+  if (!film.releaseDate) return "";
+  const year = new Date(film.releaseDate).getFullYear();
+  return Number.isFinite(year) ? year : "";
+}
+
+function filmTmdbId(film) {
+  if (film.tmdbId) return String(film.tmdbId);
+
+  const tmdbUrlMatch = String(film.letterboxdUrl || "").match(
+    /letterboxd\.com\/tmdb\/(\d+)/
+  );
+  return tmdbUrlMatch ? tmdbUrlMatch[1] : "";
+}
+
 function exportCsv(films) {
   const headers = [
     "LetterboxdURI",
@@ -143,11 +162,10 @@ function exportCsv(films) {
   const rows = [];
 
   for (const film of films) {
-    const title = parseFilmName(film.name);
-    const year = film.releaseDate
-      ? new Date(film.releaseDate).getFullYear()
-      : "";
+    const title = film.name;
+    const year = filmYear(film);
     const uri = toLetterboxdUri(film);
+    const tmdbId = filmTmdbId(film);
     const note =
       film.firstScreeningDate === film.lastScreeningDate
         ? `GFT screening: ${film.firstScreeningDate}`
@@ -157,7 +175,7 @@ function exportCsv(films) {
       firstScreeningDate: film.firstScreeningDate,
       line: [
         csvEscape(uri),
-        csvEscape(film.tmdbId || ""),
+        csvEscape(tmdbId),
         csvEscape(title),
         csvEscape(year),
         csvEscape(film.directedBy || ""),
@@ -173,6 +191,36 @@ function exportCsv(films) {
     .join("\n")}\n`;
   fs.writeFileSync(EXPORT_CSV_PATH, csv, "utf8");
   console.log(`Exported ${rows.length} films to ${EXPORT_CSV_PATH}`);
+}
+
+function exportImportCsv(films) {
+  const headers = ["Title", "Year", "Letterboxd URI", "tmdbID"];
+  const rows = films
+    .map((film) => ({
+      title: film.name,
+      year: filmYear(film),
+      uri: toLetterboxdUri(film),
+      tmdbId: filmTmdbId(film),
+    }))
+    .sort((a, b) => a.title.localeCompare(b.title, "en", { sensitivity: "base" }));
+
+  const csv = `${headers.join(",")}\n${rows
+    .map((row) =>
+      [
+        csvEscape(row.title),
+        csvEscape(row.year),
+        csvEscape(row.uri),
+        csvEscape(row.tmdbId),
+      ].join(",")
+    )
+    .join("\n")}\n`;
+
+  fs.writeFileSync(IMPORT_CSV_PATH, csv, "utf8");
+
+  const withTmdb = rows.filter((row) => row.tmdbId).length;
+  console.log(
+    `Exported ${rows.length} films to ${IMPORT_CSV_PATH} (${withTmdb} with tmdbID)`
+  );
 }
 
 function exportList(films) {
@@ -210,12 +258,14 @@ Options:
 
 Output:
   src/data/gft-screenings-letterboxd-list.csv
+  src/data/letterboxd-list-import.csv
   src/data/letterboxd-list-export.txt
 
 Import on Letterboxd:
   1. Run: yarn create-letterboxd-list
   2. Lists → New list → Import
   3. Upload src/data/gft-screenings-letterboxd-list.csv
+     (or letterboxd-list-import.csv — Title/Year/URI/tmdbID)
 
 Before running (optional, improves matching):
   yarn enrich-letterboxd --apply
@@ -235,6 +285,7 @@ Before running (optional, improves matching):
   }
 
   exportCsv(dedupedFilms);
+  exportImportCsv(dedupedFilms);
   exportList(dedupedFilms);
 
   if (unresolved.length) {
