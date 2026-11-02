@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
-    <div className="tracking-widest w-11/12 flex flex-row justify-between text-left uppercase mx-4 sm:mx-auto mt-6 mb-4">
-      <div className="text-2xs my-auto">
+    <div className="tracking-widest w-full px-4 mx-auto mt-6 mb-4 text-left uppercase">
+      <div className="lg:mx-10 text-2xs">
         <p>
           made by{" "}
           <a

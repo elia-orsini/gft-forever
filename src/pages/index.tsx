@@ -47,7 +47,7 @@ const Add: React.FC = () => {
           <Header />
 
           <div className="flex flex-col sm:flex-row lg:space-x-10">
-            <div className="w-max shrink-0">
+            <div className="mx-auto w-max shrink-0 sm:mx-0">
               <Calendar
                 selectedDate={selectedDate}
                 setSelectedDate={setSelectedDate}

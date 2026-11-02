@@ -42,9 +42,23 @@ const Calendar = ({ selectedDate, setSelectedDate }) => {
             day: DayLogo,
           }}
           sx={{
+            width: 280,
             height: "auto",
             maxHeight: "none",
             overflowX: "hidden",
+            "& .MuiPickersCalendarHeader-root": {
+              paddingLeft: 0,
+              paddingRight: 0,
+              marginTop: 0,
+            },
+            "& .MuiDayCalendar-header, & .MuiDayCalendar-weekContainer": {
+              justifyContent: "flex-start",
+            },
+            "& .MuiDayCalendar-weekDayLabel": {
+              width: 40,
+              height: 40,
+              margin: 0,
+            },
             "& .MuiDayCalendar-slideTransition": {
               minHeight: 264,
             },
