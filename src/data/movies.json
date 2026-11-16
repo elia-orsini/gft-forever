@@ -157603,7 +157603,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/6/2/0/2/0/6/1620206-naza-0-600-0-900-crop.jpg?v=c34667d5c5",
       "trailerYoutubeId": "G6zx7XfbUVk",
       "tmdbId": "1755291",
-      "rating": 4.55,
+      "rating": 4.54,
       "letterboxdSlug": "naza",
       "letterboxdId": "1620206",
       "letterboxdUrl": "https://letterboxd.com/film/naza/"
@@ -157758,7 +157758,7 @@
       "posterImage": "https://a.ltrbxd.com/resized/film-poster/1/6/2/0/2/0/6/1620206-naza-0-600-0-900-crop.jpg?v=c34667d5c5",
       "trailerYoutubeId": "G6zx7XfbUVk",
       "tmdbId": "1755291",
-      "rating": 4.55,
+      "rating": 4.54,
       "letterboxdSlug": "naza",
       "letterboxdId": "1620206",
       "letterboxdUrl": "https://letterboxd.com/film/naza/"
@@ -160677,18 +160677,6 @@
       "letterboxdLid": null
     },
     {
-      "name": "Fjord",
-      "directedBy": "Cristian Mungiu",
-      "releaseDate": "2026-06-13",
-      "posterImage": "fkflgm69n7fzvabjpvq9azsvh051",
-      "trailerYoutubeId": "frg59VOungA",
-      "tmdbId": null,
-      "letterboxdSlug": null,
-      "letterboxdId": null,
-      "letterboxdUrl": null,
-      "letterboxdLid": null
-    },
-    {
       "name": "You Can See Everything",
       "directedBy": "Lance Oppenheim, Nathan Fielder",
       "releaseDate": "2026-10-16",
@@ -161165,18 +161153,6 @@
       "letterboxdLid": null
     },
     {
-      "name": "Fjord",
-      "directedBy": "Cristian Mungiu",
-      "releaseDate": "2026-06-13",
-      "posterImage": "fkflgm69n7fzvabjpvq9azsvh051",
-      "trailerYoutubeId": "frg59VOungA",
-      "tmdbId": null,
-      "letterboxdSlug": null,
-      "letterboxdId": null,
-      "letterboxdUrl": null,
-      "letterboxdLid": null
-    },
-    {
       "name": "American Doctor",
       "directedBy": "Poh Si Teng",
       "releaseDate": "2026-08-14",
@@ -161208,18 +161184,6 @@
       "releaseDate": "2026-08-14",
       "posterImage": "8bxc8t3n20wefmbz1ecme7d5tpw6",
       "trailerYoutubeId": "iHepAlk0r2M",
-      "tmdbId": null,
-      "letterboxdSlug": null,
-      "letterboxdId": null,
-      "letterboxdUrl": null,
-      "letterboxdLid": null
-    },
-    {
-      "name": "Fjord",
-      "directedBy": "Cristian Mungiu",
-      "releaseDate": "2026-06-13",
-      "posterImage": "fkflgm69n7fzvabjpvq9azsvh051",
-      "trailerYoutubeId": "frg59VOungA",
       "tmdbId": null,
       "letterboxdSlug": null,
       "letterboxdId": null,
@@ -161913,6 +161877,304 @@
       "directedBy": "Rudi Rosenberg",
       "releaseDate": "2026-10-28",
       "posterImage": "j5cn7qhpx047sp3fa243g8hkd0id",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null,
+      "letterboxdLid": null
+    }
+  ],
+  "2026-12-02": [
+    {
+      "name": "Peter Asher: Everywhere Man",
+      "directedBy": "Daniel Geller, Dayna Goldfine",
+      "releaseDate": "2026-06-19",
+      "posterImage": "mhhk47r061b5dfzqvyf05xib93hp",
+      "trailerYoutubeId": "4uFt8bABoZY",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null,
+      "letterboxdLid": null
+    },
+    {
+      "name": "Your Mother Your Mother Your Mother",
+      "directedBy": "Bassam Tariq",
+      "releaseDate": "2026-09-25",
+      "posterImage": "xx1781m1e8b1cwl6buzzog81mz83",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null,
+      "letterboxdLid": null
+    },
+    {
+      "name": "You Can See Everything",
+      "directedBy": "Lance Oppenheim, Nathan Fielder",
+      "releaseDate": "2026-10-16",
+      "posterImage": "xxr7vraqdnoaw0ggxj6tl57gxcy8",
+      "trailerYoutubeId": "HvW_N5p1q44",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null,
+      "letterboxdLid": null
+    },
+    {
+      "name": "The World of Love",
+      "directedBy": "Yoon Ga-eun",
+      "releaseDate": "2025-10-22",
+      "posterImage": "vcl706rcjcomhp9b4ntehhwb4slw",
+      "trailerYoutubeId": "dOSPuuJQRw0",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null,
+      "letterboxdLid": null
+    },
+    {
+      "name": "Minotaur",
+      "directedBy": "Andrey Zvyagintsev",
+      "releaseDate": "2026-10-14",
+      "posterImage": "5z1wgmdblu6wt5qakrnsig5jtj9v",
+      "trailerYoutubeId": "hTHeFP0mcuk",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null,
+      "letterboxdLid": null
+    },
+    {
+      "name": "You Can See Everything",
+      "directedBy": "Lance Oppenheim, Nathan Fielder",
+      "releaseDate": "2026-10-16",
+      "posterImage": "xxr7vraqdnoaw0ggxj6tl57gxcy8",
+      "trailerYoutubeId": "HvW_N5p1q44",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null,
+      "letterboxdLid": null
+    },
+    {
+      "name": "Your Mother Your Mother Your Mother",
+      "directedBy": "Bassam Tariq",
+      "releaseDate": "2026-09-25",
+      "posterImage": "xx1781m1e8b1cwl6buzzog81mz83",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null,
+      "letterboxdLid": null
+    },
+    {
+      "name": "Minotaur",
+      "directedBy": "Andrey Zvyagintsev",
+      "releaseDate": "2026-10-14",
+      "posterImage": "5z1wgmdblu6wt5qakrnsig5jtj9v",
+      "trailerYoutubeId": "hTHeFP0mcuk",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null,
+      "letterboxdLid": null
+    },
+    {
+      "name": "FFF: Jim Queen",
+      "directedBy": "Nicolas Athané, Marco Nguyen",
+      "releaseDate": "2026-06-17",
+      "posterImage": "oktsdi4idwqm40o9yw5cbserwwd3",
+      "trailerYoutubeId": "CHof1Bc8oeM",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null,
+      "letterboxdLid": null
+    }
+  ],
+  "2026-12-03": [
+    {
+      "name": "Your Mother Your Mother Your Mother",
+      "directedBy": "Bassam Tariq",
+      "releaseDate": "2026-09-25",
+      "posterImage": "xx1781m1e8b1cwl6buzzog81mz83",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null,
+      "letterboxdLid": null
+    },
+    {
+      "name": "The World of Love",
+      "directedBy": "Yoon Ga-eun",
+      "releaseDate": "2025-10-22",
+      "posterImage": "vcl706rcjcomhp9b4ntehhwb4slw",
+      "trailerYoutubeId": "dOSPuuJQRw0",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null,
+      "letterboxdLid": null
+    },
+    {
+      "name": "You Can See Everything",
+      "directedBy": "Lance Oppenheim, Nathan Fielder",
+      "releaseDate": "2026-10-16",
+      "posterImage": "xxr7vraqdnoaw0ggxj6tl57gxcy8",
+      "trailerYoutubeId": "HvW_N5p1q44",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null,
+      "letterboxdLid": null
+    },
+    {
+      "name": "Minotaur",
+      "directedBy": "Andrey Zvyagintsev",
+      "releaseDate": "2026-10-14",
+      "posterImage": "5z1wgmdblu6wt5qakrnsig5jtj9v",
+      "trailerYoutubeId": "hTHeFP0mcuk",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null,
+      "letterboxdLid": null
+    },
+    {
+      "name": "The Boy and the Suit of Lights",
+      "directedBy": "Inma de Reyes",
+      "releaseDate": null,
+      "posterImage": "4bpkhsfqotk15lkincoubre3y103",
+      "trailerYoutubeId": "",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null,
+      "letterboxdLid": null
+    },
+    {
+      "name": "FFF: Jacquot de Nantes",
+      "directedBy": "Agnès Varda",
+      "releaseDate": "1991-05-15",
+      "posterImage": "dbg1as8xr69zuidknfan51jas5yz",
+      "trailerYoutubeId": "5Xfsh6oH0io",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null,
+      "letterboxdLid": null
+    },
+    {
+      "name": "Peter Asher: Everywhere Man",
+      "directedBy": "Daniel Geller, Dayna Goldfine",
+      "releaseDate": "2026-06-19",
+      "posterImage": "mhhk47r061b5dfzqvyf05xib93hp",
+      "trailerYoutubeId": "4uFt8bABoZY",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null,
+      "letterboxdLid": null
+    },
+    {
+      "name": "The Man Who Fell to Earth - 50th Anniversary - 4K",
+      "directedBy": "Nicolas Roeg",
+      "releaseDate": "1976-03-18",
+      "posterImage": "a66k9fnxoja9j2234bix9xf2qur2",
+      "trailerYoutubeId": "y72dBnyXUho",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null,
+      "letterboxdLid": null
+    },
+    {
+      "name": "Your Mother Your Mother Your Mother",
+      "directedBy": "Bassam Tariq",
+      "releaseDate": "2026-09-25",
+      "posterImage": "xx1781m1e8b1cwl6buzzog81mz83",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null,
+      "letterboxdLid": null
+    }
+  ],
+  "2026-12-04": [
+    {
+      "name": "The Devils - 4K",
+      "directedBy": "Ken Russell",
+      "releaseDate": "1971-07-16",
+      "posterImage": "o0t2s5q7mrnk9045squpvn4p4fys",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null,
+      "letterboxdLid": null
+    },
+    {
+      "name": "Black Filmmakers Community Network: In Conversation with Precious Mahaga",
+      "directedBy": null,
+      "releaseDate": null,
+      "posterImage": "vwewuxlu65s0xuuuyo0d5eppl24h",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null,
+      "letterboxdLid": null
+    },
+    {
+      "name": "The Devils - 4K",
+      "directedBy": "Ken Russell",
+      "releaseDate": "1971-07-16",
+      "posterImage": "o0t2s5q7mrnk9045squpvn4p4fys",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null,
+      "letterboxdLid": null
+    }
+  ],
+  "2026-12-05": [
+    {
+      "name": "Take 2: Klaus",
+      "directedBy": "Sergio Pablos",
+      "releaseDate": "2019-11-08",
+      "posterImage": "70ji6ucb2xadw71vi5ebh89ngynq",
+      "trailerYoutubeId": "taE3PwurhYM",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null,
+      "letterboxdLid": null
+    },
+    {
+      "name": "The Devils - 4K",
+      "directedBy": "Ken Russell",
+      "releaseDate": "1971-07-16",
+      "posterImage": "o0t2s5q7mrnk9045squpvn4p4fys",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null,
+      "letterboxdLid": null
+    }
+  ],
+  "2026-12-06": [
+    {
+      "name": "The Devils - 4K",
+      "directedBy": "Ken Russell",
+      "releaseDate": "1971-07-16",
+      "posterImage": "o0t2s5q7mrnk9045squpvn4p4fys",
       "trailerYoutubeId": null,
       "tmdbId": null,
       "letterboxdSlug": null,
