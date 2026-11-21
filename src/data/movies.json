@@ -160677,6 +160677,18 @@
       "letterboxdLid": null
     },
     {
+      "name": "La Bola Negra",
+      "directedBy": "Javier Calvo, Javier Ambrossi",
+      "releaseDate": "2026-09-25",
+      "posterImage": "u9p5d22hrze6rj1gc5reu16ja5qo",
+      "trailerYoutubeId": "Yn-UxPIwTsU",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null,
+      "letterboxdLid": null
+    },
+    {
       "name": "You Can See Everything",
       "directedBy": "Lance Oppenheim, Nathan Fielder",
       "releaseDate": "2026-10-16",
@@ -161153,6 +161165,18 @@
       "letterboxdLid": null
     },
     {
+      "name": "La Bola Negra",
+      "directedBy": "Javier Calvo, Javier Ambrossi",
+      "releaseDate": "2026-09-25",
+      "posterImage": "u9p5d22hrze6rj1gc5reu16ja5qo",
+      "trailerYoutubeId": "Yn-UxPIwTsU",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null,
+      "letterboxdLid": null
+    },
+    {
       "name": "American Doctor",
       "directedBy": "Poh Si Teng",
       "releaseDate": "2026-08-14",
@@ -161184,6 +161208,18 @@
       "releaseDate": "2026-08-14",
       "posterImage": "8bxc8t3n20wefmbz1ecme7d5tpw6",
       "trailerYoutubeId": "iHepAlk0r2M",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null,
+      "letterboxdLid": null
+    },
+    {
+      "name": "La Bola Negra",
+      "directedBy": "Javier Calvo, Javier Ambrossi",
+      "releaseDate": "2026-09-25",
+      "posterImage": "u9p5d22hrze6rj1gc5reu16ja5qo",
+      "trailerYoutubeId": "Yn-UxPIwTsU",
       "tmdbId": null,
       "letterboxdSlug": null,
       "letterboxdId": null,
@@ -162181,6 +162217,129 @@
       "letterboxdId": null,
       "letterboxdUrl": null,
       "letterboxdLid": null
+    }
+  ],
+  "2026-12-07": [
+    {
+      "name": "The Devils - 4K",
+      "directedBy": "Ken Russell",
+      "releaseDate": "1971-07-16",
+      "posterImage": "o0t2s5q7mrnk9045squpvn4p4fys",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null,
+      "letterboxdLid": null
+    }
+  ],
+  "2026-12-08": [
+    {
+      "name": "The Devils - 4K",
+      "directedBy": "Ken Russell",
+      "releaseDate": "1971-07-16",
+      "posterImage": "o0t2s5q7mrnk9045squpvn4p4fys",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null,
+      "letterboxdLid": null
+    }
+  ],
+  "2026-12-09": [],
+  "2026-12-10": [
+    {
+      "name": "The Devils - 4K",
+      "directedBy": "Ken Russell",
+      "releaseDate": "1971-07-16",
+      "posterImage": "o0t2s5q7mrnk9045squpvn4p4fys",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null,
+      "letterboxdLid": null
+    }
+  ],
+  "2026-12-11": [
+    {
+      "name": "The Shop Around the Corner",
+      "directedBy": "Ernst Lubitsch",
+      "releaseDate": "1940-01-12",
+      "posterImage": "hi5flodfs1wy80daw7ft8txmdby4",
+      "trailerYoutubeId": null,
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null,
+      "letterboxdLid": null
+    },
+    {
+      "name": "It's A Wonderful Life",
+      "directedBy": "Frank Capra",
+      "releaseDate": "1946-12-20",
+      "posterImage": "fmsqzudqwbrna1pmf99772dvhrp0",
+      "trailerYoutubeId": "iLR3gZrU2Xo",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Bishop's Wife",
+      "directedBy": "Henry Koster",
+      "releaseDate": "1947-12-25",
+      "posterImage": "2mfknnfliv6bxkwpykdvuqej6rsq",
+      "trailerYoutubeId": "bgb6ZRNQTv8",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "It's A Wonderful Life",
+      "directedBy": "Frank Capra",
+      "releaseDate": "1946-12-20",
+      "posterImage": "fmsqzudqwbrna1pmf99772dvhrp0",
+      "trailerYoutubeId": "iLR3gZrU2Xo",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Muppet Christmas Carol",
+      "directedBy": "Brian Henson",
+      "releaseDate": "1992-12-10",
+      "posterImage": "yud0xyt95rk47sqtpbp6u7webdr8",
+      "trailerYoutubeId": "pNo-Q0IDJi0",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "It's A Wonderful Life",
+      "directedBy": "Frank Capra",
+      "releaseDate": "1946-12-20",
+      "posterImage": "fmsqzudqwbrna1pmf99772dvhrp0",
+      "trailerYoutubeId": "iLR3gZrU2Xo",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
+    },
+    {
+      "name": "The Holdovers",
+      "directedBy": "Alexander Payne",
+      "releaseDate": "2023-10-27",
+      "posterImage": "frx2ydtzv1i3qtfpvld6z6iavaac",
+      "trailerYoutubeId": "bAXd27wVpIc",
+      "tmdbId": null,
+      "letterboxdSlug": null,
+      "letterboxdId": null,
+      "letterboxdUrl": null
     }
   ]
 }
